@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Recursos para Psicólogos</title>
+<style>
+  :root{
+    --teal:#4A7C75;--teal-dark:#3B635D;--navy:#1E2535;--beige:#C4A99A;
+    --cream:#F5E8DC;--paper:#FAF4EC;--cream-deep:#EFDECF;--white:#FFFFFF;
+    --ink:#26303F;--muted:#8A8178;--line:#EAD9C9;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;
+    --shadow:0 4px 18px rgba(60,50,40,.06);--shadow-lg:0 18px 44px rgba(60,50,40,.14);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--paper);color:var(--ink);-webkit-font-smoothing:antialiased;display:flex;min-height:100vh}
+  button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+  input{font-family:inherit}
+  a{text-decoration:none;color:inherit}
+
+  .sidebar{width:248px;flex:0 0 248px;background:var(--white);color:var(--ink);border-right:1px solid var(--line);display:flex;flex-direction:column;padding:26px 16px;position:sticky;top:0;height:100vh;overflow-y:auto}
+  .brand{display:flex;align-items:center;gap:12px;padding:2px 8px 24px}
+  .brand .logo{width:42px;height:42px;border-radius:13px;background:var(--teal);display:grid;place-items:center;flex:0 0 42px;box-shadow:0 5px 13px rgba(74,124,117,.32)}
+  .brand .logo svg{width:23px;height:23px}
+  .brand h1{font-family:var(--serif);font-size:21px;font-weight:600;line-height:1;color:var(--ink)}
+  .brand span{font-size:11.5px;color:var(--muted)}
+  .nav-lbl{font-size:10.5px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#B79C89;padding:14px 12px 6px}
+  .nav-item{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:11px 12px;border-radius:11px;color:#5B554E;font-size:14.5px;font-weight:500;transition:.15s;margin-bottom:2px}
+  .nav-item:hover{background:var(--cream);color:var(--ink)}
+  .nav-item.active{background:var(--teal);color:#fff;font-weight:600}
+  .nav-item .ic{width:20px;height:20px;flex:0 0 20px;display:grid;place-items:center}
+  .nav-item .ic svg{width:19px;height:19px}
+  .sidebar-foot{margin-top:auto;padding:16px 12px 2px;font-size:11px;color:var(--muted);line-height:1.55}
+
+  .main{flex:1;min-width:0;display:flex;flex-direction:column}
+  .wrap{max-width:1180px;width:100%;margin:0 auto;padding:34px 44px 70px}
+  .head{display:flex;align-items:flex-end;gap:20px;flex-wrap:wrap;padding-bottom:16px;border-bottom:1px solid var(--line);margin-bottom:28px}
+  .head .titlewrap{flex:1;min-width:220px}
+  .crumb{display:flex;align-items:center;gap:7px;font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--beige);margin-bottom:8px;flex-wrap:wrap}
+  .crumb button{color:var(--beige);font-weight:700;letter-spacing:1px}
+  .crumb button:hover{color:var(--teal)}
+  .crumb .sep{opacity:.6}
+  .head h2{font-family:var(--serif);font-size:40px;font-weight:600;letter-spacing:-.3px;color:var(--ink);display:flex;align-items:center;gap:14px;line-height:1}
+  .head h2 .bemoji{font-size:34px}
+  .backbtn{width:40px;height:40px;border-radius:12px;background:var(--white);border:1px solid var(--line);display:grid;place-items:center;color:var(--ink);box-shadow:var(--shadow);transition:.15s;flex:0 0 40px}
+  .backbtn:hover{background:var(--cream);transform:translateX(-2px)}
+  .backbtn svg{width:19px;height:19px}
+  .counts{font-size:15px;color:var(--muted);padding-bottom:4px;white-space:nowrap}
+  .toolbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:26px}
+  .search{display:flex;align-items:center;gap:9px;background:var(--white);border:1px solid var(--line);padding:10px 15px;border-radius:12px;flex:1;max-width:380px;box-shadow:var(--shadow)}
+  .search svg{width:17px;height:17px;color:var(--beige);flex:0 0 17px}
+  .search input{border:none;outline:none;background:none;font-size:14px;width:100%;color:var(--ink)}
+
+  .fgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
+  @media(max-width:1180px){.fgrid{grid-template-columns:repeat(4,1fr)}}
+  @media(max-width:960px){.fgrid{grid-template-columns:repeat(3,1fr)}}
+  @media(max-width:680px){.fgrid{grid-template-columns:repeat(2,1fr)}}
+  .folder{position:relative;background:var(--tint,#EEE7DE);border:1px solid rgba(60,50,40,.05);border-radius:18px;padding:17px 16px 15px;cursor:pointer;overflow:hidden;box-shadow:0 3px 12px rgba(60,50,40,.05);transition:.16s;min-height:172px;display:flex;flex-direction:column}
+  .folder:hover{transform:translateY(-5px);box-shadow:0 16px 34px rgba(60,50,40,.17)}
+  .folder .ficon{width:50px;height:50px;border-radius:50%;background:#fff;display:grid;place-items:center;font-size:24px;margin-bottom:15px;box-shadow:0 5px 12px rgba(60,50,40,.12)}
+  .folder .fname{font-size:16.5px;font-weight:700;color:var(--ink);line-height:1.22;margin-bottom:auto}
+  .folder .fcount{display:flex;align-items:center;gap:6px;font-size:12.5px;color:var(--muted);font-weight:500;margin-top:8px}
+  .folder .fcount svg{width:14px;height:14px;opacity:.65}
+
+  .cgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
+  @media(max-width:1180px){.cgrid{grid-template-columns:repeat(4,1fr)}}
+  @media(max-width:960px){.cgrid{grid-template-columns:repeat(3,1fr)}}
+  @media(max-width:680px){.cgrid{grid-template-columns:repeat(2,1fr)}}
+  .card{background:var(--white);border-radius:16px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column;transition:.14s;border:1px solid var(--line)}
+  .card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+  .card .preview{position:relative;height:170px;background:linear-gradient(150deg,var(--cream),var(--cream-deep));display:grid;place-items:center;border-bottom:1px solid var(--line);cursor:pointer;overflow:hidden}
+  .card .preview img.pdfthumb{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top center;background:#fff;z-index:1}
+  .card .filetype-badge{position:absolute;left:12px;bottom:12px;z-index:2;font-size:11px;font-weight:800;background:rgba(255,255,255,.92);padding:3px 8px;border-radius:6px;box-shadow:0 2px 6px rgba(30,37,53,.12)}
+  .card .doc-ic{width:48px;height:56px;filter:drop-shadow(0 6px 10px rgba(30,37,53,.14))}
+  .card .body{padding:14px 15px 15px;display:flex;flex-direction:column;flex:1}
+  .card .body h3{font-size:14.5px;font-weight:700;color:var(--ink);line-height:1.3;margin-bottom:12px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .card .dl{margin-top:auto;display:flex;align-items:center;justify-content:center;gap:8px;background:var(--teal);color:#fff;font-weight:600;font-size:13.5px;padding:9px 12px;border-radius:10px;transition:.14s}
+  .card .dl:hover{background:var(--teal-dark)}
+  .card .dl svg{width:16px;height:16px}
+  .card .fsize{font-size:11.5px;color:var(--muted);margin-bottom:10px}
+
+  .announce{display:flex;align-items:center;gap:16px;margin-top:30px;background:linear-gradient(120deg,#fff 0%,var(--cream) 100%);border:1px solid var(--line);border-left:4px solid var(--teal);border-radius:16px;padding:18px 22px;box-shadow:var(--shadow)}
+  .announce .an-ic{flex:0 0 44px;width:44px;height:44px;border-radius:12px;background:var(--teal);display:grid;place-items:center;color:#fff}
+  .announce .an-ic svg{width:23px;height:23px}
+  .announce .an-tt{font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--teal);margin-bottom:3px}
+  .announce .an-tx{font-size:14.5px;color:var(--ink);line-height:1.45}
+
+  .soon-card{max-width:580px;margin:6px auto 0;text-align:center;background:linear-gradient(160deg,#fff 0%,var(--cream) 100%);border:1px solid var(--line);border-radius:20px;padding:46px 34px;box-shadow:var(--shadow)}
+  .soon-ic{width:64px;height:64px;border-radius:18px;background:var(--teal);color:#fff;display:grid;place-items:center;margin:0 auto 20px}
+  .soon-ic svg{width:32px;height:32px}
+  .soon-tt{font-size:12px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--teal);margin-bottom:12px}
+  .soon-tx{font-family:var(--serif);font-size:19px;color:var(--ink);line-height:1.5}
+
+  .empty{text-align:center;padding:64px 20px;color:var(--muted)}
+  .empty .em-ic{width:74px;height:74px;border-radius:20px;background:var(--cream-deep);display:grid;place-items:center;margin:0 auto 18px;color:var(--beige)}
+  .empty .em-ic svg{width:36px;height:36px}
+  .empty h3{font-family:var(--serif);color:var(--ink);font-size:20px;margin-bottom:6px;font-weight:600}
+  .empty p{font-size:14px;max-width:380px;margin:0 auto;line-height:1.5}
+
+  .menu-btn{display:none}
+  @media(max-width:860px){
+    body{flex-direction:column}
+    .sidebar{position:fixed;left:0;top:0;z-index:80;transform:translateX(-100%);transition:.22s;width:250px;flex-basis:auto}
+    .sidebar.open{transform:translateX(0)}
+    .backdrop{display:none;position:fixed;inset:0;background:rgba(30,37,53,.45);z-index:75}
+    .backdrop.show{display:block}
+    .menu-btn{display:grid;place-items:center;width:42px;height:42px;border-radius:11px;background:var(--white);box-shadow:var(--shadow);color:var(--navy);margin-bottom:16px}
+    .menu-btn svg{width:20px;height:20px}
+    .wrap{padding:22px 20px 60px}
+    .head h2{font-size:32px}
+  }
+</style>
+</head>
+<body>
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="logo"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V12"/><path d="M12 12c0-4 2-7 6-7 0 4-2 7-6 7Z"/><path d="M12 15c0-3-2-5-5-5 0 3 2 5 5 5Z"/></svg></div>
+      <div><h1>Recursos</h1><span>Biblioteca clínica</span></div>
+    </div>
+    <nav id="nav"></nav>
+    <div class="sidebar-foot" id="foot"></div>
+  </aside>
+  <div class="backdrop" id="backdrop"></div>
+
+  <main class="main">
+    <div class="wrap">
+      <button class="menu-btn" id="menuBtn" aria-label="Menú"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+      <div class="head">
+        <div class="titlewrap">
+          <div class="crumb" id="crumb"></div>
+          <h2 id="pageTitle"><span id="backSlot"></span><span id="titleText"></span></h2>
+        </div>
+        <div class="counts" id="counts"></div>
+      </div>
+      <div class="toolbar" id="toolbar">
+        <div class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg><input type="text" id="searchInput" placeholder="Buscar…" /></div>
+      </div>
+      <div id="stage"></div>
+      <div class="announce" id="announce" style="display:none">
+        <div class="an-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></div>
+        <div>
+          <div class="an-tt">Próxima actualización</div>
+          <div class="an-tx" id="anTx">Este sábado 8 de agosto sumamos nuevos contenidos: ejes clínicos, orientación clínica, más técnicas para intervenir, y más.</div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+<script src="manifest.js"></script>
+<script>
+const COLORS={
+  teal:{tint:"#E3EEEB"},blue:{tint:"#E4EDF6"},purple:{tint:"#F1E8F6"},orange:{tint:"#FBEADF"},
+  gold:{tint:"#F4ECD6"},green:{tint:"#E9EFE6"},rose:{tint:"#F9E7EA"},gray:{tint:"#ECEAE6"}
+};
+const SECTIONS=[
+  {id:"tematica",label:"Recursos por temática",title:"Clínica",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h5l2 3h9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1Z"/></svg>'},
+  {id:"herramientas",label:"Herramientas de sesión",title:"Sesión",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6a2 2 0 0 1 2-2h11l3 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/><path d="M8 8h6M8 12h8M8 16h5"/></svg>'}
+];
+const SEC_META={tematica:{label:"Recursos por temática",title:"Clínica"},herramientas:{label:"Herramientas de sesión",title:"Sesión"},kitinfantil:{label:"Kit infantil",title:"Kit infantil"}};
+const CAT=window.CATALOG||{folders:[],files:[]};
+function col(k){return COLORS[k]||COLORS.gray}
+function esc(s){return (s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function extOf(n){return (String(n).split(".").pop()||"file").toUpperCase().slice(0,4)}
+function isImage(n){return /\.(png|jpe?g|gif|webp|bmp)$/i.test(n||"")}
+function isPdf(n){return /\.pdf$/i.test(n||"")}
+function fileRank(f){return isPdf(f.name||f.path||"")?0:1}
+function badgeColor(x){const m={PDF:"#B85C38",DOC:"#2B6CB0",DOCX:"#2B6CB0",XLS:"#2F855A",XLSX:"#2F855A",PNG:"#805AD5",JPG:"#805AD5",JPEG:"#805AD5",PPT:"#C05621",PPTX:"#C05621"};return m[x]||"#4A7C75"}
+function fileSize(b){if(!b&&b!==0)return"";if(b<1024)return b+" B";if(b<1048576)return (b/1024).toFixed(0)+" KB";return (b/1048576).toFixed(1)+" MB"}
+function childrenOf(id){return CAT.folders.filter(f=>f.parent===id).sort((a,b)=>(a.order||0)-(b.order||0))}
+function topFolders(sec){return CAT.folders.filter(f=>f.section===sec&&!f.parent).sort((a,b)=>(a.order||0)-(b.order||0))}
+function getFolder(id){return CAT.folders.find(f=>f.id===id)}
+function isLeaf(id){return childrenOf(id).length===0}
+function filesOf(id){return CAT.files.filter(f=>f.folder===id)}
+function countRec(id){const k=childrenOf(id);if(k.length)return k.reduce((a,c)=>a+countRec(c.id),0);return filesOf(id).length}
+function pathTo(id){const p=[];let f=getFolder(id);while(f){p.unshift(f);f=f.parent?getFolder(f.parent):null}return p}
+function sectionsWithContent(){return SECTIONS.filter(s=>topFolders(s.id).length>0)}
+
+let view=(sectionsWithContent()[0]||SECTIONS[0]).id, curFolder=null, searchTerm="";
+
+function renderNav(){
+  const nav=document.getElementById("nav");nav.innerHTML="";
+  const secs=sectionsWithContent();
+  if(secs.length){const l=document.createElement("div");l.className="nav-lbl";l.textContent="Biblioteca";nav.appendChild(l)}
+  secs.forEach(s=>{
+    const b=document.createElement("button");
+    const active=(view===s.id)||(view==="folder"&&folderSection()===s.id);
+    b.className="nav-item"+(active?" active":"");
+    b.innerHTML=`<span class="ic">${s.icon}</span><span>${s.label}</span>`;
+    b.onclick=()=>{view=s.id;curFolder=null;setSearch("");closeSidebar();render()};
+    nav.appendChild(b);
+  });
+  const kb=document.createElement("button");
+  kb.className="nav-item"+(view==="kitinfantil"?" active":"");
+  kb.innerHTML=`<span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8.5 14a4 4 0 0 0 7 0"/><path d="M9 9h.01M15 9h.01"/></svg></span><span>Kit infantil</span>`;
+  kb.onclick=()=>{view="kitinfantil";curFolder=null;setSearch("");closeSidebar();render()};
+  nav.appendChild(kb);
+  const total=CAT.files.length;
+  document.getElementById("foot").innerHTML=`Biblioteca de recursos para profesionales.<br>${total} archivo${total===1?"":"s"} disponibles.`;
+}
+function folderSection(){const f=getFolder(curFolder);return f?f.section:null}
+
+function render(){
+  renderNav();
+  const stage=document.getElementById("stage");
+  document.getElementById("backSlot").innerHTML="";
+  document.getElementById("crumb").innerHTML="";
+  document.getElementById("announce").style.display="none";
+  document.getElementById("toolbar").style.display="flex";
+
+  const kitHasContent=topFolders("kitinfantil").length>0||filesOf("kitinfantil").length>0;
+  if(view==="kitinfantil"&&!kitHasContent){
+    document.getElementById("crumb").textContent="Biblioteca";
+    document.getElementById("titleText").innerHTML='<span class="bemoji">🧸</span> Kit infantil';
+    document.getElementById("counts").textContent="Próxima actualización";
+    document.getElementById("toolbar").style.display="none";
+    stage.innerHTML="";
+    const d=document.createElement("div");d.className="soon-card";
+    d.innerHTML=`<div class="soon-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></div><div class="soon-tt">Próxima actualización</div><p class="soon-tx">El Kit infantil se actualiza el 9 de julio. ¡Muy pronto vas a encontrar acá sus recursos!</p>`;
+    stage.appendChild(d);
+    return;
+  }
+
+  if(view==="folder"){
+    const folder=getFolder(curFolder);
+    if(!folder){view=(sectionsWithContent()[0]||SECTIONS[0]).id;curFolder=null;return render()}
+    const sec=SEC_META[folder.section]||{label:folder.section};
+    const path=pathTo(folder.id);
+    const parts=[`<button data-sec="${folder.section}">${esc(sec.label)}</button>`];
+    path.slice(0,-1).forEach(p=>parts.push(`<span class="sep">›</span><button data-f="${p.id}">${esc(p.name)}</button>`));
+    const cr=document.getElementById("crumb");cr.innerHTML=parts.join("");
+    cr.querySelectorAll("button").forEach(bt=>bt.onclick=()=>{if(bt.dataset.sec){view=bt.dataset.sec;curFolder=null}else curFolder=bt.dataset.f;setSearch("");render()});
+    document.getElementById("titleText").innerHTML=`<span class="bemoji">${folder.emoji||"📁"}</span> ${esc(folder.name)}`;
+    const back=document.createElement("button");back.className="backbtn";
+    back.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>';
+    back.onclick=()=>{if(folder.parent){curFolder=folder.parent}else{view=folder.section;curFolder=null}setSearch("");render()};
+    document.getElementById("backSlot").appendChild(back);
+
+    if(!isLeaf(folder.id)){
+      let kids=childrenOf(folder.id);const tf=kids.reduce((a,k)=>a+countRec(k.id),0);
+      document.getElementById("counts").textContent=`${kids.length} secciones · ${tf} archivo${tf===1?"":"s"}`;
+      document.getElementById("searchInput").placeholder="Buscar sección…";
+      if(searchTerm){const t=searchTerm.toLowerCase();kids=kids.filter(k=>k.name.toLowerCase().includes(t))}
+      stage.innerHTML="";const g=document.createElement("div");g.className="fgrid";
+      kids.forEach(k=>g.appendChild(folderCard(k)));stage.appendChild(g);
+      return;
+    }
+    let files=filesOf(folder.id).slice().sort((a,b)=>(fileRank(a)-fileRank(b))||((b.createdAt||0)-(a.createdAt||0)));
+    if(searchTerm){const t=searchTerm.toLowerCase();files=files.filter(f=>(f.title||"").toLowerCase().includes(t)||(f.name||"").toLowerCase().includes(t))}
+    document.getElementById("counts").textContent=`${files.length} archivo${files.length===1?"":"s"}`;
+    document.getElementById("searchInput").placeholder="Buscar en esta carpeta…";
+    stage.innerHTML="";
+    if(!files.length){stage.appendChild(makeEmpty(searchTerm?"Sin resultados":"Muy pronto",searchTerm?"Probá con otro término.":"Estamos sumando recursos a esta carpeta. ¡Volvé pronto!"));return}
+    const g=document.createElement("div");g.className="cgrid";
+    files.forEach(f=>g.appendChild(fileCard(f)));stage.appendChild(g);
+    return;
+  }
+
+  // section view (temática / herramientas / kit infantil con contenido)
+  const meta=SEC_META[view]||{label:view,title:view};
+  document.getElementById("crumb").textContent=meta.label;
+  document.getElementById("titleText").textContent=meta.title;
+  let list=topFolders(view);
+  const loose=filesOf(view).slice().sort((a,b)=>(fileRank(a)-fileRank(b))||((b.createdAt||0)-(a.createdAt||0)));
+  const tf=list.reduce((a,f)=>a+countRec(f.id),0)+loose.length;
+  document.getElementById("counts").textContent=`${list.length} carpeta${list.length===1?"":"s"} · ${tf} archivo${tf===1?"":"s"}`;
+  document.getElementById("searchInput").placeholder="Buscar carpeta…";
+  let flist=list;
+  if(searchTerm){const t=searchTerm.toLowerCase();flist=list.filter(f=>f.name.toLowerCase().includes(t))}
+  stage.innerHTML="";
+  if(!flist.length&&!loose.length){stage.appendChild(makeEmpty("Sin resultados","No hay carpetas que coincidan."));}
+  else{
+    if(flist.length){const g=document.createElement("div");g.className="fgrid";flist.forEach(f=>g.appendChild(folderCard(f)));stage.appendChild(g)}
+    if(!searchTerm&&loose.length){
+      const lbl=document.createElement("div");lbl.style.cssText="margin:30px 0 12px;font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:#B79C89";lbl.textContent="Recursos";
+      stage.appendChild(lbl);
+      const cg=document.createElement("div");cg.className="cgrid";loose.forEach(f=>cg.appendChild(fileCard(f)));stage.appendChild(cg);
+    }
+  }
+  document.getElementById("anTx").textContent = (view==="kitinfantil")
+    ? "El sábado 8 de agosto se van a agregar nuevos recursos al Kit infantil."
+    : "Este sábado 8 de agosto sumamos nuevos contenidos: ejes clínicos, orientación clínica, más técnicas para intervenir, y más.";
+  document.getElementById("announce").style.display="flex";
+}
+
+function folderCard(f){
+  const c=col(f.color);const container=!isLeaf(f.id);const count=countRec(f.id);
+  const el=document.createElement("div");el.className="folder";el.style.setProperty("--tint",c.tint);
+  el.innerHTML=`
+    <div class="ficon">${f.emoji||"📁"}</div>
+    <div class="fname">${esc(f.name)}</div>
+    <div class="fcount"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 3 8l9 5 9-5-9-5Z"/><path d="M3 13l9 5 9-5"/></svg>${container?childrenOf(f.id).length+" secciones":count+" archivo"+(count===1?"":"s")}</div>`;
+  el.onclick=()=>{view="folder";curFolder=f.id;setSearch("");render()};
+  return el;
+}
+function fileCard(f){
+  const ext=extOf(f.name||f.path);
+  const hasThumb=typeof f.thumb==="string"&&f.thumb.length>0;
+  const src=hasThumb?f.thumb:(isImage(f.name||f.path)?f.path:null);
+  const visual=src?`<img class="pdfthumb" src="${esc(src)}" alt="" loading="lazy">`
+    :`<svg class="doc-ic" viewBox="0 0 48 56" fill="none"><path d="M6 2h26l10 10v40a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Z" fill="#fff" stroke="#C4A99A" stroke-width="1.5"/><path d="M32 2v10h10" fill="#F5E8DC" stroke="#C4A99A" stroke-width="1.5"/><rect x="11" y="24" width="26" height="3" rx="1.5" fill="#E3D3C6"/><rect x="11" y="31" width="26" height="3" rx="1.5" fill="#E3D3C6"/><rect x="11" y="38" width="17" height="3" rx="1.5" fill="#E3D3C6"/></svg>`;
+  const card=document.createElement("div");card.className="card";
+  card.innerHTML=`
+    <div class="preview">${visual}<span class="filetype-badge" style="color:${badgeColor(ext)}">${ext}</span></div>
+    <div class="body">
+      <h3>${esc(f.title||f.name)}</h3>
+      <div class="fsize">${fileSize(f.size)}</div>
+      <a class="dl" href="${esc(f.path)}" download="${esc(f.name||'')}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg> Descargar</a>
+    </div>`;
+  card.querySelector(".preview").onclick=()=>window.open(f.path,"_blank");
+  return card;
+}
+function makeEmpty(t,h){const d=document.createElement("div");d.className="empty";d.innerHTML=`<div class="em-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h5l2 3h9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1Z"/></svg></div><h3>${t}</h3><p>${h}</p>`;return d}
+function setSearch(v){searchTerm=v;document.getElementById("searchInput").value=v}
+function closeSidebar(){document.getElementById("sidebar").classList.remove("open");document.getElementById("backdrop").classList.remove("show")}
+document.getElementById("searchInput").oninput=e=>{searchTerm=e.target.value;render()};
+document.getElementById("menuBtn").onclick=()=>{document.getElementById("sidebar").classList.add("open");document.getElementById("backdrop").classList.add("show")};
+document.getElementById("backdrop").onclick=closeSidebar;
+render();
+</script>
+</body>
+</html>
