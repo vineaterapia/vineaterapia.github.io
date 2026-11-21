@@ -306,7 +306,7 @@ function sectionFileCount(sec){
 }
 function pathTo(id){const p=[];let f=getFolder(id);while(f){p.unshift(f);f=f.parent?getFolder(f.parent):null}return p}
 
-let view="all", curFolder=null, searchTerm="", activeType="all";
+let view="home", curFolder=null, searchTerm="", activeType="all";
 
 function renderNav(){
   const nav=document.getElementById("nav");nav.innerHTML="";
@@ -350,7 +350,7 @@ function render(){
   document.getElementById("backSlot").innerHTML="";
   document.getElementById("crumb").innerHTML="";
   document.getElementById("clearSearch").classList.toggle("show",searchTerm.length>0);
-  const isHome=(view==="all"&&!searchTerm.trim()&&activeType==="all");
+  const isHome=(view==="home"&&!searchTerm.trim()&&activeType==="all");
   document.body.classList.toggle("is-home",isHome);
 
   if(view==="folder"){
@@ -410,8 +410,9 @@ function render(){
     return;
   }
 
-  // Section view (all / tematica / herramientas / kitinfantil / cuadernillos)
-  const meta=SEC_META[view]||{label:view,title:view};
+  // Section view (home / all / tematica / herramientas / kitinfantil / cuadernillos)
+  const secView=(view==="home")?"all":view;
+  const meta=SEC_META[secView]||{label:secView,title:secView};
   document.getElementById("crumb").textContent=meta.label;
   document.getElementById("titleText").textContent=meta.title;
 
@@ -436,16 +437,16 @@ function render(){
     return;
   }
 
-  const list=topFolders(view);
-  const loose=view==="all"?[]:filesOf(view);
-  const tf=sectionFileCount(view);
+  const list=topFolders(secView);
+  const loose=secView==="all"?[]:filesOf(secView);
+  const tf=sectionFileCount(secView);
   document.getElementById("counts").textContent=`${list.length} carpeta${list.length===1?"":"s"} · ${tf} recursos`;
   document.getElementById("searchInput").placeholder="Busca por diagnóstico, tipo de terapia, recurso específico, protocolo o herramienta";
 
   const showGlobalResults = searchTerm.trim().length > 0 || activeType !== "all";
   renderFilterChips(true);
 
-  if(view==="all"&&!showGlobalResults){
+  if(view==="home"&&!showGlobalResults){
     stage.innerHTML="";
     return;
   }
@@ -459,7 +460,7 @@ function render(){
   }
 
   if(showGlobalResults){
-    const allowedFolders=view==="all"?null:new Set([...CAT.folders.filter(f=>f.section===view).map(f=>f.id),view]);
+    const allowedFolders=secView==="all"?null:new Set([...CAT.folders.filter(f=>f.section===secView).map(f=>f.id),secView]);
     let pool=allowedFolders?CAT.files.filter(f=>allowedFolders.has(f.folder)):CAT.files;
     pool=filterByType(pool);
     if(searchTerm){const t=norm(searchTerm);pool=pool.filter(f=>norm(f.title).includes(t)||norm(f.name).includes(t)||norm((getFolder(f.folder)||{}).name||"").includes(t))}
@@ -546,7 +547,7 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
 function makeEmpty(t,h){const d=document.createElement("div");d.className="empty";d.innerHTML=`<div class="em-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h5l2 3h9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1Z"/></svg></div><h3>${t}</h3><p>${h}</p>`;return d}
 function setSearch(v){searchTerm=v;document.getElementById("searchInput").value=v}
 function closeSidebar(){document.getElementById("sidebar").classList.remove("open");document.getElementById("backdrop").classList.remove("show")}
-function goHome(){view="all";curFolder=null;activeType="all";setSearch("");closeSidebar();render();window.scrollTo({top:0,behavior:"smooth"})}
+function goHome(){view="home";curFolder=null;activeType="all";setSearch("");closeSidebar();render();window.scrollTo({top:0,behavior:"smooth"})}
 const brandHome=document.getElementById("brandHome");
 brandHome.onclick=goHome;
 brandHome.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();goHome()}};
