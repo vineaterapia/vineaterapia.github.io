@@ -1,0 +1,1004 @@
+%PDF-1.6
+%âãÏÓ
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /ZapfDingbats >>
+endobj
+5 0 obj
+<< /Type /Pages /Kids [163 0 R 165 0 R] /Count 2 >>
+endobj
+6 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 197.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 196.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_hdr_r0_c0) /V () /Ff 0 /F 4 /Rect [48.00 653.00 245.00 675.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 6 0 R >> >>
+endobj
+8 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 87.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 86.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_hdr_r0_c1) /V () /Ff 0 /F 4 /Rect [253.00 653.00 340.00 675.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 8 0 R >> >>
+endobj
+10 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 199.28 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 198.68 21.40 re B /Tx BMC EMC
+endstream
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_hdr_r0_c2) /V () /Ff 0 /F 4 /Rect [348.00 653.00 547.28 675.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 10 0 R >> >>
+endobj
+12 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+13 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q1_o0) /V /Off /AS /Off /F 4 /Rect [315.78 501.80 328.78 514.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 12 0 R /Yes 13 0 R >> /D << /Off 12 0 R /Yes 13 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q1_o1'\).value='Off'; this.getField\('ros_q1_o2'\).value='Off'; this.getField\('ros_q1_o3'\).value='Off'; this.getField\('ros_p1'\).value=3; } else { this.getField\('ros_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+15 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+16 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q1_o1) /V /Off /AS /Off /F 4 /Rect [369.78 501.80 382.78 514.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 15 0 R /Yes 16 0 R >> /D << /Off 15 0 R /Yes 16 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q1_o0'\).value='Off'; this.getField\('ros_q1_o2'\).value='Off'; this.getField\('ros_q1_o3'\).value='Off'; this.getField\('ros_p1'\).value=2; } else { this.getField\('ros_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+18 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+19 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q1_o2) /V /Off /AS /Off /F 4 /Rect [423.78 501.80 436.78 514.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 18 0 R /Yes 19 0 R >> /D << /Off 18 0 R /Yes 19 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q1_o0'\).value='Off'; this.getField\('ros_q1_o1'\).value='Off'; this.getField\('ros_q1_o3'\).value='Off'; this.getField\('ros_p1'\).value=1; } else { this.getField\('ros_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+21 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+22 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+23 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q1_o3) /V /Off /AS /Off /F 4 /Rect [477.78 501.80 490.78 514.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 21 0 R /Yes 22 0 R >> /D << /Off 21 0 R /Yes 22 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q1_o0'\).value='Off'; this.getField\('ros_q1_o1'\).value='Off'; this.getField\('ros_q1_o2'\).value='Off'; this.getField\('ros_p1'\).value=0; } else { this.getField\('ros_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+24 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p1) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 502.80 546.28 524.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 24 0 R >> >>
+endobj
+26 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+27 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+28 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q2_o0) /V /Off /AS /Off /F 4 /Rect [315.78 461.80 328.78 474.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 26 0 R /Yes 27 0 R >> /D << /Off 26 0 R /Yes 27 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q2_o1'\).value='Off'; this.getField\('ros_q2_o2'\).value='Off'; this.getField\('ros_q2_o3'\).value='Off'; this.getField\('ros_p2'\).value=0; } else { this.getField\('ros_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+29 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+30 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+31 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q2_o1) /V /Off /AS /Off /F 4 /Rect [369.78 461.80 382.78 474.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 29 0 R /Yes 30 0 R >> /D << /Off 29 0 R /Yes 30 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q2_o0'\).value='Off'; this.getField\('ros_q2_o2'\).value='Off'; this.getField\('ros_q2_o3'\).value='Off'; this.getField\('ros_p2'\).value=1; } else { this.getField\('ros_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+32 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+33 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+34 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q2_o2) /V /Off /AS /Off /F 4 /Rect [423.78 461.80 436.78 474.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 32 0 R /Yes 33 0 R >> /D << /Off 32 0 R /Yes 33 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q2_o0'\).value='Off'; this.getField\('ros_q2_o1'\).value='Off'; this.getField\('ros_q2_o3'\).value='Off'; this.getField\('ros_p2'\).value=2; } else { this.getField\('ros_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+35 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+36 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+37 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q2_o3) /V /Off /AS /Off /F 4 /Rect [477.78 461.80 490.78 474.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 35 0 R /Yes 36 0 R >> /D << /Off 35 0 R /Yes 36 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q2_o0'\).value='Off'; this.getField\('ros_q2_o1'\).value='Off'; this.getField\('ros_q2_o2'\).value='Off'; this.getField\('ros_p2'\).value=3; } else { this.getField\('ros_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+38 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+39 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p2) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 462.80 546.28 484.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 38 0 R >> >>
+endobj
+40 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+41 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+42 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q3_o0) /V /Off /AS /Off /F 4 /Rect [315.78 421.80 328.78 434.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 40 0 R /Yes 41 0 R >> /D << /Off 40 0 R /Yes 41 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q3_o1'\).value='Off'; this.getField\('ros_q3_o2'\).value='Off'; this.getField\('ros_q3_o3'\).value='Off'; this.getField\('ros_p3'\).value=3; } else { this.getField\('ros_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+43 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+44 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+45 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q3_o1) /V /Off /AS /Off /F 4 /Rect [369.78 421.80 382.78 434.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 43 0 R /Yes 44 0 R >> /D << /Off 43 0 R /Yes 44 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q3_o0'\).value='Off'; this.getField\('ros_q3_o2'\).value='Off'; this.getField\('ros_q3_o3'\).value='Off'; this.getField\('ros_p3'\).value=2; } else { this.getField\('ros_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+46 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+47 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+48 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q3_o2) /V /Off /AS /Off /F 4 /Rect [423.78 421.80 436.78 434.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 46 0 R /Yes 47 0 R >> /D << /Off 46 0 R /Yes 47 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q3_o0'\).value='Off'; this.getField\('ros_q3_o1'\).value='Off'; this.getField\('ros_q3_o3'\).value='Off'; this.getField\('ros_p3'\).value=1; } else { this.getField\('ros_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+49 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+50 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+51 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q3_o3) /V /Off /AS /Off /F 4 /Rect [477.78 421.80 490.78 434.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 49 0 R /Yes 50 0 R >> /D << /Off 49 0 R /Yes 50 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q3_o0'\).value='Off'; this.getField\('ros_q3_o1'\).value='Off'; this.getField\('ros_q3_o2'\).value='Off'; this.getField\('ros_p3'\).value=0; } else { this.getField\('ros_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+52 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+53 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p3) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 422.80 546.28 444.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 52 0 R >> >>
+endobj
+54 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+55 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+56 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q4_o0) /V /Off /AS /Off /F 4 /Rect [315.78 381.80 328.78 394.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 54 0 R /Yes 55 0 R >> /D << /Off 54 0 R /Yes 55 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q4_o1'\).value='Off'; this.getField\('ros_q4_o2'\).value='Off'; this.getField\('ros_q4_o3'\).value='Off'; this.getField\('ros_p4'\).value=3; } else { this.getField\('ros_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+57 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+58 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+59 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q4_o1) /V /Off /AS /Off /F 4 /Rect [369.78 381.80 382.78 394.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 57 0 R /Yes 58 0 R >> /D << /Off 57 0 R /Yes 58 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q4_o0'\).value='Off'; this.getField\('ros_q4_o2'\).value='Off'; this.getField\('ros_q4_o3'\).value='Off'; this.getField\('ros_p4'\).value=2; } else { this.getField\('ros_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+60 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+61 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+62 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q4_o2) /V /Off /AS /Off /F 4 /Rect [423.78 381.80 436.78 394.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 60 0 R /Yes 61 0 R >> /D << /Off 60 0 R /Yes 61 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q4_o0'\).value='Off'; this.getField\('ros_q4_o1'\).value='Off'; this.getField\('ros_q4_o3'\).value='Off'; this.getField\('ros_p4'\).value=1; } else { this.getField\('ros_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+63 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+64 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+65 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q4_o3) /V /Off /AS /Off /F 4 /Rect [477.78 381.80 490.78 394.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 63 0 R /Yes 64 0 R >> /D << /Off 63 0 R /Yes 64 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q4_o0'\).value='Off'; this.getField\('ros_q4_o1'\).value='Off'; this.getField\('ros_q4_o2'\).value='Off'; this.getField\('ros_p4'\).value=0; } else { this.getField\('ros_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+66 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+67 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p4) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 382.80 546.28 404.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 66 0 R >> >>
+endobj
+68 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+69 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+70 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q5_o0) /V /Off /AS /Off /F 4 /Rect [315.78 341.80 328.78 354.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 68 0 R /Yes 69 0 R >> /D << /Off 68 0 R /Yes 69 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q5_o1'\).value='Off'; this.getField\('ros_q5_o2'\).value='Off'; this.getField\('ros_q5_o3'\).value='Off'; this.getField\('ros_p5'\).value=0; } else { this.getField\('ros_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+71 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+72 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+73 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q5_o1) /V /Off /AS /Off /F 4 /Rect [369.78 341.80 382.78 354.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 71 0 R /Yes 72 0 R >> /D << /Off 71 0 R /Yes 72 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q5_o0'\).value='Off'; this.getField\('ros_q5_o2'\).value='Off'; this.getField\('ros_q5_o3'\).value='Off'; this.getField\('ros_p5'\).value=1; } else { this.getField\('ros_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+74 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+75 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+76 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q5_o2) /V /Off /AS /Off /F 4 /Rect [423.78 341.80 436.78 354.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 74 0 R /Yes 75 0 R >> /D << /Off 74 0 R /Yes 75 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q5_o0'\).value='Off'; this.getField\('ros_q5_o1'\).value='Off'; this.getField\('ros_q5_o3'\).value='Off'; this.getField\('ros_p5'\).value=2; } else { this.getField\('ros_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+77 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+78 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+79 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q5_o3) /V /Off /AS /Off /F 4 /Rect [477.78 341.80 490.78 354.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 77 0 R /Yes 78 0 R >> /D << /Off 77 0 R /Yes 78 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q5_o0'\).value='Off'; this.getField\('ros_q5_o1'\).value='Off'; this.getField\('ros_q5_o2'\).value='Off'; this.getField\('ros_p5'\).value=3; } else { this.getField\('ros_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+80 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+81 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p5) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 342.80 546.28 364.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 80 0 R >> >>
+endobj
+82 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+83 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+84 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q6_o0) /V /Off /AS /Off /F 4 /Rect [315.78 301.80 328.78 314.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 82 0 R /Yes 83 0 R >> /D << /Off 82 0 R /Yes 83 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q6_o1'\).value='Off'; this.getField\('ros_q6_o2'\).value='Off'; this.getField\('ros_q6_o3'\).value='Off'; this.getField\('ros_p6'\).value=0; } else { this.getField\('ros_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+85 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+86 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+87 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q6_o1) /V /Off /AS /Off /F 4 /Rect [369.78 301.80 382.78 314.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 85 0 R /Yes 86 0 R >> /D << /Off 85 0 R /Yes 86 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q6_o0'\).value='Off'; this.getField\('ros_q6_o2'\).value='Off'; this.getField\('ros_q6_o3'\).value='Off'; this.getField\('ros_p6'\).value=1; } else { this.getField\('ros_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+88 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+89 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+90 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q6_o2) /V /Off /AS /Off /F 4 /Rect [423.78 301.80 436.78 314.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 88 0 R /Yes 89 0 R >> /D << /Off 88 0 R /Yes 89 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q6_o0'\).value='Off'; this.getField\('ros_q6_o1'\).value='Off'; this.getField\('ros_q6_o3'\).value='Off'; this.getField\('ros_p6'\).value=2; } else { this.getField\('ros_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+91 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+92 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+93 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q6_o3) /V /Off /AS /Off /F 4 /Rect [477.78 301.80 490.78 314.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 91 0 R /Yes 92 0 R >> /D << /Off 91 0 R /Yes 92 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q6_o0'\).value='Off'; this.getField\('ros_q6_o1'\).value='Off'; this.getField\('ros_q6_o2'\).value='Off'; this.getField\('ros_p6'\).value=3; } else { this.getField\('ros_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+94 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+95 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p6) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 302.80 546.28 324.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 94 0 R >> >>
+endobj
+96 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+97 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+98 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q7_o0) /V /Off /AS /Off /F 4 /Rect [315.78 261.80 328.78 274.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 96 0 R /Yes 97 0 R >> /D << /Off 96 0 R /Yes 97 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q7_o1'\).value='Off'; this.getField\('ros_q7_o2'\).value='Off'; this.getField\('ros_q7_o3'\).value='Off'; this.getField\('ros_p7'\).value=3; } else { this.getField\('ros_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+99 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+100 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+101 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q7_o1) /V /Off /AS /Off /F 4 /Rect [369.78 261.80 382.78 274.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 99 0 R /Yes 100 0 R >> /D << /Off 99 0 R /Yes 100 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q7_o0'\).value='Off'; this.getField\('ros_q7_o2'\).value='Off'; this.getField\('ros_q7_o3'\).value='Off'; this.getField\('ros_p7'\).value=2; } else { this.getField\('ros_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+102 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+103 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+104 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q7_o2) /V /Off /AS /Off /F 4 /Rect [423.78 261.80 436.78 274.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 102 0 R /Yes 103 0 R >> /D << /Off 102 0 R /Yes 103 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q7_o0'\).value='Off'; this.getField\('ros_q7_o1'\).value='Off'; this.getField\('ros_q7_o3'\).value='Off'; this.getField\('ros_p7'\).value=1; } else { this.getField\('ros_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+105 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+106 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+107 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q7_o3) /V /Off /AS /Off /F 4 /Rect [477.78 261.80 490.78 274.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 105 0 R /Yes 106 0 R >> /D << /Off 105 0 R /Yes 106 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q7_o0'\).value='Off'; this.getField\('ros_q7_o1'\).value='Off'; this.getField\('ros_q7_o2'\).value='Off'; this.getField\('ros_p7'\).value=0; } else { this.getField\('ros_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+108 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+109 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p7) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 262.80 546.28 284.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 108 0 R >> >>
+endobj
+110 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+111 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+112 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q8_o0) /V /Off /AS /Off /F 4 /Rect [315.78 221.80 328.78 234.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 110 0 R /Yes 111 0 R >> /D << /Off 110 0 R /Yes 111 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q8_o1'\).value='Off'; this.getField\('ros_q8_o2'\).value='Off'; this.getField\('ros_q8_o3'\).value='Off'; this.getField\('ros_p8'\).value=0; } else { this.getField\('ros_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+113 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+114 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+115 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q8_o1) /V /Off /AS /Off /F 4 /Rect [369.78 221.80 382.78 234.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 113 0 R /Yes 114 0 R >> /D << /Off 113 0 R /Yes 114 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q8_o0'\).value='Off'; this.getField\('ros_q8_o2'\).value='Off'; this.getField\('ros_q8_o3'\).value='Off'; this.getField\('ros_p8'\).value=1; } else { this.getField\('ros_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+116 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+117 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+118 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q8_o2) /V /Off /AS /Off /F 4 /Rect [423.78 221.80 436.78 234.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 116 0 R /Yes 117 0 R >> /D << /Off 116 0 R /Yes 117 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q8_o0'\).value='Off'; this.getField\('ros_q8_o1'\).value='Off'; this.getField\('ros_q8_o3'\).value='Off'; this.getField\('ros_p8'\).value=2; } else { this.getField\('ros_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+119 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+120 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+121 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q8_o3) /V /Off /AS /Off /F 4 /Rect [477.78 221.80 490.78 234.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 119 0 R /Yes 120 0 R >> /D << /Off 119 0 R /Yes 120 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q8_o0'\).value='Off'; this.getField\('ros_q8_o1'\).value='Off'; this.getField\('ros_q8_o2'\).value='Off'; this.getField\('ros_p8'\).value=3; } else { this.getField\('ros_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+122 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+123 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p8) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 222.80 546.28 244.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 122 0 R >> >>
+endobj
+124 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+125 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+126 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q9_o0) /V /Off /AS /Off /F 4 /Rect [315.78 181.80 328.78 194.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 124 0 R /Yes 125 0 R >> /D << /Off 124 0 R /Yes 125 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q9_o1'\).value='Off'; this.getField\('ros_q9_o2'\).value='Off'; this.getField\('ros_q9_o3'\).value='Off'; this.getField\('ros_p9'\).value=0; } else { this.getField\('ros_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+127 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+128 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+129 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q9_o1) /V /Off /AS /Off /F 4 /Rect [369.78 181.80 382.78 194.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 127 0 R /Yes 128 0 R >> /D << /Off 127 0 R /Yes 128 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q9_o0'\).value='Off'; this.getField\('ros_q9_o2'\).value='Off'; this.getField\('ros_q9_o3'\).value='Off'; this.getField\('ros_p9'\).value=1; } else { this.getField\('ros_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+130 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+131 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+132 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q9_o2) /V /Off /AS /Off /F 4 /Rect [423.78 181.80 436.78 194.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 130 0 R /Yes 131 0 R >> /D << /Off 130 0 R /Yes 131 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q9_o0'\).value='Off'; this.getField\('ros_q9_o1'\).value='Off'; this.getField\('ros_q9_o3'\).value='Off'; this.getField\('ros_p9'\).value=2; } else { this.getField\('ros_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+133 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+134 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+135 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q9_o3) /V /Off /AS /Off /F 4 /Rect [477.78 181.80 490.78 194.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 133 0 R /Yes 134 0 R >> /D << /Off 133 0 R /Yes 134 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q9_o0'\).value='Off'; this.getField\('ros_q9_o1'\).value='Off'; this.getField\('ros_q9_o2'\).value='Off'; this.getField\('ros_p9'\).value=3; } else { this.getField\('ros_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+136 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+137 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p9) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 182.80 546.28 204.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 136 0 R >> >>
+endobj
+138 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+139 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+140 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q10_o0) /V /Off /AS /Off /F 4 /Rect [315.78 141.80 328.78 154.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 138 0 R /Yes 139 0 R >> /D << /Off 138 0 R /Yes 139 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q10_o1'\).value='Off'; this.getField\('ros_q10_o2'\).value='Off'; this.getField\('ros_q10_o3'\).value='Off'; this.getField\('ros_p10'\).value=3; } else { this.getField\('ros_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+141 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+142 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+143 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q10_o1) /V /Off /AS /Off /F 4 /Rect [369.78 141.80 382.78 154.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 141 0 R /Yes 142 0 R >> /D << /Off 141 0 R /Yes 142 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q10_o0'\).value='Off'; this.getField\('ros_q10_o2'\).value='Off'; this.getField\('ros_q10_o3'\).value='Off'; this.getField\('ros_p10'\).value=2; } else { this.getField\('ros_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+144 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+145 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+146 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q10_o2) /V /Off /AS /Off /F 4 /Rect [423.78 141.80 436.78 154.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 144 0 R /Yes 145 0 R >> /D << /Off 144 0 R /Yes 145 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q10_o0'\).value='Off'; this.getField\('ros_q10_o1'\).value='Off'; this.getField\('ros_q10_o3'\).value='Off'; this.getField\('ros_p10'\).value=1; } else { this.getField\('ros_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+147 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B
+endstream
+endobj
+148 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 13.00 13.00] /Length 120 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 12.20 12.20 re B 0.30 0.18 0.48 RG 1.8 w 2.86 6.76 m 5.72 3.25 l 10.40 9.88 l S
+endstream
+endobj
+149 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (ros_q10_o3) /V /Off /AS /Off /F 4 /Rect [477.78 141.80 490.78 154.80] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 147 0 R /Yes 148 0 R >> /D << /Off 147 0 R /Yes 148 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('ros_q10_o0'\).value='Off'; this.getField\('ros_q10_o1'\).value='Off'; this.getField\('ros_q10_o2'\).value='Off'; this.getField\('ros_p10'\).value=0; } else { this.getField\('ros_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+150 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+151 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_p10) /V () /Ff 0 /Q 1 /F 4 /Rect [516.28 142.80 546.28 164.80] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 150 0 R >> >>
+endobj
+152 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 52.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 51.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+153 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_total) /V () /Ff 1 /Q 1 /F 4 /Rect [304.00 94.80 356.00 116.80] /DA (/F1 11.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 152 0 R >> /AA << /C << /S /JavaScript /JS (var s=0; var any=false; for\(var i=1;i<=10;i++\){ var v=this.getField\('ros_p'+i\).value; if\(v!=='' && !isNaN\(Number\(v\)\)\){ s+=Number\(v\); any=true; } } event.value = any ? s : '';) >> >> >>
+endobj
+154 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 176.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 175.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+155 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_interp) /V () /Ff 1 /Q 1 /F 4 /Rect [364.00 94.80 540.00 116.80] /DA (/F1 9.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 154 0 R >> /AA << /C << /S /JavaScript /JS (var v=this.getField\('ros_total'\).value; if\(v==='' || isNaN\(Number\(v\)\)\){ event.value=''; } else { var n=Number\(v\); if\(n<=10\){ event.value='Autoestima baja \(0-10\)'; } else if\(n<=20\){ event.value='Autoestima moderada \(11-20\)'; } else { event.value='Autoestima alta \(21-30\)'; } }) >> >> >>
+endobj
+156 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 56.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 55.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+157 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_total_p2) /V () /Ff 1 /Q 1 /F 4 /Rect [189.00 401.90 245.00 423.90] /DA (/F1 11.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 156 0 R >> /AA << /C << /S /JavaScript /JS (event.value = this.getField\('ros_total'\).value;) >> >> >>
+endobj
+158 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 284.00 22.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 283.40 21.40 re B /Tx BMC EMC
+endstream
+endobj
+159 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_interp_p2) /V () /Ff 1 /Q 1 /F 4 /Rect [254.00 401.90 538.00 423.90] /DA (/F1 9.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 158 0 R >> /AA << /C << /S /JavaScript /JS (event.value = this.getField\('ros_interp'\).value;) >> >> >>
+endobj
+160 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 485.28 150.00] /Resources << /Font << /F1 1 0 R >> >> /Length 71 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 484.68 149.40 re B /Tx BMC EMC
+endstream
+endobj
+161 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (ros_obs) /V () /Ff 4096 /F 4 /Rect [55.00 188.59 540.28 338.59] /DA (/F1 8.9 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 160 0 R >> >>
+endobj
+162 0 obj
+<< /Filter /FlateDecode /Length 5512 >>
+stream
+xœÅÍ’ÛF–…÷~
+,í÷f&~z'ËêEØ–CU•6p%ÓÁ"Õ$K˜‡šW˜å¬ç	´œ…W³ójÈ{y®%«Àb„7%]‘ÈŸÃÎAòª^õ]]Õ«¾éÇŸ=W‡7ŸÕ«zü·ø#ôaÅ]ÕyZu}uXW¯ã‹=s|µk»ñˆÎç#ºÚÇ¸¶8¤›lú©«àª—ÿ˜ş±úy—ûKõ¶ºŠ¯s?vDmúnàW×Õ—çª[…ºº~]ùéİuã×·ÕçÏşıÉ7?<yúü¾«¾¿zşôÅ·ÿ}ıòùÓ'UõUõìêé“oT_?«^¾¸zöİWÏ^ş£zõù“®_üÛÕß>yõÅÕõÏÕ³ëØ³§±Oîı8öÚç]ìÙIÏaÕø²ëïß¿Ùì†ŠªÛuÅ±á§÷ëãi³ß‡Í¾lûc"–²»f,&azïú)û±8İxyÅ»Ín=œÖ‡áífXİìï>1îŒÆ¦şõY˜×:F÷YğÓè¤ŞÆ:~†½Ö!PzÕÇ¶æjÒöæ3­»FÕº_9ª´¥>µ$ı¤êF‡ÑK·¾;2­iF‹&'eÂ6—Óø¤z9Ï›Ï¾úCÙ£Î<éNñoñ”k›&¯Ü¼:Çùìêúù·¿[«/¯]=l™öS³±ŸÚ­B¨ZŸûùv8ÜÕ}\©û·7›ÿÛUo÷‡êõf;ü­Zo«·÷»Óğóz\Ã7ÃíPızZßU¿Œ¯ÖÇûíi¸İW§ıiØVÇuu¼¿vÕpÚß½?mn†»õî´.LCãªpít}i>º`â?†¸`ü4æ&ı1.˜fü ¥Lü‹×Z–@3şáçÊã‚¡€†ÚUüP¤¥–Ó—ú‘êF†!å´`8¿WVAjF‹P.Â6—ÓøR#2t˜çGŒ¼«7jôF¾T£­K5ÚúOWC†OŸºT£/ÕèE×*œL¬n§iç«áxq©«ògi
+ı´æCH…É$â’ÿúÉõ‹«ñ\šİá/k2„¶BšòÇ¯ÈpÌ]^‘©şÔÕ¸•«1ÕM|¥jº<ôïöw?ÆN¿¬îwÓùWœaŒgLÅ åCûäØYİ–}ş}}óÓ 8™˜vâàóyh'¾®WQ§¢“ïû×ëãhÛ8»?×‡wÃx=š?™^*Âè-\9 ¯-ÒÙèÒÙÄ‹zk·j­Ù=•Ÿ+1­[Öc¥šĞ–ÚZJı´rVÈ0Z9£¦±)}W4£…˜Š”AüOËi|ÒH:Ìs¼¶,VŠS'Y*Ó\)•‹8Kå|]%W"•Ö*U®§9jKiúÚJ¥ãP­8u¡Â¦îUt­Xu W®Ó*-É‡ó=K2gVWˆ§ÈäFN¯ÕaÕÏ‘oÕ«â(r%’iİæ˜$õ4Qm)‰ ı¨dÎ,/ëËÁsf…9³Ä¬1‹Ìın•Eu’.>”÷Æ2Ğxuè\ø×‡fº>dw“:»›Ôr-m=ı£V<¾–İ­q›¸ºfwk<î&ÕMTº›”rKÍháP†°Íå4¾Ôˆæ™”úß¤a$‹™½^MWç -óc.“ëæOSC†“OŸ4"¡œgáõ21ëõY@Íè päl·"Ù'o~ê"(4Ü¨)=ÿîêúåOŸ>ñİ³«Ùˆ˜ÇÅMÍ8Gsä 9|ÙRoŸT7ûİi³»Ÿ<­ZïÆò0Ş£ÉWÃëÍá.¾²ß­Õq?:üé>ş-æçÍİ&şÜ«7ë]¼ÛÆ7üß9T§Mu·9Şí¿VÕœáûí“úq³I~LíËGúfÔuùx+Gòæ·]Sõæ0&şx70ÜÜ¯·ûUõÍpÄñÇ™Å[“¿¼úb¼%ï~‹7ñˆ×ûøj³{·>‡ømœ”Ü^«_†*Ş¿ßÅ×oãÃm|m½;wğ1UpüÍ~{ey;†êuávsÕ¨ÑşpXßLÆ|Ãòê‹•v·äª_\ÂÈ9¸„IOZ©e}ÒxÊø¹êàâÅ¶+NÚÚUÈ'mÓ=»^*S¥'­”zÒJ)×¥ÔŒ^óiø]y	“ñ¥Fdè0ÏOÜ®£F0jP#€áÏW# ¡T#”jUãu~kšØ²Û¹
+ñªiãLÜ´³4fşÿ|HNÎ­ë¯J¥
+/€éš·j©ìû‰œÙËáœ¶œò ¤~à(ZÙqµ›òâzÜa€İ„%í¸^Û™¯[™Í˜rÊÙH½t6-­¼+góõ²Y4<­óy¦à“y
+^%Y4ÏÓŞf1…g»%Sğ¯?ˆã’Y„g‘ê¥³hÂE–•oü£fˆ`6R/<UÇœªßŸ«©éSöÒîÓåTêQÉÅEY§}ãØ;=Ì§Ó6½ì¤P§G?Ûi¾cÀş—ê8œ6Ç×ë›Ÿb¾ÅİæÍ>çOoxŸVŠnT—c_y¤¯>wÕÛÓqŞ7ıˆÕ[f«wãWüÄjJîæbbœëx³Ä1ßçÚq—^åU[TâZë±R»q÷J["ŸZJı¸”ƒÄÅÔ6¿›BÙ’V¬Ç†bÛ¹N£”–d0ßäùP~<ßŒòüXåãÅ”ïjT¾£RùË9i¥ÊK•×:é%-‰–ÒOV^Æ‘•÷z…òM_¶¤•*/uV^ë4JiIf ó}¨ò>Jn•§G*?z@©¼w”÷.Ê{×sÊ•(¯µ*ŸëI/m)i©ı¨ò:UŞÇëà¬¼gW¶¤ë±”Ïu¥´$3€ù>XùÖıNùú±Ê·=*ßu¨|×—Ê÷u9'­Ty©³òZ'½¤%ÑRúÉÊË8²òmW*ß¶eKZ©òRgåµN£”–d0ß³vàFı95/·®¨·Ó\ü¥Ö›†Ú¯ÈÏUÛ©™ôX©İÊ7•¶Ä>µ”úa‘LÇÁzë/¤çw´De?ã±å8¶sF)-É`¾²¯ôûoÛâX£ÿú ÷&S{şßc`h&4„e¡Á­Åü”OşËòÔ0.–N7UŞ­oÆ“i‹¤úçıºÚí«cŒ?Ş¯wcrXïªİp{Vb—áÅÎaqPß`b:'©%ø¦L¾ÁÄà[Lã¥gN¾-ƒT91Hƒ¾;e mI+L2í\—‰Ag ó]˜@ùÇú–8è¬|ròYùäó:î”tNZab˜•×ºLª¥ôÓbb˜•O>¯ïN@[Ò
+Ã¬¼ÖebĞÀ|&Pş±YM4+/N•Ÿ—Z2€Ì)W˜²ò¹.ƒh©ı´˜²òâóúî”´%­01dås]&Ìwab å{":+ßu¨|òyw_—sÒ
+Ã¬¼ÖebP-¥ŸÃ¬|òy}wÛ–-i…‰aV^ë21è`¾Icóeb:'©%Œ;sb÷ÊÄà;L¾+ƒïÊÄ UNRçÄ ï&h‰Ê~rbqlçºL:˜¯|g÷)÷'ãştÆ–ç¼Ğİæï²ù_Í¦ZïŞì«wÃa3«›ûa»¹nc.x»?nN›wÃñ,ÿw—ß1ğlüŸÿ3ø?ƒÿ³ñgüßÿ;ğgüßÿwàÿüßÿgãÿşÏàÿ|–ÿ»ËïÌÊ‹/³ñÿgğ6şïŒÿ;ğşïŒÿ;ãÿüßÿ;ãÿlüŸÁÿü™òêÿîò;Yyõe6şÏàÿşÏÆÿñşïÀÿñgüßÿ;ğgüŸÿ3ø?ƒÿ/T^üß]~Ç`V^|™ÿ3ø?ƒÿ³ñgüßÿ;ğgüßÿwàÿüßÿgãÿşÏàÿüxÿgãÿlüŸÁÿüŸÿ{ãÿüßƒÿ{ãÿŞø¿ÿ÷àÿŞø?ÿgğÿç‡ì¸öì94g©—e×å“Ã/Ï®Ï™áûûõí~ä'Ö#0¢
+Çøó4ìª7#n°¿ÛlÀİğËşğë0Bñ]gôÏŞ®Çıî¼âúË'×aq&©%SLWT˜@\	Äõeq}™@¤Ê	Dêœ@ôİ)ShKZa‘qlçºL :˜ïÂÊ_(ÌÊ§d0+Ÿrƒ;e
+“V˜@fåµ.ˆj)ıô˜@fåSnĞw§L¡-i…	dV^ë2è`¾(¡’•—d•—Ü µd
+™S®0dås]&ÑRûé1då%7è»S¦Ğ–´Â’•Ïu™@t0ß…	”¿P™•ï:T>åw_—sÒ
+È¬¼ÖeQ-¥ŸÈ¬|Êúî¶-[Ò
+È¬¼ÖeÑÀ|“@ÆæË"uN RK¦p]™@\gHmH	¤†R›R›RC©!Ô˜@dÛ¹.ˆÎ æû°çLšpg|ÿ0b<²ĞÃß?¸ğ¡-ˆİ^v!îîo~š ÉŞÿoµŞíoî·Ûuwë³2@¸ü·Î›àMğ<d o2@0 @‚É Ád€  @&x“<d ÀŸ•Âå¿…˜•oö&xÈ 2€7 ˜ È Ád€`2@€ “¼É 2€‡°LyÍ áòßBdåÕ›½É 2€‡àM&È 2@0 ˜ È Ád o2€‡à!,T^2@¸ü·³òâÍŞd ÀCğ&“d€  ˜Ld€`2€7ÀCğüã3€7À›à!xÈ 3€k0¸¦Ì ®)3€T9H3€¾› %*û™3€7ÀCğüCv!¸?{‚ìÈaÇ”fØ±9'7P‘vÕíıíğ×j‚án­Ãf÷Ûi³=+*\:Rë4ˆ£3ˆ£ÄÑâèâèâè qt€8:ƒ8:ƒ8:@ Î Î GÌwiT¸$h§ÖiÇYy1x@ Î Î Gˆ£3ˆ£3ˆ£ÄÑâèâèâè qÔÀ|—F…KÂ¥jqÌÊ«Áâè qtqtqt€8:@AA GgGgGˆ£Î æ»4*\¨Vë4ˆã¬¼< GgGgGˆ£ÄÑÄÑÄÑâè qtqtqt€8ê`¾Š
+qtqt€8:@AA GgGgGˆ£ÄÑÄÑÄÑâè qtõ‚í6¸"/Ä§/xÆÛå®Ïí‡vFDqüßšòí@õnØnöÇ1lcØí§ï$Nû3ºkºù¿>_fÄ¦n×wïÏúş/É$‰Á²! Ù$É†€dC@2$’É@@2lH6$É@@òY$_’ÃƒeC@²! H’É†€d  H6$’€d  ÙlH’€\¨¼
+¾${*Ë†€dC@2$’É@@2lH6$É@@²! Ù$¹Tù(ø’¼µ,’É@@2lH6$É@@²! Ù$É†€dC@2$?€dC@²! H’É†€d  H6$’€d  ÙlH’€äæA{tşŞƒ¡&y!59í=ğLMvgì=ğŒM¾øyØ¾¯N÷ï6ëÃPÅd0>Èíí:“ñiw¿>æ?Yò%!&5PƒL²A&Id’2É™d@&I6È$d’™d@&Ù “lId’™ä³I¾$¸§jI6È$2É€L²A&Ù “È$2É™dƒL2 “È$d’2É€L2 “•×ÀpIXUÔ “lId’™dƒL²A&Id’2É™d@&I6È$d’™d@&—*/á’€¶¨A&Ù “È$2É™dƒL2 “È$d’2É€L2 “lI6È$2É€Lòã‘I6È$d’™d@&Ù “lId’™dƒL²A&Id’2É™d@&Iæ;dğGZˆ?NæO3şØŸaşÔà1­N›õîv_é)S‡»uu¿«^†›á¸?Çüé’ü˜!Z‘­H@+ĞŠdhE2´"­H@+’¡ÉĞŠ´"­H†V$C+ê(¥% é,Z‘.ÉÌ‰’¡ÉĞŠ´¢ÎI+42´"­H@+’¡ÉĞŠ´"­H†V$C+ê(¥% */æO—äDÅÉĞŠdhEZ‘€V$C+’¡	hEZ‘­H†V$ 	hE2´"ZQG)-­¸TùdştI6ZÌ­H†V$ uNZ¡ù“¡	hEZ‘­H†V$ 	hE2´"ZQG)-­H§ÉĞŠdhEZ‘€V$C+²¡hEZ‘­È†Vd hE6´"Z‘€VÔÀ|?±[ ù[´[ğ <?Ìñ¡ñóS—ê3òÀ0^OÈâøMÄpsÚœîoó™”‡L>n?€.‰©Ex‘¼H /À‹dàE2ğ"¼H /’ÉÀ‹ğ"¼H^$/À‹ğ"/Ò%:µH/’	àEx‘¼H^$€	àE2ğ"x‘ ^$€ÉÀ‹dàEx‘ ^\¨¼F‚Kb£j‘^$/À‹ğ"x‘¼H /À‹dàE2ğ"¼H /’ÉÀ‹ğ"¼¸Ty‰—D¥Õ"¼H^$€	àE2ğ"x‘ ^$€ÉÀ‹dàEx‘ ^$/’	àEx‘/’ÉÀ‹ğ"¼H^$/À‹ğ"x‘¼H /À‹dàE2ğ"¼H /À‹ú8Xe£ ù™Á>õ¼Ã‡wå3Ïûò‘çıtoäiµZ3È¥´+¤BÎ{US$È[FéI¿©”-ŒÔŒ$åMe¹©*wŞ;ïŠ§ÿQÆiRÆ™pI5ççZşğİµü
+§ë×O¾™~Î·ÿu=ş§WŸ¿ÆSWCåêW_üíœÇ7§‡ö×ÓïHQ;z\z˜}¾ûŒç[ÓHéÒCñûf\ZÈ¥$RŸÑ:ŒËMš¡¸ª¦v\z­‘cÓ¤ÇÖa|Ê¾¾»öeKZ©¯¦ºoõP_1µ#ƒ/çyŞ¯7h@©àÚR©~‹C/§f=C‹VOñ”Êõ4?iFæ.}ÌJ5F©”j@©Æ(Õ RM©TS*Õ¥ş*Dn
+endstream
+endobj
+163 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 162 0 R /Annots [7 0 R 9 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 25 0 R 28 0 R 31 0 R 34 0 R 37 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 67 0 R 70 0 R 73 0 R 76 0 R 79 0 R 81 0 R 84 0 R 87 0 R 90 0 R 93 0 R 95 0 R 98 0 R 101 0 R 104 0 R 107 0 R 109 0 R 112 0 R 115 0 R 118 0 R 121 0 R 123 0 R 126 0 R 129 0 R 132 0 R 135 0 R 137 0 R 140 0 R 143 0 R 146 0 R 149 0 R 151 0 R 153 0 R 155 0 R] >>
+endobj
+164 0 obj
+<< /Filter /FlateDecode /Length 2728 >>
+stream
+xœÅYÁrÛ8½û+pÚJR—$@ÌÖd™™RÊ–\’œ­­ò¦`…Št‘”g<µ?·Ç=Ìi¿ 0§½íi@$8¶µ‡¢ø‘B÷ëf÷Cƒò½4ñ‰ï¥<UŸiHší‘ïùê|Diä…	IXà%)i$¹›iÂİ$NÔŠ„¹‰Ïkh<X’hƒ<Õ®"J–?é‹ä—ÑÊógpIVp?L•£ æğÉMğdMşü>$‰ùd}C˜şv$ê¿õ†¼Ê>NÎ.'ÓÙ¿çäb5›.Îÿµ^Î¦BşAH¶šNÎ&ä4#ËÅ*›ŸdËŸÈÕ«Éåzñvuy>¹zıš¬?“lY |†)SÜ}æ<SğLÑs œ†®/¾l‹Jl$|\½šUlnÙ‰¼øO5´şX‡‰§\ç%Ñ|w7^úT
+Se 	£D-
+˜ã®¨¤ êâ¶^^ïàın2õËQ¤ÉÅ4Ôì"¦Ù!.ÃSL-¢ÀÜe`«G:»ù‘Å	Çµ§ˆµ”KèÇ ÜÒHÑ-ãÊBS?hÆnÖ!4J5?4‚Ô‡qæG'ßM;ä9Ôy € ÊbÎ]]Î×X»™Í×Ùòb™­Í…éÙïs¨ãçThªí`N)‰™s0m
+x®EİªÍë¦‘¹*Ícr»¯:wµ“¤n
+YubS7²%÷P…7²‘U^ˆ–\×eQo›/7E.ÚAmğ@ µ˜ğGk.FPL³äaäª6BH:g—€S¹ûa˜»±G™CÔW÷ò#Äq™åpìAşÑRê‡„~åH¡®ĞİÅnÌXk)ØÚ@~ÆRÅijã]„ßJSÓ)6÷Ù0ØÆçÊCÌ0ûqÙ@
+®S?Ì†¡>Š3?º±‰ÃÀX¬Ã~Jø¸—ÑÊ+
+LÙ“ÚgZ$ŠÓHo'Ğ!¿¯³ó9-³éz±	=&ì˜ÄĞ?Tñ0T¬Á'…§kÍ°GğyÄ¶ß’uİ‰rÍ%U·‰|/›MMşJ(öàæãÈƒàŒùÓ¡Íğp›œ©l›YTÛŞl`Ì`5¢ã_'B>pàÅû…âBıd &jçájGpê©:t÷q/ÁîµÈª‹İil?9¬-a ×OÈÃ5…BKÜ}êÓAg:Ùµt r¥Ã†%ZÂÆñ>ª2ökVflZ¬ÌØ´l5mìoÈ?(-NkÖ,mZLãx•ÜØ$ 7ã¥;W'/0C÷âÌæ³åzvª5'|sL"øÇá_òt'}ó2İA/Ï¯›íùöU$ÂÚüò"hÖî3µç¶.X¨*B¹¸zu£’²´‡á¿®Ô%ÈM±İ7¢R>s±ğÑe)®^{½·„k3z¨•.Ğ5î«êŠàï‡c”:‹¤ƒFì:1–,ƒ­3`=âêëh à8)ÛÑ<0’‰Ê àà¾ ¾âo nÔÆŒ(®"…ÒAÍÏAê£8Ÿ£¢”d±ËbŒ/Jù@ö#hçàÇf)”ò~¨Dê£8û1ÊæÇšÎ@Ö¾Y@ƒ1Ê¦¬OƒIÙ‹Æ(îk›ªş^ËY6_ONKuú>#ê 3ù‘õb=9ÁóÉÄZ_^¬+uÉÀu”„Š¯r½Úï)vH^©8…üüÑÉ]^¡ïŠVq.NßÃÉgw+:8İ †¿k2ÙÔ×’Lò¦¾İ1‘%é”n€ÃŸUqŸ-˜D™ïKQ@š§ªši±ïêİ—NTF•ÀËN4¹ht$¨-©‰ló¦¸.ŠP|–-™îÈ¬º¯ ¥Rà2 Nxæ„×•7ÙvÅN@:‚mÙ¾•M\6âİf(ÕïQ´_8ê9ùDÀ 2üÌª¤…\‹ÏCâŞ.ÃÀÖÈÈ%$º$à¹†_¹í=’]½‘Èö!®aIu*×ô{®EÙâ–%ÌNsè4ûÌÎ/ËõzôÉJĞˆv_ªÃ¾Ê>xªÊÔÉFBı·²!¢eñ›úÆ-Ñ¾"·M}#[h-(TÕZ‚´¢Üoˆª^¸%ËøÆ¡-
+UıšÏ¾:w`Üd,/ÿ¨TrT³–²Bæµá¹ï
+Å±Q-©º÷¿ğ=u«“Í®¨„êª[Ñ@P…ØVu«z­†Ê¡¯Š›Â´Ú”¹o‹ê›ÅùÍ7fÔØ(:MéhGìv.Ä(Òv†~§i2ÚÇYˆ›ªÃ©ÇİÎÅ¨™p^ ¸¯â6Kq|À-Ø@Üœpv0)”ò~Gê£8ŸzU–âKŞH¿c¾~u¡R½ÌV—gj?!‹“u6‡±ÙIzõè“áçãgÅXMP¾ôq„
+Ù—€©Øà™Ç‡õîÅ"fÂ±2¸qèEœXK!5–ŒŸSay„øÈƒÔ×û¾ÁA’,9äãZÄ†GÙcÍÒZ2ŒãUàÅ)£x”²ˆF£”E”RÑd@Æ!L™Å6eë@­%“ëÇ¦Ìò°)¡'û”…&ß"ß®e£”9l,ZÂ‡>Š§ÏC^wI ŞS»şFìú1vlP/¡=âêëo'£ş¦°¶ïošĞA#²ıĞö7BlZcAœû)”j~ÆRÅùÄœNùµãÔÔÔÕîd)8µãCµãCµãèïÆ}ÕĞùzNêu§MYŸÃıÉ_ËÒÁEû¹sq²Ê–aH_Ì³•Väïdº8Wûr¶X©ßËÎ&¤ÿaíy»d<ôQëq)·EÛÁ>l¦ğ¼®p4…x[ı®ÎõXq¬nuòW˜iEó’š3JuMÏ*j7¿'0H¡gûBıÔv§~¡€¡İoeci{ø¦`vœ I°]ilZ0Áv‘J™ÅóÍ]H+u(Å@LA»°ÕƒÉˆ %J%ãQ4ÂR}´ß5™E3"+š~jÕÅ@ä§XêÃ8ÿa‹ÙH×tl }CÈ¢§#M¸]hqìÑÈvqÀS“n£×¢äh»!
+•1cÃuæWŠt(i†şîÁzA‹Ù3ô,`É(ˆ{ugÉPİ#¨îĞ!?8HÁ©»á‡FõQœ½ÙÀ^®g6e.˜²½wÔ)†ï³e6ŸÎ@ÄNf'g³ÅOË¾Wšö<Ñ™¥z·3‡¶eİÊêZ6Ûcrî©Ÿ…R©c÷
+äJv÷pBÚîÜ7u	§'8ÁÁ©¼y§­ôÈEST¹ìj8ˆÏ?¼ë!¹Tïš¶ pkŸyÊñaV±<×Àá¼nš¢í)“÷õ¾Úˆtõ/äTŞv©o4óº¬·÷ÇCpã\4÷%ÄsL¦uYÊ­$¢ùâ>=„\À¼À’›6`V” íK“Ã˜ª*Î;ò}#ÕùQqĞ¹ƒÃ””;ÚF–¢“­ÿ]³Ï»öX2?@f=ôº¨ZHæŸ4‚‡òI@<à!Û´ŞÕk n¬·`ú€ü„Ğ¼[‚œÁNtÑŞçŸTîàØX’I×İ~#[LªŠLšëºCüjy@º@±c›­¿İ—…Ô©šb¶˜ÍÖJ¥gZCİvpk)ï<"7º}•U—ªÎàp?~°syİˆögñ ÒşB;„
+endstream
+endobj
+165 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 164 0 R /Annots [157 0 R 159 0 R 161 0 R] >>
+endobj
+166 0 obj
+<< /Fields [7 0 R 9 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 25 0 R 28 0 R 31 0 R 34 0 R 37 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 67 0 R 70 0 R 73 0 R 76 0 R 79 0 R 81 0 R 84 0 R 87 0 R 90 0 R 93 0 R 95 0 R 98 0 R 101 0 R 104 0 R 107 0 R 109 0 R 112 0 R 115 0 R 118 0 R 121 0 R 123 0 R 126 0 R 129 0 R 132 0 R 135 0 R 137 0 R 140 0 R 143 0 R 146 0 R 149 0 R 151 0 R 153 0 R 155 0 R 157 0 R 159 0 R 161 0 R] /CO [153 0 R 155 0 R 157 0 R 159 0 R] /NeedAppearances true /DR << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /DA (/F1 9.5 Tf 0.22 0.16 0.31 rg) >>
+endobj
+167 0 obj
+<< /Type /Catalog /Pages 5 0 R /AcroForm 166 0 R >>
+endobj
+xref
+0 168
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000319 00000 n 
+0000000392 00000 n 
+0000000459 00000 n 
+0000000685 00000 n 
+0000000912 00000 n 
+0000001136 00000 n 
+0000001364 00000 n 
+0000001591 00000 n 
+0000001821 00000 n 
+0000001995 00000 n 
+0000002233 00000 n 
+0000002832 00000 n 
+0000003006 00000 n 
+0000003244 00000 n 
+0000003843 00000 n 
+0000004017 00000 n 
+0000004255 00000 n 
+0000004854 00000 n 
+0000005028 00000 n 
+0000005266 00000 n 
+0000005865 00000 n 
+0000006090 00000 n 
+0000006319 00000 n 
+0000006493 00000 n 
+0000006731 00000 n 
+0000007330 00000 n 
+0000007504 00000 n 
+0000007742 00000 n 
+0000008341 00000 n 
+0000008515 00000 n 
+0000008753 00000 n 
+0000009352 00000 n 
+0000009526 00000 n 
+0000009764 00000 n 
+0000010363 00000 n 
+0000010588 00000 n 
+0000010817 00000 n 
+0000010991 00000 n 
+0000011229 00000 n 
+0000011828 00000 n 
+0000012002 00000 n 
+0000012240 00000 n 
+0000012839 00000 n 
+0000013013 00000 n 
+0000013251 00000 n 
+0000013850 00000 n 
+0000014024 00000 n 
+0000014262 00000 n 
+0000014861 00000 n 
+0000015086 00000 n 
+0000015315 00000 n 
+0000015489 00000 n 
+0000015727 00000 n 
+0000016326 00000 n 
+0000016500 00000 n 
+0000016738 00000 n 
+0000017337 00000 n 
+0000017511 00000 n 
+0000017749 00000 n 
+0000018348 00000 n 
+0000018522 00000 n 
+0000018760 00000 n 
+0000019359 00000 n 
+0000019584 00000 n 
+0000019813 00000 n 
+0000019987 00000 n 
+0000020225 00000 n 
+0000020824 00000 n 
+0000020998 00000 n 
+0000021236 00000 n 
+0000021835 00000 n 
+0000022009 00000 n 
+0000022247 00000 n 
+0000022846 00000 n 
+0000023020 00000 n 
+0000023258 00000 n 
+0000023857 00000 n 
+0000024082 00000 n 
+0000024311 00000 n 
+0000024485 00000 n 
+0000024723 00000 n 
+0000025322 00000 n 
+0000025496 00000 n 
+0000025734 00000 n 
+0000026333 00000 n 
+0000026507 00000 n 
+0000026745 00000 n 
+0000027344 00000 n 
+0000027518 00000 n 
+0000027756 00000 n 
+0000028355 00000 n 
+0000028580 00000 n 
+0000028809 00000 n 
+0000028983 00000 n 
+0000029221 00000 n 
+0000029820 00000 n 
+0000029994 00000 n 
+0000030233 00000 n 
+0000030835 00000 n 
+0000031010 00000 n 
+0000031249 00000 n 
+0000031853 00000 n 
+0000032028 00000 n 
+0000032267 00000 n 
+0000032871 00000 n 
+0000033097 00000 n 
+0000033328 00000 n 
+0000033503 00000 n 
+0000033742 00000 n 
+0000034346 00000 n 
+0000034521 00000 n 
+0000034760 00000 n 
+0000035364 00000 n 
+0000035539 00000 n 
+0000035778 00000 n 
+0000036382 00000 n 
+0000036557 00000 n 
+0000036796 00000 n 
+0000037400 00000 n 
+0000037626 00000 n 
+0000037857 00000 n 
+0000038032 00000 n 
+0000038271 00000 n 
+0000038875 00000 n 
+0000039050 00000 n 
+0000039289 00000 n 
+0000039893 00000 n 
+0000040068 00000 n 
+0000040307 00000 n 
+0000040911 00000 n 
+0000041086 00000 n 
+0000041325 00000 n 
+0000041929 00000 n 
+0000042155 00000 n 
+0000042386 00000 n 
+0000042561 00000 n 
+0000042800 00000 n 
+0000043410 00000 n 
+0000043585 00000 n 
+0000043824 00000 n 
+0000044434 00000 n 
+0000044609 00000 n 
+0000044848 00000 n 
+0000045458 00000 n 
+0000045633 00000 n 
+0000045872 00000 n 
+0000046482 00000 n 
+0000046708 00000 n 
+0000046940 00000 n 
+0000047166 00000 n 
+0000047626 00000 n 
+0000047854 00000 n 
+0000048423 00000 n 
+0000048649 00000 n 
+0000048976 00000 n 
+0000049204 00000 n 
+0000049532 00000 n 
+0000049762 00000 n 
+0000049990 00000 n 
+0000055577 00000 n 
+0000056157 00000 n 
+0000058960 00000 n 
+0000059160 00000 n 
+0000059778 00000 n 
+trailer
+<< /Size 168 /Root 167 0 R >>
+startxref
+59847
+%%EOF
