@@ -38,6 +38,11 @@
   .nav-item{display:flex;align-items:center;gap:11px;width:100%;text-align:left;padding:10px 12px;border-radius:11px;color:#54496E;font-size:14px;font-weight:500;transition:.15s;margin-bottom:3px}
   .nav-item:hover{background:var(--lilac-soft);color:var(--ink)}
   .nav-item.active{background:var(--lilac);color:#fff;font-weight:600;box-shadow:0 4px 12px rgba(109,76,187,.24)}
+  .nav-item.premium{background:linear-gradient(135deg,#EAE0FA,#DECFF7);border:1px solid #CBB6EE;color:#3E2773;font-weight:600;margin-top:8px}
+  .nav-item.premium:hover{background:linear-gradient(135deg,#E1D3F8,#D3BFF5);color:#2A2142}
+  .nav-item.premium.active{background:var(--lilac);color:#fff;border-color:var(--lilac)}
+  .notice-banner{display:flex;align-items:flex-start;gap:14px;background:linear-gradient(135deg,#F3ECFC,#EAE0FA);border:1px solid #CBB6EE;border-left:4px solid var(--lilac);border-radius:14px;padding:16px 18px;margin-bottom:22px;color:var(--ink);font-size:13.8px;line-height:1.55;box-shadow:var(--shadow)}
+  .notice-banner svg{width:20px;height:20px;color:var(--lilac);flex:0 0 20px;margin-top:2px}
   .nav-item .ic{width:20px;height:20px;flex:0 0 20px;display:grid;place-items:center}
   .nav-item .ic svg{width:18px;height:18px}
   .nav-item .badge{margin-left:auto;font-size:11px;font-weight:700;padding:2px 7px;border-radius:99px;background:rgba(109,76,187,.1);color:var(--lilac)}
@@ -212,7 +217,7 @@
     </div>
   </div>
 
-<script src="manifest.js?v=202611202332"></script>
+<script src="manifest.js?v=202611202349"></script>
 <script>
 const COLORS={
   lavender:{tint:"#EDE6FA"},
@@ -229,13 +234,15 @@ const SECTIONS=[
   {id:"all",label:"Todas las categorías",title:"Repositorio de recursos",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>'},
   {id:"tematica",label:"Biblioteca Psicológica",title:"Repositorio de recursos",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h5l2 3h9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1Z"/></svg>'},
   {id:"herramientas",label:"Herramientas de sesión",title:"Herramientas de sesión",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6a2 2 0 0 1 2-2h11l3 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/><path d="M8 8h6M8 12h8M8 16h5"/></svg>'},
-  {id:"kitinfantil",label:"Material infanto-juvenil",title:"Material infanto-juvenil",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8.5 14a4 4 0 0 0 7 0"/><path d="M9 9h.01M15 9h.01"/></svg>'}
+  {id:"kitinfantil",label:"Material infanto-juvenil",title:"Material infanto-juvenil",icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8.5 14a4 4 0 0 0 7 0"/><path d="M9 9h.01M15 9h.01"/></svg>'},
+  {id:"cuadernillos",label:"👑 Cuadernillos",title:"👑 Cuadernillos",premium:true,icon:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>'}
 ];
 const SEC_META={
   all:{label:"Biblioteca Psicológica",title:"Repositorio de recursos"},
   tematica:{label:"Biblioteca Psicológica",title:"Repositorio de recursos"},
   herramientas:{label:"Herramientas de sesión",title:"Herramientas de sesión"},
-  kitinfantil:{label:"Material infanto-juvenil",title:"Material infanto-juvenil"}
+  kitinfantil:{label:"Material infanto-juvenil",title:"Material infanto-juvenil"},
+  cuadernillos:{label:"👑 Cuadernillos",title:"👑 Cuadernillos"}
 };
 const TYPE_FILTERS=[
   {id:"all",label:"Todos"},
@@ -273,7 +280,7 @@ function renderNav(){
   SECTIONS.forEach(s=>{
     const b=document.createElement("button");
     const active=(view===s.id)||(view==="folder"&&folderSection()===s.id);
-    b.className="nav-item"+(active?" active":"");
+    b.className="nav-item"+(s.premium?" premium":"")+(active?" active":"");
     const cnt=sectionFileCount(s.id);
     b.innerHTML=`<span class="ic">${s.icon}</span><span>${s.label}</span><span class="badge">${cnt}</span>`;
     b.onclick=()=>{view=s.id;curFolder=null;activeType="all";setSearch("");closeSidebar();render()};
@@ -367,10 +374,32 @@ function render(){
     return;
   }
 
-  // Section view (all / tematica / herramientas / kitinfantil)
+  // Section view (all / tematica / herramientas / kitinfantil / cuadernillos)
   const meta=SEC_META[view]||{label:view,title:view};
   document.getElementById("crumb").textContent=meta.label;
   document.getElementById("titleText").textContent=meta.title;
+
+  if(view==="cuadernillos"){
+    renderFilterChips(true);
+    let files=filesOf("cuadernillos").slice();
+    files=filterByType(files);
+    if(searchTerm){const t=norm(searchTerm);files=files.filter(f=>norm(f.title).includes(t)||norm(f.name).includes(t))}
+    document.getElementById("counts").textContent=`${files.length} cuadernillo${files.length===1?"":"s"}`;
+    document.getElementById("searchInput").placeholder="Buscar cuadernillo…";
+    stage.innerHTML="";
+    const notice=document.createElement("div");
+    notice.className="notice-banner";
+    notice.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg><div>Estos son cuadernillos que puedes entregar a tu paciente para que a libre demanda o con tus instrucciones, desarrolle como tarea. Los ejercicios desarrollados no siguen un plan de tratamiento, ni un orden jerárquico, por lo que se recomienda supervisión clínica.</div>';
+    stage.appendChild(notice);
+    if(!files.length){
+      stage.appendChild(makeEmpty(searchTerm||activeType!=="all"?"Sin resultados":"Aún no hay cuadernillos publicados",searchTerm||activeType!=="all"?"No hay cuadernillos que coincidan con este filtro.":"Agrega los PDFs y miniaturas en la carpeta archivos/cuadernillos/ y ejecuta publicar.command."));
+      return;
+    }
+    const g=document.createElement("div");g.className="cgrid";
+    files.forEach(f=>g.appendChild(fileCard(f,false)));stage.appendChild(g);
+    return;
+  }
+
   const list=topFolders(view);
   const loose=view==="all"?[]:filesOf(view);
   const tf=sectionFileCount(view);
