@@ -29,8 +29,10 @@
 
   /* Sidebar */
   .sidebar{width:262px;flex:0 0 262px;background:var(--white);color:var(--ink);border-right:1px solid var(--line);display:flex;flex-direction:column;padding:26px 16px;position:sticky;top:0;height:100vh;overflow-y:auto}
-  .brand{display:flex;align-items:center;gap:12px;padding:2px 8px 22px;border-bottom:1px solid var(--line);margin-bottom:12px}
-  .brand .logo{width:42px;height:42px;border-radius:13px;background:linear-gradient(135deg,#7C5AC8,#5D3EA8);display:grid;place-items:center;flex:0 0 42px;box-shadow:0 6px 14px rgba(109,76,187,.28)}
+  .brand{display:flex;align-items:center;gap:12px;padding:4px 8px 20px;border-bottom:1px solid var(--line);margin-bottom:12px;cursor:pointer;transition:.15s}
+  .brand:hover .logo{transform:scale(1.04)}
+  .brand:hover h1{color:var(--lilac)}
+  .brand .logo{width:42px;height:42px;border-radius:13px;background:linear-gradient(135deg,#7C5AC8,#5D3EA8);display:grid;place-items:center;flex:0 0 42px;box-shadow:0 6px 14px rgba(109,76,187,.28);transition:.15s}
   .brand .logo svg{width:22px;height:22px}
   .brand h1{font-family:var(--serif);font-size:19px;font-weight:700;line-height:1.1;color:var(--ink);letter-spacing:-.2px}
   .brand span{font-size:11.5px;color:var(--muted);display:block;margin-top:2px}
@@ -161,7 +163,7 @@
 </head>
 <body>
   <aside class="sidebar" id="sidebar">
-    <div class="brand">
+    <div class="brand" id="brandHome" role="button" tabindex="0" aria-label="Volver al inicio de la biblioteca">
       <div class="logo">
         <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 4h3a2 2 0 0 1 2 2v14"/><path d="M2 20h20"/><path d="M13 20V3.5a.5.5 0 0 0-.65-.48l-6 2A.5.5 0 0 0 6 5.5V20"/><circle cx="10" cy="12" r=".75" fill="#fff"/></svg>
       </div>
@@ -505,6 +507,10 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
 function makeEmpty(t,h){const d=document.createElement("div");d.className="empty";d.innerHTML=`<div class="em-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h5l2 3h9a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1Z"/></svg></div><h3>${t}</h3><p>${h}</p>`;return d}
 function setSearch(v){searchTerm=v;document.getElementById("searchInput").value=v}
 function closeSidebar(){document.getElementById("sidebar").classList.remove("open");document.getElementById("backdrop").classList.remove("show")}
+function goHome(){view="all";curFolder=null;activeType="all";setSearch("");closeSidebar();render();window.scrollTo({top:0,behavior:"smooth"})}
+const brandHome=document.getElementById("brandHome");
+brandHome.onclick=goHome;
+brandHome.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();goHome()}};
 document.getElementById("searchInput").oninput=e=>{searchTerm=e.target.value;render()};
 document.getElementById("clearSearch").onclick=()=>{setSearch("");render()};
 document.getElementById("menuBtn").onclick=()=>{document.getElementById("sidebar").classList.add("open");document.getElementById("backdrop").classList.add("show")};
