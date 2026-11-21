@@ -81,6 +81,25 @@
   .chip:hover{background:var(--lilac-soft);color:var(--ink)}
   .chip.active{background:var(--lilac);color:#fff;border-color:var(--lilac)}
 
+  /* Home Google-style */
+  .home-hero{display:none;flex-direction:column;align-items:center;text-align:center;margin-bottom:26px}
+  .home-hero .hero-logo{width:68px;height:68px;border-radius:20px;background:linear-gradient(135deg,#7C5AC8,#5D3EA8);display:grid;place-items:center;box-shadow:0 12px 28px rgba(109,76,187,.28);margin-bottom:16px}
+  .home-hero .hero-logo svg{width:34px;height:34px}
+  .home-hero h2{font-family:var(--serif);font-size:44px;font-weight:700;letter-spacing:-.5px;color:var(--ink);line-height:1.08}
+  .home-hero p{font-size:15px;color:var(--muted);margin-top:6px;font-weight:500;letter-spacing:.3px}
+  body.is-home .wrap{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding-bottom:110px}
+  body.is-home .head{display:none}
+  body.is-home .home-hero{display:flex}
+  body.is-home .toolbar{flex-direction:column;align-items:center;gap:16px;margin-bottom:0}
+  body.is-home .search{width:100%;max-width:680px;padding:14px 20px;border-radius:99px;box-shadow:0 10px 30px rgba(109,76,187,.12)}
+  body.is-home .search input{font-size:15px}
+  body.is-home .chips{justify-content:center}
+  @media(max-width:860px){
+    body.is-home .wrap{min-height:auto;padding-top:26px;padding-bottom:60px}
+    body.is-home .menu-btn{align-self:flex-start}
+    .home-hero h2{font-size:34px}
+  }
+
   /* Grids */
   .sec-sub{margin:26px 0 12px;font-size:11.5px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--lilac)}
   .fgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
@@ -186,6 +205,13 @@
           <h2 id="pageTitle"><span id="backSlot"></span><span id="titleText"></span></h2>
         </div>
         <div class="counts" id="counts"></div>
+      </div>
+      <div class="home-hero" id="homeHero">
+        <div class="hero-logo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 4h3a2 2 0 0 1 2 2v14"/><path d="M2 20h20"/><path d="M13 20V3.5a.5.5 0 0 0-.65-.48l-6 2A.5.5 0 0 0 6 5.5V20"/><circle cx="10" cy="12" r=".75" fill="#fff"/></svg>
+        </div>
+        <h2>Vine a Terapia</h2>
+        <p>Biblioteca Psicológica</p>
       </div>
       <div class="toolbar" id="toolbar">
         <div class="search">
@@ -318,6 +344,8 @@ function render(){
   document.getElementById("backSlot").innerHTML="";
   document.getElementById("crumb").innerHTML="";
   document.getElementById("clearSearch").classList.toggle("show",searchTerm.length>0);
+  const isHome=(view==="all"&&!searchTerm.trim()&&activeType==="all");
+  document.body.classList.toggle("is-home",isHome);
 
   if(view==="folder"){
     const folder=getFolder(curFolder);
@@ -406,10 +434,15 @@ function render(){
   const loose=view==="all"?[]:filesOf(view);
   const tf=sectionFileCount(view);
   document.getElementById("counts").textContent=`${list.length} carpeta${list.length===1?"":"s"} · ${tf} recursos`;
-  document.getElementById("searchInput").placeholder="Buscar en toda la biblioteca…";
+  document.getElementById("searchInput").placeholder="Busca por diagnóstico, tipo de terapia, recurso específico, protocolo o herramienta";
 
   const showGlobalResults = searchTerm.trim().length > 0 || activeType !== "all";
   renderFilterChips(true);
+
+  if(view==="all"&&!showGlobalResults){
+    stage.innerHTML="";
+    return;
+  }
 
   let flist=list;
   if(searchTerm){const t=norm(searchTerm);flist=list.filter(f=>norm(f.name).includes(t))}
