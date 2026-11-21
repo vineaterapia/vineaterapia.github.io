@@ -1,0 +1,2419 @@
+%PDF-1.6
+%âãÏÓ
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /ZapfDingbats >>
+endobj
+5 0 obj
+<< /Type /Pages /Kids [405 0 R 407 0 R] /Count 2 >>
+endobj
+6 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 217.00 18.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 216.40 17.40 re B /Tx BMC EMC
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hdr_r0_c0) /V () /Ff 0 /F 4 /Rect [48.00 657.00 265.00 675.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 6 0 R >> >>
+endobj
+8 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 107.00 18.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 106.40 17.40 re B /Tx BMC EMC
+endstream
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hdr_r0_c1) /V () /Ff 0 /F 4 /Rect [273.00 657.00 380.00 675.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 8 0 R >> >>
+endobj
+10 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 159.28 18.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 158.68 17.40 re B /Tx BMC EMC
+endstream
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hdr_r0_c2) /V () /Ff 0 /F 4 /Rect [388.00 657.00 547.28 675.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 10 0 R >> >>
+endobj
+12 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+13 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q1_o0) /V /Off /AS /Off /F 4 /Rect [344.78 528.90 355.78 539.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 12 0 R /Yes 13 0 R >> /D << /Off 12 0 R /Yes 13 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q1_o1'\).value='Off'; this.getField\('dep_q1_o2'\).value='Off'; this.getField\('dep_q1_o3'\).value='Off'; this.getField\('dep_p1'\).value=0; } else { this.getField\('dep_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+15 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+16 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q1_o1) /V /Off /AS /Off /F 4 /Rect [390.78 528.90 401.78 539.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 15 0 R /Yes 16 0 R >> /D << /Off 15 0 R /Yes 16 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q1_o0'\).value='Off'; this.getField\('dep_q1_o2'\).value='Off'; this.getField\('dep_q1_o3'\).value='Off'; this.getField\('dep_p1'\).value=1; } else { this.getField\('dep_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+18 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+19 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q1_o2) /V /Off /AS /Off /F 4 /Rect [436.78 528.90 447.78 539.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 18 0 R /Yes 19 0 R >> /D << /Off 18 0 R /Yes 19 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q1_o0'\).value='Off'; this.getField\('dep_q1_o1'\).value='Off'; this.getField\('dep_q1_o3'\).value='Off'; this.getField\('dep_p1'\).value=2; } else { this.getField\('dep_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+21 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+22 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+23 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q1_o3) /V /Off /AS /Off /F 4 /Rect [482.78 528.90 493.78 539.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 21 0 R /Yes 22 0 R >> /D << /Off 21 0 R /Yes 22 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q1_o0'\).value='Off'; this.getField\('dep_q1_o1'\).value='Off'; this.getField\('dep_q1_o2'\).value='Off'; this.getField\('dep_p1'\).value=3; } else { this.getField\('dep_p1'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+24 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p1) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 526.40 547.28 543.20] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 24 0 R >> >>
+endobj
+26 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+27 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+28 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q2_o0) /V /Off /AS /Off /F 4 /Rect [344.78 506.10 355.78 517.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 26 0 R /Yes 27 0 R >> /D << /Off 26 0 R /Yes 27 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q2_o1'\).value='Off'; this.getField\('dep_q2_o2'\).value='Off'; this.getField\('dep_q2_o3'\).value='Off'; this.getField\('dep_p2'\).value=0; } else { this.getField\('dep_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+29 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+30 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+31 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q2_o1) /V /Off /AS /Off /F 4 /Rect [390.78 506.10 401.78 517.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 29 0 R /Yes 30 0 R >> /D << /Off 29 0 R /Yes 30 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q2_o0'\).value='Off'; this.getField\('dep_q2_o2'\).value='Off'; this.getField\('dep_q2_o3'\).value='Off'; this.getField\('dep_p2'\).value=1; } else { this.getField\('dep_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+32 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+33 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+34 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q2_o2) /V /Off /AS /Off /F 4 /Rect [436.78 506.10 447.78 517.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 32 0 R /Yes 33 0 R >> /D << /Off 32 0 R /Yes 33 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q2_o0'\).value='Off'; this.getField\('dep_q2_o1'\).value='Off'; this.getField\('dep_q2_o3'\).value='Off'; this.getField\('dep_p2'\).value=2; } else { this.getField\('dep_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+35 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+36 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+37 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q2_o3) /V /Off /AS /Off /F 4 /Rect [482.78 506.10 493.78 517.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 35 0 R /Yes 36 0 R >> /D << /Off 35 0 R /Yes 36 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q2_o0'\).value='Off'; this.getField\('dep_q2_o1'\).value='Off'; this.getField\('dep_q2_o2'\).value='Off'; this.getField\('dep_p2'\).value=3; } else { this.getField\('dep_p2'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+38 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+39 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p2) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 503.60 547.28 520.40] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 38 0 R >> >>
+endobj
+40 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+41 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+42 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q3_o0) /V /Off /AS /Off /F 4 /Rect [344.78 483.30 355.78 494.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 40 0 R /Yes 41 0 R >> /D << /Off 40 0 R /Yes 41 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q3_o1'\).value='Off'; this.getField\('dep_q3_o2'\).value='Off'; this.getField\('dep_q3_o3'\).value='Off'; this.getField\('dep_p3'\).value=0; } else { this.getField\('dep_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+43 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+44 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+45 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q3_o1) /V /Off /AS /Off /F 4 /Rect [390.78 483.30 401.78 494.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 43 0 R /Yes 44 0 R >> /D << /Off 43 0 R /Yes 44 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q3_o0'\).value='Off'; this.getField\('dep_q3_o2'\).value='Off'; this.getField\('dep_q3_o3'\).value='Off'; this.getField\('dep_p3'\).value=1; } else { this.getField\('dep_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+46 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+47 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+48 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q3_o2) /V /Off /AS /Off /F 4 /Rect [436.78 483.30 447.78 494.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 46 0 R /Yes 47 0 R >> /D << /Off 46 0 R /Yes 47 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q3_o0'\).value='Off'; this.getField\('dep_q3_o1'\).value='Off'; this.getField\('dep_q3_o3'\).value='Off'; this.getField\('dep_p3'\).value=2; } else { this.getField\('dep_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+49 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+50 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+51 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q3_o3) /V /Off /AS /Off /F 4 /Rect [482.78 483.30 493.78 494.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 49 0 R /Yes 50 0 R >> /D << /Off 49 0 R /Yes 50 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q3_o0'\).value='Off'; this.getField\('dep_q3_o1'\).value='Off'; this.getField\('dep_q3_o2'\).value='Off'; this.getField\('dep_p3'\).value=3; } else { this.getField\('dep_p3'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+52 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+53 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p3) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 480.80 547.28 497.60] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 52 0 R >> >>
+endobj
+54 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+55 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+56 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q4_o0) /V /Off /AS /Off /F 4 /Rect [344.78 460.50 355.78 471.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 54 0 R /Yes 55 0 R >> /D << /Off 54 0 R /Yes 55 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q4_o1'\).value='Off'; this.getField\('dep_q4_o2'\).value='Off'; this.getField\('dep_q4_o3'\).value='Off'; this.getField\('dep_p4'\).value=0; } else { this.getField\('dep_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+57 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+58 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+59 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q4_o1) /V /Off /AS /Off /F 4 /Rect [390.78 460.50 401.78 471.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 57 0 R /Yes 58 0 R >> /D << /Off 57 0 R /Yes 58 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q4_o0'\).value='Off'; this.getField\('dep_q4_o2'\).value='Off'; this.getField\('dep_q4_o3'\).value='Off'; this.getField\('dep_p4'\).value=1; } else { this.getField\('dep_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+60 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+61 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+62 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q4_o2) /V /Off /AS /Off /F 4 /Rect [436.78 460.50 447.78 471.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 60 0 R /Yes 61 0 R >> /D << /Off 60 0 R /Yes 61 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q4_o0'\).value='Off'; this.getField\('dep_q4_o1'\).value='Off'; this.getField\('dep_q4_o3'\).value='Off'; this.getField\('dep_p4'\).value=2; } else { this.getField\('dep_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+63 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+64 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+65 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q4_o3) /V /Off /AS /Off /F 4 /Rect [482.78 460.50 493.78 471.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 63 0 R /Yes 64 0 R >> /D << /Off 63 0 R /Yes 64 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q4_o0'\).value='Off'; this.getField\('dep_q4_o1'\).value='Off'; this.getField\('dep_q4_o2'\).value='Off'; this.getField\('dep_p4'\).value=3; } else { this.getField\('dep_p4'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+66 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+67 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p4) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 458.00 547.28 474.80] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 66 0 R >> >>
+endobj
+68 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+69 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+70 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q5_o0) /V /Off /AS /Off /F 4 /Rect [344.78 437.70 355.78 448.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 68 0 R /Yes 69 0 R >> /D << /Off 68 0 R /Yes 69 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q5_o1'\).value='Off'; this.getField\('dep_q5_o2'\).value='Off'; this.getField\('dep_q5_o3'\).value='Off'; this.getField\('dep_p5'\).value=0; } else { this.getField\('dep_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+71 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+72 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+73 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q5_o1) /V /Off /AS /Off /F 4 /Rect [390.78 437.70 401.78 448.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 71 0 R /Yes 72 0 R >> /D << /Off 71 0 R /Yes 72 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q5_o0'\).value='Off'; this.getField\('dep_q5_o2'\).value='Off'; this.getField\('dep_q5_o3'\).value='Off'; this.getField\('dep_p5'\).value=1; } else { this.getField\('dep_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+74 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+75 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+76 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q5_o2) /V /Off /AS /Off /F 4 /Rect [436.78 437.70 447.78 448.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 74 0 R /Yes 75 0 R >> /D << /Off 74 0 R /Yes 75 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q5_o0'\).value='Off'; this.getField\('dep_q5_o1'\).value='Off'; this.getField\('dep_q5_o3'\).value='Off'; this.getField\('dep_p5'\).value=2; } else { this.getField\('dep_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+77 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+78 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+79 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q5_o3) /V /Off /AS /Off /F 4 /Rect [482.78 437.70 493.78 448.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 77 0 R /Yes 78 0 R >> /D << /Off 77 0 R /Yes 78 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q5_o0'\).value='Off'; this.getField\('dep_q5_o1'\).value='Off'; this.getField\('dep_q5_o2'\).value='Off'; this.getField\('dep_p5'\).value=3; } else { this.getField\('dep_p5'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+80 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+81 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p5) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 435.20 547.28 452.00] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 80 0 R >> >>
+endobj
+82 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+83 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+84 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q6_o0) /V /Off /AS /Off /F 4 /Rect [344.78 414.90 355.78 425.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 82 0 R /Yes 83 0 R >> /D << /Off 82 0 R /Yes 83 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q6_o1'\).value='Off'; this.getField\('dep_q6_o2'\).value='Off'; this.getField\('dep_q6_o3'\).value='Off'; this.getField\('dep_p6'\).value=0; } else { this.getField\('dep_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+85 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+86 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+87 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q6_o1) /V /Off /AS /Off /F 4 /Rect [390.78 414.90 401.78 425.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 85 0 R /Yes 86 0 R >> /D << /Off 85 0 R /Yes 86 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q6_o0'\).value='Off'; this.getField\('dep_q6_o2'\).value='Off'; this.getField\('dep_q6_o3'\).value='Off'; this.getField\('dep_p6'\).value=1; } else { this.getField\('dep_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+88 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+89 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+90 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q6_o2) /V /Off /AS /Off /F 4 /Rect [436.78 414.90 447.78 425.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 88 0 R /Yes 89 0 R >> /D << /Off 88 0 R /Yes 89 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q6_o0'\).value='Off'; this.getField\('dep_q6_o1'\).value='Off'; this.getField\('dep_q6_o3'\).value='Off'; this.getField\('dep_p6'\).value=2; } else { this.getField\('dep_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+91 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+92 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+93 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q6_o3) /V /Off /AS /Off /F 4 /Rect [482.78 414.90 493.78 425.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 91 0 R /Yes 92 0 R >> /D << /Off 91 0 R /Yes 92 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q6_o0'\).value='Off'; this.getField\('dep_q6_o1'\).value='Off'; this.getField\('dep_q6_o2'\).value='Off'; this.getField\('dep_p6'\).value=3; } else { this.getField\('dep_p6'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+94 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+95 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p6) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 412.40 547.28 429.20] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 94 0 R >> >>
+endobj
+96 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+97 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+98 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q7_o0) /V /Off /AS /Off /F 4 /Rect [344.78 392.10 355.78 403.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 96 0 R /Yes 97 0 R >> /D << /Off 96 0 R /Yes 97 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q7_o1'\).value='Off'; this.getField\('dep_q7_o2'\).value='Off'; this.getField\('dep_q7_o3'\).value='Off'; this.getField\('dep_p7'\).value=0; } else { this.getField\('dep_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+99 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+100 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+101 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q7_o1) /V /Off /AS /Off /F 4 /Rect [390.78 392.10 401.78 403.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 99 0 R /Yes 100 0 R >> /D << /Off 99 0 R /Yes 100 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q7_o0'\).value='Off'; this.getField\('dep_q7_o2'\).value='Off'; this.getField\('dep_q7_o3'\).value='Off'; this.getField\('dep_p7'\).value=1; } else { this.getField\('dep_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+102 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+103 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+104 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q7_o2) /V /Off /AS /Off /F 4 /Rect [436.78 392.10 447.78 403.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 102 0 R /Yes 103 0 R >> /D << /Off 102 0 R /Yes 103 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q7_o0'\).value='Off'; this.getField\('dep_q7_o1'\).value='Off'; this.getField\('dep_q7_o3'\).value='Off'; this.getField\('dep_p7'\).value=2; } else { this.getField\('dep_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+105 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+106 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+107 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q7_o3) /V /Off /AS /Off /F 4 /Rect [482.78 392.10 493.78 403.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 105 0 R /Yes 106 0 R >> /D << /Off 105 0 R /Yes 106 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q7_o0'\).value='Off'; this.getField\('dep_q7_o1'\).value='Off'; this.getField\('dep_q7_o2'\).value='Off'; this.getField\('dep_p7'\).value=3; } else { this.getField\('dep_p7'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+108 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+109 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p7) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 389.60 547.28 406.40] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 108 0 R >> >>
+endobj
+110 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+111 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+112 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q8_o0) /V /Off /AS /Off /F 4 /Rect [344.78 369.30 355.78 380.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 110 0 R /Yes 111 0 R >> /D << /Off 110 0 R /Yes 111 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q8_o1'\).value='Off'; this.getField\('dep_q8_o2'\).value='Off'; this.getField\('dep_q8_o3'\).value='Off'; this.getField\('dep_p8'\).value=0; } else { this.getField\('dep_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+113 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+114 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+115 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q8_o1) /V /Off /AS /Off /F 4 /Rect [390.78 369.30 401.78 380.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 113 0 R /Yes 114 0 R >> /D << /Off 113 0 R /Yes 114 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q8_o0'\).value='Off'; this.getField\('dep_q8_o2'\).value='Off'; this.getField\('dep_q8_o3'\).value='Off'; this.getField\('dep_p8'\).value=1; } else { this.getField\('dep_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+116 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+117 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+118 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q8_o2) /V /Off /AS /Off /F 4 /Rect [436.78 369.30 447.78 380.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 116 0 R /Yes 117 0 R >> /D << /Off 116 0 R /Yes 117 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q8_o0'\).value='Off'; this.getField\('dep_q8_o1'\).value='Off'; this.getField\('dep_q8_o3'\).value='Off'; this.getField\('dep_p8'\).value=2; } else { this.getField\('dep_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+119 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+120 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+121 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q8_o3) /V /Off /AS /Off /F 4 /Rect [482.78 369.30 493.78 380.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 119 0 R /Yes 120 0 R >> /D << /Off 119 0 R /Yes 120 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q8_o0'\).value='Off'; this.getField\('dep_q8_o1'\).value='Off'; this.getField\('dep_q8_o2'\).value='Off'; this.getField\('dep_p8'\).value=3; } else { this.getField\('dep_p8'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+122 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+123 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p8) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 366.80 547.28 383.60] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 122 0 R >> >>
+endobj
+124 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+125 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+126 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q9_o0) /V /Off /AS /Off /F 4 /Rect [344.78 346.50 355.78 357.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 124 0 R /Yes 125 0 R >> /D << /Off 124 0 R /Yes 125 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q9_o1'\).value='Off'; this.getField\('dep_q9_o2'\).value='Off'; this.getField\('dep_q9_o3'\).value='Off'; this.getField\('dep_p9'\).value=0; } else { this.getField\('dep_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+127 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+128 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+129 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q9_o1) /V /Off /AS /Off /F 4 /Rect [390.78 346.50 401.78 357.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 127 0 R /Yes 128 0 R >> /D << /Off 127 0 R /Yes 128 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q9_o0'\).value='Off'; this.getField\('dep_q9_o2'\).value='Off'; this.getField\('dep_q9_o3'\).value='Off'; this.getField\('dep_p9'\).value=1; } else { this.getField\('dep_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+130 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+131 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+132 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q9_o2) /V /Off /AS /Off /F 4 /Rect [436.78 346.50 447.78 357.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 130 0 R /Yes 131 0 R >> /D << /Off 130 0 R /Yes 131 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q9_o0'\).value='Off'; this.getField\('dep_q9_o1'\).value='Off'; this.getField\('dep_q9_o3'\).value='Off'; this.getField\('dep_p9'\).value=2; } else { this.getField\('dep_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+133 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+134 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+135 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q9_o3) /V /Off /AS /Off /F 4 /Rect [482.78 346.50 493.78 357.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 133 0 R /Yes 134 0 R >> /D << /Off 133 0 R /Yes 134 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q9_o0'\).value='Off'; this.getField\('dep_q9_o1'\).value='Off'; this.getField\('dep_q9_o2'\).value='Off'; this.getField\('dep_p9'\).value=3; } else { this.getField\('dep_p9'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+136 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+137 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p9) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 344.00 547.28 360.80] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 136 0 R >> >>
+endobj
+138 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+139 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+140 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q10_o0) /V /Off /AS /Off /F 4 /Rect [344.78 323.70 355.78 334.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 138 0 R /Yes 139 0 R >> /D << /Off 138 0 R /Yes 139 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q10_o1'\).value='Off'; this.getField\('dep_q10_o2'\).value='Off'; this.getField\('dep_q10_o3'\).value='Off'; this.getField\('dep_p10'\).value=0; } else { this.getField\('dep_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+141 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+142 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+143 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q10_o1) /V /Off /AS /Off /F 4 /Rect [390.78 323.70 401.78 334.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 141 0 R /Yes 142 0 R >> /D << /Off 141 0 R /Yes 142 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q10_o0'\).value='Off'; this.getField\('dep_q10_o2'\).value='Off'; this.getField\('dep_q10_o3'\).value='Off'; this.getField\('dep_p10'\).value=1; } else { this.getField\('dep_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+144 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+145 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+146 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q10_o2) /V /Off /AS /Off /F 4 /Rect [436.78 323.70 447.78 334.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 144 0 R /Yes 145 0 R >> /D << /Off 144 0 R /Yes 145 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q10_o0'\).value='Off'; this.getField\('dep_q10_o1'\).value='Off'; this.getField\('dep_q10_o3'\).value='Off'; this.getField\('dep_p10'\).value=2; } else { this.getField\('dep_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+147 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+148 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+149 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q10_o3) /V /Off /AS /Off /F 4 /Rect [482.78 323.70 493.78 334.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 147 0 R /Yes 148 0 R >> /D << /Off 147 0 R /Yes 148 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q10_o0'\).value='Off'; this.getField\('dep_q10_o1'\).value='Off'; this.getField\('dep_q10_o2'\).value='Off'; this.getField\('dep_p10'\).value=3; } else { this.getField\('dep_p10'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+150 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+151 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p10) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 321.20 547.28 338.00] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 150 0 R >> >>
+endobj
+152 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+153 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+154 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q11_o0) /V /Off /AS /Off /F 4 /Rect [344.78 300.90 355.78 311.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 152 0 R /Yes 153 0 R >> /D << /Off 152 0 R /Yes 153 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q11_o1'\).value='Off'; this.getField\('dep_q11_o2'\).value='Off'; this.getField\('dep_q11_o3'\).value='Off'; this.getField\('dep_p11'\).value=0; } else { this.getField\('dep_p11'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+155 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+156 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+157 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q11_o1) /V /Off /AS /Off /F 4 /Rect [390.78 300.90 401.78 311.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 155 0 R /Yes 156 0 R >> /D << /Off 155 0 R /Yes 156 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q11_o0'\).value='Off'; this.getField\('dep_q11_o2'\).value='Off'; this.getField\('dep_q11_o3'\).value='Off'; this.getField\('dep_p11'\).value=1; } else { this.getField\('dep_p11'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+158 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+159 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+160 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q11_o2) /V /Off /AS /Off /F 4 /Rect [436.78 300.90 447.78 311.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 158 0 R /Yes 159 0 R >> /D << /Off 158 0 R /Yes 159 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q11_o0'\).value='Off'; this.getField\('dep_q11_o1'\).value='Off'; this.getField\('dep_q11_o3'\).value='Off'; this.getField\('dep_p11'\).value=2; } else { this.getField\('dep_p11'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+161 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+162 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+163 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q11_o3) /V /Off /AS /Off /F 4 /Rect [482.78 300.90 493.78 311.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 161 0 R /Yes 162 0 R >> /D << /Off 161 0 R /Yes 162 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q11_o0'\).value='Off'; this.getField\('dep_q11_o1'\).value='Off'; this.getField\('dep_q11_o2'\).value='Off'; this.getField\('dep_p11'\).value=3; } else { this.getField\('dep_p11'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+164 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+165 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p11) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 298.40 547.28 315.20] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 164 0 R >> >>
+endobj
+166 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+167 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+168 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q12_o0) /V /Off /AS /Off /F 4 /Rect [344.78 278.10 355.78 289.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 166 0 R /Yes 167 0 R >> /D << /Off 166 0 R /Yes 167 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q12_o1'\).value='Off'; this.getField\('dep_q12_o2'\).value='Off'; this.getField\('dep_q12_o3'\).value='Off'; this.getField\('dep_p12'\).value=0; } else { this.getField\('dep_p12'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+169 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+170 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+171 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q12_o1) /V /Off /AS /Off /F 4 /Rect [390.78 278.10 401.78 289.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 169 0 R /Yes 170 0 R >> /D << /Off 169 0 R /Yes 170 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q12_o0'\).value='Off'; this.getField\('dep_q12_o2'\).value='Off'; this.getField\('dep_q12_o3'\).value='Off'; this.getField\('dep_p12'\).value=1; } else { this.getField\('dep_p12'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+172 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+173 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+174 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q12_o2) /V /Off /AS /Off /F 4 /Rect [436.78 278.10 447.78 289.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 172 0 R /Yes 173 0 R >> /D << /Off 172 0 R /Yes 173 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q12_o0'\).value='Off'; this.getField\('dep_q12_o1'\).value='Off'; this.getField\('dep_q12_o3'\).value='Off'; this.getField\('dep_p12'\).value=2; } else { this.getField\('dep_p12'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+175 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+176 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+177 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q12_o3) /V /Off /AS /Off /F 4 /Rect [482.78 278.10 493.78 289.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 175 0 R /Yes 176 0 R >> /D << /Off 175 0 R /Yes 176 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q12_o0'\).value='Off'; this.getField\('dep_q12_o1'\).value='Off'; this.getField\('dep_q12_o2'\).value='Off'; this.getField\('dep_p12'\).value=3; } else { this.getField\('dep_p12'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+178 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+179 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p12) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 275.60 547.28 292.40] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 178 0 R >> >>
+endobj
+180 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+181 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+182 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q13_o0) /V /Off /AS /Off /F 4 /Rect [344.78 255.30 355.78 266.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 180 0 R /Yes 181 0 R >> /D << /Off 180 0 R /Yes 181 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q13_o1'\).value='Off'; this.getField\('dep_q13_o2'\).value='Off'; this.getField\('dep_q13_o3'\).value='Off'; this.getField\('dep_p13'\).value=0; } else { this.getField\('dep_p13'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+183 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+184 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+185 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q13_o1) /V /Off /AS /Off /F 4 /Rect [390.78 255.30 401.78 266.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 183 0 R /Yes 184 0 R >> /D << /Off 183 0 R /Yes 184 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q13_o0'\).value='Off'; this.getField\('dep_q13_o2'\).value='Off'; this.getField\('dep_q13_o3'\).value='Off'; this.getField\('dep_p13'\).value=1; } else { this.getField\('dep_p13'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+186 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+187 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+188 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q13_o2) /V /Off /AS /Off /F 4 /Rect [436.78 255.30 447.78 266.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 186 0 R /Yes 187 0 R >> /D << /Off 186 0 R /Yes 187 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q13_o0'\).value='Off'; this.getField\('dep_q13_o1'\).value='Off'; this.getField\('dep_q13_o3'\).value='Off'; this.getField\('dep_p13'\).value=2; } else { this.getField\('dep_p13'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+189 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+190 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+191 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q13_o3) /V /Off /AS /Off /F 4 /Rect [482.78 255.30 493.78 266.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 189 0 R /Yes 190 0 R >> /D << /Off 189 0 R /Yes 190 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q13_o0'\).value='Off'; this.getField\('dep_q13_o1'\).value='Off'; this.getField\('dep_q13_o2'\).value='Off'; this.getField\('dep_p13'\).value=3; } else { this.getField\('dep_p13'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+192 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+193 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p13) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 252.80 547.28 269.60] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 192 0 R >> >>
+endobj
+194 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+195 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+196 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q14_o0) /V /Off /AS /Off /F 4 /Rect [344.78 232.50 355.78 243.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 194 0 R /Yes 195 0 R >> /D << /Off 194 0 R /Yes 195 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q14_o1'\).value='Off'; this.getField\('dep_q14_o2'\).value='Off'; this.getField\('dep_q14_o3'\).value='Off'; this.getField\('dep_p14'\).value=0; } else { this.getField\('dep_p14'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+197 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+198 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+199 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q14_o1) /V /Off /AS /Off /F 4 /Rect [390.78 232.50 401.78 243.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 197 0 R /Yes 198 0 R >> /D << /Off 197 0 R /Yes 198 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q14_o0'\).value='Off'; this.getField\('dep_q14_o2'\).value='Off'; this.getField\('dep_q14_o3'\).value='Off'; this.getField\('dep_p14'\).value=1; } else { this.getField\('dep_p14'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+200 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+201 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+202 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q14_o2) /V /Off /AS /Off /F 4 /Rect [436.78 232.50 447.78 243.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 200 0 R /Yes 201 0 R >> /D << /Off 200 0 R /Yes 201 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q14_o0'\).value='Off'; this.getField\('dep_q14_o1'\).value='Off'; this.getField\('dep_q14_o3'\).value='Off'; this.getField\('dep_p14'\).value=2; } else { this.getField\('dep_p14'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+203 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+204 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+205 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q14_o3) /V /Off /AS /Off /F 4 /Rect [482.78 232.50 493.78 243.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 203 0 R /Yes 204 0 R >> /D << /Off 203 0 R /Yes 204 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q14_o0'\).value='Off'; this.getField\('dep_q14_o1'\).value='Off'; this.getField\('dep_q14_o2'\).value='Off'; this.getField\('dep_p14'\).value=3; } else { this.getField\('dep_p14'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+206 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+207 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p14) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 230.00 547.28 246.80] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 206 0 R >> >>
+endobj
+208 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+209 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+210 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q15_o0) /V /Off /AS /Off /F 4 /Rect [344.78 209.70 355.78 220.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 208 0 R /Yes 209 0 R >> /D << /Off 208 0 R /Yes 209 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q15_o1'\).value='Off'; this.getField\('dep_q15_o2'\).value='Off'; this.getField\('dep_q15_o3'\).value='Off'; this.getField\('dep_p15'\).value=0; } else { this.getField\('dep_p15'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+211 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+212 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+213 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q15_o1) /V /Off /AS /Off /F 4 /Rect [390.78 209.70 401.78 220.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 211 0 R /Yes 212 0 R >> /D << /Off 211 0 R /Yes 212 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q15_o0'\).value='Off'; this.getField\('dep_q15_o2'\).value='Off'; this.getField\('dep_q15_o3'\).value='Off'; this.getField\('dep_p15'\).value=1; } else { this.getField\('dep_p15'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+214 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+215 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+216 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q15_o2) /V /Off /AS /Off /F 4 /Rect [436.78 209.70 447.78 220.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 214 0 R /Yes 215 0 R >> /D << /Off 214 0 R /Yes 215 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q15_o0'\).value='Off'; this.getField\('dep_q15_o1'\).value='Off'; this.getField\('dep_q15_o3'\).value='Off'; this.getField\('dep_p15'\).value=2; } else { this.getField\('dep_p15'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+217 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+218 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+219 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q15_o3) /V /Off /AS /Off /F 4 /Rect [482.78 209.70 493.78 220.70] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 217 0 R /Yes 218 0 R >> /D << /Off 217 0 R /Yes 218 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q15_o0'\).value='Off'; this.getField\('dep_q15_o1'\).value='Off'; this.getField\('dep_q15_o2'\).value='Off'; this.getField\('dep_p15'\).value=3; } else { this.getField\('dep_p15'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+220 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+221 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p15) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 207.20 547.28 224.00] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 220 0 R >> >>
+endobj
+222 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+223 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+224 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q16_o0) /V /Off /AS /Off /F 4 /Rect [344.78 186.90 355.78 197.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 222 0 R /Yes 223 0 R >> /D << /Off 222 0 R /Yes 223 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q16_o1'\).value='Off'; this.getField\('dep_q16_o2'\).value='Off'; this.getField\('dep_q16_o3'\).value='Off'; this.getField\('dep_p16'\).value=0; } else { this.getField\('dep_p16'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+225 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+226 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+227 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q16_o1) /V /Off /AS /Off /F 4 /Rect [390.78 186.90 401.78 197.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 225 0 R /Yes 226 0 R >> /D << /Off 225 0 R /Yes 226 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q16_o0'\).value='Off'; this.getField\('dep_q16_o2'\).value='Off'; this.getField\('dep_q16_o3'\).value='Off'; this.getField\('dep_p16'\).value=1; } else { this.getField\('dep_p16'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+228 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+229 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+230 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q16_o2) /V /Off /AS /Off /F 4 /Rect [436.78 186.90 447.78 197.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 228 0 R /Yes 229 0 R >> /D << /Off 228 0 R /Yes 229 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q16_o0'\).value='Off'; this.getField\('dep_q16_o1'\).value='Off'; this.getField\('dep_q16_o3'\).value='Off'; this.getField\('dep_p16'\).value=2; } else { this.getField\('dep_p16'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+231 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+232 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+233 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q16_o3) /V /Off /AS /Off /F 4 /Rect [482.78 186.90 493.78 197.90] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 231 0 R /Yes 232 0 R >> /D << /Off 231 0 R /Yes 232 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q16_o0'\).value='Off'; this.getField\('dep_q16_o1'\).value='Off'; this.getField\('dep_q16_o2'\).value='Off'; this.getField\('dep_p16'\).value=3; } else { this.getField\('dep_p16'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+234 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+235 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p16) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 184.40 547.28 201.20] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 234 0 R >> >>
+endobj
+236 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+237 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+238 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q17_o0) /V /Off /AS /Off /F 4 /Rect [344.78 164.10 355.78 175.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 236 0 R /Yes 237 0 R >> /D << /Off 236 0 R /Yes 237 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q17_o1'\).value='Off'; this.getField\('dep_q17_o2'\).value='Off'; this.getField\('dep_q17_o3'\).value='Off'; this.getField\('dep_p17'\).value=0; } else { this.getField\('dep_p17'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+239 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+240 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+241 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q17_o1) /V /Off /AS /Off /F 4 /Rect [390.78 164.10 401.78 175.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 239 0 R /Yes 240 0 R >> /D << /Off 239 0 R /Yes 240 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q17_o0'\).value='Off'; this.getField\('dep_q17_o2'\).value='Off'; this.getField\('dep_q17_o3'\).value='Off'; this.getField\('dep_p17'\).value=1; } else { this.getField\('dep_p17'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+242 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+243 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+244 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q17_o2) /V /Off /AS /Off /F 4 /Rect [436.78 164.10 447.78 175.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 242 0 R /Yes 243 0 R >> /D << /Off 242 0 R /Yes 243 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q17_o0'\).value='Off'; this.getField\('dep_q17_o1'\).value='Off'; this.getField\('dep_q17_o3'\).value='Off'; this.getField\('dep_p17'\).value=2; } else { this.getField\('dep_p17'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+245 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+246 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+247 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q17_o3) /V /Off /AS /Off /F 4 /Rect [482.78 164.10 493.78 175.10] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 245 0 R /Yes 246 0 R >> /D << /Off 245 0 R /Yes 246 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q17_o0'\).value='Off'; this.getField\('dep_q17_o1'\).value='Off'; this.getField\('dep_q17_o2'\).value='Off'; this.getField\('dep_p17'\).value=3; } else { this.getField\('dep_p17'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+248 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+249 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p17) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 161.60 547.28 178.40] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 248 0 R >> >>
+endobj
+250 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+251 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+252 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q18_o0) /V /Off /AS /Off /F 4 /Rect [344.78 141.30 355.78 152.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 250 0 R /Yes 251 0 R >> /D << /Off 250 0 R /Yes 251 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q18_o1'\).value='Off'; this.getField\('dep_q18_o2'\).value='Off'; this.getField\('dep_q18_o3'\).value='Off'; this.getField\('dep_p18'\).value=0; } else { this.getField\('dep_p18'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+253 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+254 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+255 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q18_o1) /V /Off /AS /Off /F 4 /Rect [390.78 141.30 401.78 152.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 253 0 R /Yes 254 0 R >> /D << /Off 253 0 R /Yes 254 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q18_o0'\).value='Off'; this.getField\('dep_q18_o2'\).value='Off'; this.getField\('dep_q18_o3'\).value='Off'; this.getField\('dep_p18'\).value=1; } else { this.getField\('dep_p18'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+256 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+257 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+258 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q18_o2) /V /Off /AS /Off /F 4 /Rect [436.78 141.30 447.78 152.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 256 0 R /Yes 257 0 R >> /D << /Off 256 0 R /Yes 257 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q18_o0'\).value='Off'; this.getField\('dep_q18_o1'\).value='Off'; this.getField\('dep_q18_o3'\).value='Off'; this.getField\('dep_p18'\).value=2; } else { this.getField\('dep_p18'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+259 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+260 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+261 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q18_o3) /V /Off /AS /Off /F 4 /Rect [482.78 141.30 493.78 152.30] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 259 0 R /Yes 260 0 R >> /D << /Off 259 0 R /Yes 260 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q18_o0'\).value='Off'; this.getField\('dep_q18_o1'\).value='Off'; this.getField\('dep_q18_o2'\).value='Off'; this.getField\('dep_p18'\).value=3; } else { this.getField\('dep_p18'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+262 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+263 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p18) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 138.80 547.28 155.60] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 262 0 R >> >>
+endobj
+264 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+265 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+266 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q19_o0) /V /Off /AS /Off /F 4 /Rect [344.78 118.50 355.78 129.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 264 0 R /Yes 265 0 R >> /D << /Off 264 0 R /Yes 265 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q19_o1'\).value='Off'; this.getField\('dep_q19_o2'\).value='Off'; this.getField\('dep_q19_o3'\).value='Off'; this.getField\('dep_p19'\).value=0; } else { this.getField\('dep_p19'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+267 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+268 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+269 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q19_o1) /V /Off /AS /Off /F 4 /Rect [390.78 118.50 401.78 129.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 267 0 R /Yes 268 0 R >> /D << /Off 267 0 R /Yes 268 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q19_o0'\).value='Off'; this.getField\('dep_q19_o2'\).value='Off'; this.getField\('dep_q19_o3'\).value='Off'; this.getField\('dep_p19'\).value=1; } else { this.getField\('dep_p19'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+270 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+271 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+272 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q19_o2) /V /Off /AS /Off /F 4 /Rect [436.78 118.50 447.78 129.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 270 0 R /Yes 271 0 R >> /D << /Off 270 0 R /Yes 271 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q19_o0'\).value='Off'; this.getField\('dep_q19_o1'\).value='Off'; this.getField\('dep_q19_o3'\).value='Off'; this.getField\('dep_p19'\).value=2; } else { this.getField\('dep_p19'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+273 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 57 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B
+endstream
+endobj
+274 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 11.00 11.00] /Length 119 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 10.20 10.20 re B 0.30 0.18 0.48 RG 1.8 w 2.42 5.72 m 4.84 2.75 l 8.80 8.36 l S
+endstream
+endobj
+275 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (dep_q19_o3) /V /Off /AS /Off /F 4 /Rect [482.78 118.50 493.78 129.50] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 273 0 R /Yes 274 0 R >> /D << /Off 273 0 R /Yes 274 0 R >> >> /AA << /U << /S /JavaScript /JS (if\(event.target.value!='Off'\){ this.getField\('dep_q19_o0'\).value='Off'; this.getField\('dep_q19_o1'\).value='Off'; this.getField\('dep_q19_o2'\).value='Off'; this.getField\('dep_p19'\).value=3; } else { this.getField\('dep_p19'\).value=''; } this.calculateNow\(\);) >> >> >>
+endobj
+276 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 32.00 16.80] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 31.40 16.20 re B /Tx BMC EMC
+endstream
+endobj
+277 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_p19) /V () /Ff 0 /Q 1 /F 4 /Rect [515.28 116.00 547.28 132.80] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 276 0 R >> >>
+endobj
+278 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 44.00 20.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 43.40 19.40 re B /Tx BMC EMC
+endstream
+endobj
+279 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_total) /V () /Ff 1 /Q 1 /F 4 /Rect [499.00 83.00 543.00 103.00] /DA (/F1 10.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 278 0 R >> /AA << /C << /S /JavaScript /JS (var s=0; var any=false; for\(var i=1;i<=19;i++\){ var v=this.getField\('dep_p'+i\).value; if\(v!=='' && !isNaN\(Number\(v\)\)\){ s+=Number\(v\); any=true; } } event.value = any ? s : '';) >> >> >>
+endobj
+280 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 56.00 20.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 55.40 19.40 re B /Tx BMC EMC
+endstream
+endobj
+281 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (dep_total_p2) /V () /Ff 1 /Q 1 /F 4 /Rect [359.00 609.00 415.00 629.00] /DA (/F1 10.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 280 0 R >> /AA << /C << /S /JavaScript /JS (event.value = this.getField\('dep_total'\).value;) >> >> >>
+endobj
+282 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+283 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r0_c0) /V () /Ff 4096 /F 4 /Rect [48.00 522.00 136.00 548.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 282 0 R >> >>
+endobj
+284 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+285 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r0_c1) /V () /Ff 4096 /F 4 /Rect [144.00 522.00 209.09 548.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 284 0 R >> >>
+endobj
+286 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+287 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r0_c2) /V () /Ff 4096 /F 4 /Rect [217.09 522.00 305.09 548.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 286 0 R >> >>
+endobj
+288 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+289 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r0_c3) /V () /Ff 4096 /F 4 /Rect [313.09 522.00 378.18 548.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 288 0 R >> >>
+endobj
+290 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+291 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r0_c4) /V () /Ff 4096 /F 4 /Rect [386.18 522.00 474.18 548.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 290 0 R >> >>
+endobj
+292 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+293 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r0_c5) /V () /Ff 4096 /F 4 /Rect [482.18 522.00 547.28 548.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 292 0 R >> >>
+endobj
+294 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+295 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r1_c0) /V () /Ff 4096 /F 4 /Rect [48.00 488.00 136.00 514.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 294 0 R >> >>
+endobj
+296 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+297 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r1_c1) /V () /Ff 4096 /F 4 /Rect [144.00 488.00 209.09 514.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 296 0 R >> >>
+endobj
+298 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+299 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r1_c2) /V () /Ff 4096 /F 4 /Rect [217.09 488.00 305.09 514.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 298 0 R >> >>
+endobj
+300 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+301 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r1_c3) /V () /Ff 4096 /F 4 /Rect [313.09 488.00 378.18 514.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 300 0 R >> >>
+endobj
+302 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+303 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r1_c4) /V () /Ff 4096 /F 4 /Rect [386.18 488.00 474.18 514.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 302 0 R >> >>
+endobj
+304 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+305 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r1_c5) /V () /Ff 4096 /F 4 /Rect [482.18 488.00 547.28 514.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 304 0 R >> >>
+endobj
+306 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+307 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r2_c0) /V () /Ff 4096 /F 4 /Rect [48.00 454.00 136.00 480.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 306 0 R >> >>
+endobj
+308 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+309 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r2_c1) /V () /Ff 4096 /F 4 /Rect [144.00 454.00 209.09 480.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 308 0 R >> >>
+endobj
+310 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+311 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r2_c2) /V () /Ff 4096 /F 4 /Rect [217.09 454.00 305.09 480.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 310 0 R >> >>
+endobj
+312 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+313 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r2_c3) /V () /Ff 4096 /F 4 /Rect [313.09 454.00 378.18 480.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 312 0 R >> >>
+endobj
+314 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+315 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r2_c4) /V () /Ff 4096 /F 4 /Rect [386.18 454.00 474.18 480.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 314 0 R >> >>
+endobj
+316 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+317 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r2_c5) /V () /Ff 4096 /F 4 /Rect [482.18 454.00 547.28 480.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 316 0 R >> >>
+endobj
+318 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+319 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r3_c0) /V () /Ff 4096 /F 4 /Rect [48.00 420.00 136.00 446.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 318 0 R >> >>
+endobj
+320 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+321 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r3_c1) /V () /Ff 4096 /F 4 /Rect [144.00 420.00 209.09 446.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 320 0 R >> >>
+endobj
+322 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+323 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r3_c2) /V () /Ff 4096 /F 4 /Rect [217.09 420.00 305.09 446.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 322 0 R >> >>
+endobj
+324 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+325 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r3_c3) /V () /Ff 4096 /F 4 /Rect [313.09 420.00 378.18 446.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 324 0 R >> >>
+endobj
+326 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+327 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r3_c4) /V () /Ff 4096 /F 4 /Rect [386.18 420.00 474.18 446.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 326 0 R >> >>
+endobj
+328 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+329 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r3_c5) /V () /Ff 4096 /F 4 /Rect [482.18 420.00 547.28 446.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 328 0 R >> >>
+endobj
+330 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+331 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r4_c0) /V () /Ff 4096 /F 4 /Rect [48.00 386.00 136.00 412.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 330 0 R >> >>
+endobj
+332 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+333 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r4_c1) /V () /Ff 4096 /F 4 /Rect [144.00 386.00 209.09 412.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 332 0 R >> >>
+endobj
+334 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+335 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r4_c2) /V () /Ff 4096 /F 4 /Rect [217.09 386.00 305.09 412.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 334 0 R >> >>
+endobj
+336 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+337 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r4_c3) /V () /Ff 4096 /F 4 /Rect [313.09 386.00 378.18 412.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 336 0 R >> >>
+endobj
+338 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+339 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r4_c4) /V () /Ff 4096 /F 4 /Rect [386.18 386.00 474.18 412.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 338 0 R >> >>
+endobj
+340 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+341 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r4_c5) /V () /Ff 4096 /F 4 /Rect [482.18 386.00 547.28 412.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 340 0 R >> >>
+endobj
+342 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+343 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r5_c0) /V () /Ff 4096 /F 4 /Rect [48.00 352.00 136.00 378.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 342 0 R >> >>
+endobj
+344 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+345 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r5_c1) /V () /Ff 4096 /F 4 /Rect [144.00 352.00 209.09 378.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 344 0 R >> >>
+endobj
+346 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+347 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r5_c2) /V () /Ff 4096 /F 4 /Rect [217.09 352.00 305.09 378.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 346 0 R >> >>
+endobj
+348 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+349 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r5_c3) /V () /Ff 4096 /F 4 /Rect [313.09 352.00 378.18 378.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 348 0 R >> >>
+endobj
+350 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+351 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r5_c4) /V () /Ff 4096 /F 4 /Rect [386.18 352.00 474.18 378.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 350 0 R >> >>
+endobj
+352 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+353 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r5_c5) /V () /Ff 4096 /F 4 /Rect [482.18 352.00 547.28 378.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 352 0 R >> >>
+endobj
+354 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+355 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r6_c0) /V () /Ff 4096 /F 4 /Rect [48.00 318.00 136.00 344.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 354 0 R >> >>
+endobj
+356 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+357 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r6_c1) /V () /Ff 4096 /F 4 /Rect [144.00 318.00 209.09 344.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 356 0 R >> >>
+endobj
+358 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+359 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r6_c2) /V () /Ff 4096 /F 4 /Rect [217.09 318.00 305.09 344.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 358 0 R >> >>
+endobj
+360 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+361 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r6_c3) /V () /Ff 4096 /F 4 /Rect [313.09 318.00 378.18 344.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 360 0 R >> >>
+endobj
+362 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+363 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r6_c4) /V () /Ff 4096 /F 4 /Rect [386.18 318.00 474.18 344.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 362 0 R >> >>
+endobj
+364 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+365 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r6_c5) /V () /Ff 4096 /F 4 /Rect [482.18 318.00 547.28 344.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 364 0 R >> >>
+endobj
+366 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+367 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r7_c0) /V () /Ff 4096 /F 4 /Rect [48.00 284.00 136.00 310.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 366 0 R >> >>
+endobj
+368 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+369 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r7_c1) /V () /Ff 4096 /F 4 /Rect [144.00 284.00 209.09 310.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 368 0 R >> >>
+endobj
+370 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+371 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r7_c2) /V () /Ff 4096 /F 4 /Rect [217.09 284.00 305.09 310.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 370 0 R >> >>
+endobj
+372 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+373 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r7_c3) /V () /Ff 4096 /F 4 /Rect [313.09 284.00 378.18 310.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 372 0 R >> >>
+endobj
+374 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+375 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r7_c4) /V () /Ff 4096 /F 4 /Rect [386.18 284.00 474.18 310.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 374 0 R >> >>
+endobj
+376 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+377 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r7_c5) /V () /Ff 4096 /F 4 /Rect [482.18 284.00 547.28 310.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 376 0 R >> >>
+endobj
+378 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+379 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r8_c0) /V () /Ff 4096 /F 4 /Rect [48.00 250.00 136.00 276.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 378 0 R >> >>
+endobj
+380 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+381 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r8_c1) /V () /Ff 4096 /F 4 /Rect [144.00 250.00 209.09 276.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 380 0 R >> >>
+endobj
+382 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+383 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r8_c2) /V () /Ff 4096 /F 4 /Rect [217.09 250.00 305.09 276.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 382 0 R >> >>
+endobj
+384 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+385 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r8_c3) /V () /Ff 4096 /F 4 /Rect [313.09 250.00 378.18 276.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 384 0 R >> >>
+endobj
+386 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+387 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r8_c4) /V () /Ff 4096 /F 4 /Rect [386.18 250.00 474.18 276.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 386 0 R >> >>
+endobj
+388 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+389 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r8_c5) /V () /Ff 4096 /F 4 /Rect [482.18 250.00 547.28 276.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 388 0 R >> >>
+endobj
+390 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+391 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r9_c0) /V () /Ff 4096 /F 4 /Rect [48.00 216.00 136.00 242.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 390 0 R >> >>
+endobj
+392 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+393 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r9_c1) /V () /Ff 4096 /F 4 /Rect [144.00 216.00 209.09 242.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 392 0 R >> >>
+endobj
+394 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+395 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r9_c2) /V () /Ff 4096 /F 4 /Rect [217.09 216.00 305.09 242.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 394 0 R >> >>
+endobj
+396 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.09 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.49 25.40 re B /Tx BMC EMC
+endstream
+endobj
+397 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r9_c3) /V () /Ff 4096 /F 4 /Rect [313.09 216.00 378.18 242.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 396 0 R >> >>
+endobj
+398 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 88.00 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 87.40 25.40 re B /Tx BMC EMC
+endstream
+endobj
+399 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r9_c4) /V () /Ff 4096 /F 4 /Rect [386.18 216.00 474.18 242.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 398 0 R >> >>
+endobj
+400 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.10 26.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 64.50 25.40 re B /Tx BMC EMC
+endstream
+endobj
+401 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_hist_r9_c5) /V () /Ff 4096 /F 4 /Rect [482.18 216.00 547.28 242.00] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 400 0 R >> >>
+endobj
+402 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 485.28 108.00] /Resources << /Font << /F1 1 0 R >> >> /Length 71 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 484.68 107.40 re B /Tx BMC EMC
+endstream
+endobj
+403 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (isd_obs) /V () /Ff 4096 /F 4 /Rect [55.00 37.38 540.28 145.38] /DA (/F1 8.9 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 402 0 R >> >>
+endobj
+404 0 obj
+<< /Filter /FlateDecode /Length 8933 >>
+stream
+xœÅÍ²Ç‘…÷zŠ^MX6ÜõÓvÌ‚–(#,Š!’‹‰ĞÂihpküĞ#‡_n`Vó^z¡…Ã;¯¦ªóœ¬,Êäåe+Â’‡¨ÎÊ<hô×$
+íjÛ¦]Mı”ÿœ|szıI»jóÿ¥?º©[ù±£[SsÚ6¯Òƒ“÷éÑqócÔ#Æ6šcÂ`ç€ı4OÕ…æëßÎÿÙü±:òVç½o§Çı”'rCŸşŒãœào^4¿üÂ7ãªk›¯š8İ˜ÿzqÓüìóÇÏ¾~üüÉÿ=mš?7ÍóÇ¿}ùäË'Ÿ¾øªùüqóüÓ?¾|ô¼ùæg^¾øêÏ_~ùè›O?m^|×<~‘æ‹.Ïä§˜3n£ÎÒ|AæëÜªvÂgy½;¬×ÜlŸ?~³Ş_×›İß6ò»Œ³V‡>‹³MÆŞÖ‡ŞgÚ”¤"|7æƒ\dov‡íú²=­ïvëÕæx{OŞÿ$7—Cıñ“nNn~Îî“.ÎÙAï“NÏÛDİ%/çGcŠUÔììæê±Ç±ÔÓ*¸†‘&‰„yDm˜Æ„icŸ'€”3a(z9RRØ«œóC¤nëÜ|ò›÷Ú|ö³ïÎ…U?4CßÓø'Ÿ§SóÉO>{ôY>eí)šşı»GÎr’NsØ4sqCÔyòIùu³_7¯NÛÍu{ØìÖù„½\ÏÍù‡Ãåx»>77×ÓúpÙæQÿØ_v·ëæ¼½]§s{s<4çkÒëkù—Ën³6gHïòi†ù"Ò¿óIÿÙ¥3$ÎIö]àÒçg:Ÿ!éñHç¼ïÒÓ‹zëq]}†¸a•D¼¼Äd¨Ò€œÏ¯cñ´KŠÎ!Ha¯rÎO‚ õªÎw!5Mµ¢‹¢Y_ëŒƒ\/ÿ•n }½H~pCR¯êÜ|òŠÆ¡°v˜ËÖË_¾š´ıÓ^ù§ù$ï:™¬›I¯ü^|5¿lÌEÿ½2ä0Ø¤æw_ƒ«cnõ”}ßõwÀõ×¹>=Òô£æşôxûmšô—ÍgÇÃùº¿ä×!s÷}õ’i¨§Íòs6Ø9¿Øn~¯¯ã0Æjê‡Mù“Ïf’çÛs"a*ìÙöôÃñæXz‰è2Dşé³ÿ†|Méœä>È«È÷Şè}Òé²ÛSû¾ãK8DU=^	Ôƒç±ĞsF:‰$óx5 /ÀtÎ§	 ãhÂP€=_}£ÉA$õªÎ|My°S~è+«Â0TV…a4V…±5©PÑ*jZ¥z®‘‘¤|ÎC«˜½òC4fù!XÓ©<•_ÔxB	OvUïGY¦úìêÒ%`¦ĞÀkt·šÊS2*eAEË¨½‚e$1óĞ2æAËÂhÏ¯0ÚL•çSUŸbÔ|bíIV×+äÅ—ØÙ…‚ï²ì\¾(Œ¡ûã»ä½7TƒVªAãÚ¥ó%*ÕºÑåÇ”j}¤cÔÑP­ƒ¡©IªAâ:.a(øz”µŒ¤@ª!?	‚Ô«:Å©†IÃ÷<$KÏûZÔ šõ¥;8sÇÎŸ™HAïx$?‘Ô«:ãQØÛŒÇ	ÔgTGÊú\å´æ¡O÷è`Ñ“§Ï_|ıò³Ï|õôñ|£ğèÙïxçıŸÍ³—O_¼œEa”÷ù¼w}Î3¸râÒ]ˆ³“”¥Ô—ëÓfİ\Ó]óñ./›»ã©Ù¬oÖ¼ÏN7Õ¯ÿ‘ï§›]‚üá¼»Yß¼óÖûWMÛüGóôzH1)Ìy×fñç´àüæQóf»Ù“òI¥{‡H½«(©›¥ÁŸ›~yıë…Ëö6ÿ±j]·7iÆ´H¼Ûo/ëÓşˆT÷ó€9ËTìÍñŒÿ?7wëSÊşÛóöôf}JKfûæ¸¿fsVÍã}sw=\Ößmz—t£¤M~µKî}ßl÷ÍåxYïÓR¼mÖéÕùÍ§)“yır0Év{hŞìÎÇSªèÙç_ÌU­/»o÷ÛóŠù<æê—×zöõ­¯whœÚÎÙsõ
+§K7!Ş¼Ş»~HË®F¯£í|åU¶•«/N-®b¸pÍ—4	CÑá¸(éW+ä'AzUç=+œ99Ë‚øbÅ‚X± «Yğ/p)(¢eA´,ˆ`Á+*…=d…S–	x›dÎe¾›Æ%/¦›c>ß¾fÜs‹ç›?˜“2İî‹æÓ’®°ïOP®°!L«´úïºi5`“/Nï}å¼"İóÎ!ÒËÖ¾qöÒ½NUƒè‡Ö0†•ël¸¨>¨ŠtÏôvîÃªˆnªª€~`Ñwód©â^·RG^¿½]‡ÿÀ:ú®®CôCëHÏ¡kmdĞû¯Ço‡IOêÛu„«£s®ªúƒë—nçãÊMö¥ûìRò^å²ág*ë­4n}ŞÉÇaFù+¼=Ù¥{¶Ifw«æyº×XËÉötŞ/3 ó{€§,ş”o0Ş¬7?ï#ßÛùB¾Lr²ó{4iuÙ£Ó²£‹«QuHæÌÎoKS…6?––,Ô…¯³Œ”Ô)ğ19yˆNÇ¦‹L_FçÛÜ‰jà±Ñä±W,	Tõ¾guùËÒ=LeÙ4U–Å¶5–ÅÖ™d¨h™êÇ:S(#ÁÌ£–!µ,]ÑŒeSk-£¢eÔ´–!,«êı(Ëb+ËbìjËÒ³b,K+c”ZFMË¨Å2D8-c´,_<‹e1ô6ÕÀcûÊ2jd‰H¨ ª÷ã,cmÙäjËòt™p
+6(µŒš–MÁŠH0arµec¬-K×icÙèm$*ZFMË ‘%"¡‚ªŞzÛ'-KåÂÛÏb¾í­oû@ãœ.İF±¨)?¦oût±åM/´[ú¶OƒÜ¸Ê<¢6š‡èt¬ëW½×Ñ®³‘¨ZÛ™<öEK–ˆ„
+ªzñfÆ?ÚIÙuùvv^¨wí|“íçeØû>·´d“CÙD?lí4¯Ùüªùz»ŞlvÇCZÄmÿ{ız{JĞs¢ÙîtÚ]Ößîöó{^_ßmÿpİşí˜×¯‡Ë)-õ¶·wÇ{×z÷/á,ñDâ‰&ÃZy£j^Õâ¥'ÉYâ¹ùÎƒ‘Ü ‘dQ…x¢ñ0C$ªÇF“G!²D$TPÕ»ˆxjHDËÈ)Ñd˜$£
+–QÓ2Õ²$C$˜€yÔ2ä¡–SİZË¨h´ZF­ï Ëªz–‘Dj8ËÀ0XFEË Õ2j±‘ÄÎCË˜-#§0C$ªÇö•eª%KDBU½‹ˆ§–Dj8…	Á0$CEË Õ2j,ü½µó¨eÈC-§0C$*Z­–QK–ˆ„
+ªz¯óZ‰'ºO4ÖFTŸ+Äsi	Ğ^ˆç[a'ÈÚ‚–$QKjS2C$ªÇv&B<d‰H¨ ªtÜC¯8Ì+<¥ôÃèÇ~î&Jô
+óºì²»İ¥?™_›íy÷&ı+-Ì6×ıİz1›òy› •MĞ M>¼Q]~LÙ”Ïõ`Ø”_	QÙ§(‘dQÊ&heGm‰ÊóØhòØ-Y"*¨ê]Â¦b™0C-Q A$£
+–QÓ2Õs¡Œ0Z†<Ô2!Šn­eT´Z-£Ë	–Uõ.a“ZfË„(´LhCË¨h´ZF-–!’˜Àyhó e 
+G‡ŞF¢ò<¶¯,S-Y"*¨ê]Â¦bÙäjË„(œp
+6*Z­–QK¡ˆ0Z†<Ô2!
+GŞF¢¢eĞjµd‰H¨ ªw	›â8÷@*› •MĞ MÎÉÅ¢B~LÙ”Ëì›â” ¬lŠÓ ”“yD)› •M-´a$ªÈc;“Ç¾hÉ‘PAUï=«±ˆÃ>b5†CÏD?g}àG¬qÕ| ––Z§¿›óîõa÷j·Ië¬7Ç´ »Ùow‡ù“¿Ä·}s·_o¶§üÆz“†äeZZÃå…Ú¹yWgùØ¬–C°Ÿ{‹
+EŠ&Öz'Xƒš?A.ì'+z˜W°Œ48‰$óˆ*] ˆÑÀ"AÉ<‚’G ²D$TPÕ»‚jàDËˆ.ÑÄš$£
+–©x¬3…2LÀ<jòPË€.n­ePj5-£Ë	–Uõ.‚ -#œÔ2 –k°ŒŠ–QÓ2hX†Hbç¡eÌƒ–]¬!-Síylo³D$TPÕ»‚jà¤–]˜XC2T´Œš–A£PD‚	˜G-CjĞ…ÑÀ"A©eÔ´ŒZ²D$TPÕ»‚Ò|\ Èfd¢K4±ÖM¦-§ÖZ¦2GÁ!Ñ¾@pˆ‚S™GT èAŒÖ‰ÊñØÎäQ ˆ,	Tõ~à-ø¹Ñ@&ú@‹-?~ìVÍg§­4Å¼õ¹Ù®Ûæ{]n·ßOëÓ_šï›Wëıen¬ßÓèõáOëæ÷ë|l¢İ«ëåzZşéÚü­E™è‚2Ñ„Sz¥öFÍŸ«”åeqÏâ$R%’Ì#ª LtAFNˆDÕóØhò((C–ˆ„
+ªz¡L-bh$šp’dTÁ2jZ¦zÏâZkæQË‡Z qtk-£¢eĞjµX†H°¬ªwÊh£–@°p‚eT´Z-£ËILà<´ŒyĞ2£'D¢êyl_Y¦Z²D$TPÕ»ej£–@˜pB2T´Z-£–B	&`µy¨e FNˆDEË Õ2jÉ‘PAUï"”…maÑè‚2Ñ„Sz»‚²”š·(‹ú¥€¯5MÕ±ÃÅ€L~QŒˆaC-$£	'‰'Û™<
+Ê%"¡‚ªŞûÖsíüyİG­çäĞ‚?ÑÄŸØ7Ò¯šÇov—5–lÕ:m;7°ô³·ó1î:'ï'œ‹Uÿt!œh2+Ù>ÕWı#Ñ‡ª$7J•ş‘¬JÿT!œèB8Œ³‰*Tı#È£Y"*¨ê]D8µä¡eä’h2K’QÕWı#j™êÎôĞÌ£–!µ\âèÖZFEË Õ2êÎôĞ²ªŞE„£e$Z.Á20–QÑ2hµŒº3ı#0óĞ2æAËÈ%Œ½DªşµLugúGXAUï"Â©e Z.aB0ÉPÑ2hµl
+¶PD‚	“«-cm¸„Ñ£·‘¨h´ZFİ™şVPÕ»ˆpÎWı#Ğ…p¢É,LÿHNÍöDßWı#Ñ¦$úÉô@Â‰.„Ãh0‘¨úªyÂ!KDBU½¶Xc_õ‚@?ŒVaêØ2¬šÏó{†ù”7òµƒÜ.}JäÚìÎ3¥Ã)_€l«´Â	¸	S0­aŠU«G¾ÀÚVØzÓêÛ`Z= 
+œD8a4pƒHT®jõ@û¢ƒiõ`U½KàT,h¨e@
+4pƒdTÅªÕC-SíM«M œÔ2@C-R8ºµ–QÑ2ÑÅ2ê`Z=hYUï8©e€F±LBË7´ŒŠ–Fjµ7­0p¢e„-#R0¸A$*Wµz¨eªƒiõ`U½KàT,›\m™ …NÁ&CEË #µŒÚ›Vš 8©e€†Z¤`4pƒHT´lôµeÔÁ´z°‚ªŞ%pÊ_ü´­Ğ
+'hà&Ÿù¥Õ#Oo[=¢|¬À©íL«Gl{ÓêUàÔ²©HÁhà‘¨BÕê<öE·¦ÕƒTõŞ³ü
+ıüİÇ,¿phšèmğlWÍ|Gqs<¼ÚÍï(nùíÄ»Óñn—[ö÷ÇÓÏe‹ÛIr“—g¯¶§İñ”×kË¹×OU	táh’N¾Y¥ÊUm$ù»á¶$“i#Éß#/m$PÊ=håGƒdˆD5Vm$È£pY"*¨ê]Ä=µÜ£eäh’_F£rU‰Z¦z2m$4ó¨eÈC-­8ºµ–QÑ2jZFİš6ZVÕ»ˆ{´ŒÜSËÀ=XÒñû{Cm5-£L	Là<´ŒyĞ2Ò
+£A2D¢«6µLukÚHXAUï"î©eàZîaBÉPÑ2jZF=™6š€yÔ2ä¡–V’!-£¦eÔ­i#aU½‹¸×÷U	táh’®MIŞ¶‘ä2mIH”6’üíÂÒFµ)üU	GƒdˆDÕVm$È£pY"*¨êıÀEYtUKô'¶„LïùêÙf8lÆÌGgùıÆıOÃ¬ô—íú€.ÌM
+ÅÁt}„8V]ù/ÛõºŞt}„n0]P…Y¢³0B$ª®êú@…YÈ‘PAUï"f©e`	-#iD“B’Œª±êúPËT÷¦ëƒ&`µy¨e G·Ö2*Z­–Q¦ëƒ–Uõ.b-#KÔ2–B°ŒŠ–A«eÔ½éú€	œ‡–1ZFÒ`4(„HT]Õõ¡–©L×+¨ê]Ä,µ,QË@L
+!*Z­–Q÷¦ëƒ&`µy¨e FƒBˆDEË Õ2êÁt}°‚ªŞEÌ’«saVŒU×Gà~B¡ôŸ¥ë#pên¨º>B7™®Ğ·¦ëª0«gË%IÓš®F¢ª®ÀÍgTw¦ëƒTõb­6Í»êŒù„§hÖjn”í>b­&‡Î‰Î1/}Şâœ›s¾g§ˆkWÍ³:®ÀòğO§íÜÍx>æíİöëæöº=åmT¾ùÙ¿—ï£4ß|¨ZA ßD“X>šVà»ª$_µ‚„L+HÑ´‚@¾‰.|Ãh‘¨|Õ
+‚<
+ß%"¡‚ªŞE|SËÀZF*‰&±$U]Õ
+¢–©¦„&`µy¨e G·Ö2*Z­–QGÓ
+BËªzñ–‘;j¨Ë@,XFEË Õ2ê`ZA`ç¡eÌƒ–‘Jb!•¯ZAÔ2ÕÑ´‚°‚ªŞE|SËÀµTÂ„ ’¡¢eĞju0­ 4ó¨eÈC-•0ÄB$*Z­–QGÓ
+Â
+ªzñÍ»ªºğM4‰•.õ¥$§f[ABà¨Ô½i	a4­ A÷FÜü—TÂh‘¨tçÇÎäQø†,	TõŞÃ7?uÛ
+‚C•oĞä[t÷ßrÿãî°Ù_¿ßr+î9Ê¦fxò|İmv7»ãO…»¶­úB îD`­3}!¡õU_Hh¹Ñ´s¦/$«ÒUp'ºà£0D‚juO’hò(¸C–ˆ„
+ªzáN-†h!%š “dTùª/D-£–B	&`µy¨e€G·Ö2(µŒš–Q;ÓBËªzá–Cj Ë 0XFEË¨i4,C$1óĞ2æAË)Œ½Õê$}e™jgúBXAUï"Ü©eÀZHaB ÉPÑ2jZ6[("Á„ÉÕ–±¶ÂèÑÛHPj5-£v¦/„Tõ.Á]ò´êVÜA`>¿ª
+îZWõ…ç«¾à‚éÉ?—¾¨‚;×U}!€!•¯úB‡âYJ$VPÕ{ÏGo~ğ»¯-¸ı°·-ıèØK’jıQ3Éf›79åuÜú’¿ğ÷C"Şİé¸ÙÓï¯§ÛùÎÅo]úa¬ÚL •uĞ —&ÓfâÇ¶j3ñ#·¸ M›‰'Óf¥¬ƒVÖq´Ğ‹‘¨t7’hòPÖ1KDBU½KXW,©e 4è…d¨h™jî×@=š6š€yÔ2ä¡–	¡ttk-£ÒİHÚÚ2hX†H°¬ªw	ëÔ20¨X&„¢eB/Z¥–QÓ2êÑ´™ÀÎCË˜-¡8:ô6•îFÒW–Q#KDBU½KXW,›\m™ŠNÁ&¥–QÓ2êÑ´™ĞÌ£–!µLÅÑ£·‘¨t7_[,	Tõ.bİĞUm&Ğ…u¢Éº¡7m&yzÛf’Ë´m&>ïV®¬ó“7m&P›Â\ö^’PŞ´™0ÔÈ½» %Â:d‰H¨ ª÷Ã>nóqªZF È­ndËH"v½L»Ûw·»óeŞ+ï¼9ıpÙmÒ#ºµóò®HßuUwtÁ•h¨ëMwˆï†ª;Ä÷Üõ‚º3İ!¾ïMwTÁ•è‚+Œ€‰J7(‰&‚+d‰H¨ ªw®Ô2`„–2¢	 ®7İ!j5-Sİ™îš€yÔ2ä¡–2İZË¨tƒ’¶¶Œº7İ!´¬ªw®h1¢–2° ‚eT´Z-£îLwLà<´ŒyĞ2B£ D¢ÒJúÊ2Õ½éaU½‹p¥–#j ƒ	 $CEË Õ2êÎt‡ĞÌ£–!µÁh ‘¨tƒ_[Fİ›îVPÕ»W¯ºC ®D@é²TºCòô¶;$—i»C|?šîüK>¥;ªàªŸªî€‰ª¯ºCGÁ²D$TPÕ{ßÒÌË¯J|ÌÒL-ˆı@ÄıM!ßÚ5kîu¼^°Ñc~r³¾Kë0İöñf÷f{:¯ó$—üÛ|?É7¼ü²Da^àf •hR,Ó]âC¬ºK|ä&ÔŞt—øLw	TaèÂ<ŒÅ‰J÷#‰&Â<d‰H¨ ªwóÔ2°ˆ–‘T¢I±Lw‰ZFMËT{Ó]B0Z†<Ô2Š£[k•îGÒÖ–QÓ]BËªz1–‘EjHË@1XFEË Õ2joºK`ç¡eÌƒ–‘TŠ!•îGÒW–©¦»„Tõ.bZ©e &Å-ƒVË¨½é.¡	˜G-CjH…Ñ "Qé~$¾¶Œ:˜îVPÕ»ˆy¡­ºK óBkºK|p¦»$§f»Kr™¶»Ä§¥»ÄÇŞt—@æEvb‚TŠ!7ô‚ü…jgºKXAUï.ÑÚXuŠ@?_Îk§H·jÎÇÛÃ.ïŠ5ïùx”ÏË¶›Òcşš“´LæÎşËµ¹[_NIı~ımFØ~9½Ú©ê.ôM¹ÖôxçªŞï¸¯õdzG’C¦wªĞKt¡FƒGˆD¥[D“G¡²D$TPÕ»ˆ^j¨BËÈÑä‘kMïˆZ¦š›4PO¦w„&`µy¨e`G·Ö2*İ‚¤­-£nMï-«ê]D/ZFª¨e`,`-£¦eÔ“é	œ‡–1ZFæ`4x„HTºI_Y¦º5½#¬ ªw½Ô2PE-s0!x„d¨h5-£LïMÀ<jòPËÀŒ‰J· ñµeÔ­éaU½‹è•]ÉÒKt¡—hò¨MïHNÍöxïªŞŸ–:¥wÄûhzG 
+½<{2ÁŒ‰ÊU½#È£ĞY"*¨ê½gÅæF÷±½#8T‰ı0â¹qÒŞ‘şÇ+¶o×ßÉJoÏùÇ«~Vmçë«İf'›me ç/·íşôÓ|¤æÆ¾jVâAƒanLûˆÇª}ÄMÜç‚z0í#Y•ö(%´£…aŒD¥[’D“Ç¾èÁ´°‚ªŞ%Ä+–	‰Ô2p
+C2ªÆª}D-S=˜öš€yÔ2ä¡–	§ttk-£Ò-IÚÚ2êÁ´Ğ²ªŞ%ÄSË@¢b™pŠ–	Ãh-ƒVË¨Ó>8Ï¤?-3V–Sz‰J·$é+ËT¦}„Tõ.!^±lrµeÂ)N8›-ƒVË¦`E$˜0¹Ú²1Ö–	§8zô6•nIâkË¨Ó>Â
+ªz—Ï¥H¶}Z‰†¹±3í#95Û>â¦±jqé5XÚG|ëLûT!^ëªö†1ÕXµ }ÑiaU½¶^sİXµ‚@?^ı ­ Ãªyö×ÓÍîfş~Ú]^­ıx3ãõİö²»›óî0»Ş'lÒ íe-=‘ù]ÇŸ`İæúX5†@Š‰&—úÎ4†¸¾¯CÜÀ1¨£iqCgC 
+ÅşLØƒÑà"QéŞ%ÑäQ(†,	Tõ.¢˜ZºĞ2²G4¹Ôw¦1D-£¦eª£i¡	˜G-CjØÃÑ­µŒJ÷.ikË¨;ÓBËªzQŒ–‘.jØËÀ%XFEË Õ2êhC`çôçbÆÊ2²£Á%D¢Ò½KúÊ2ÕiaU½‹(¦–.jØƒ	Á%$CEË Õ2êhChæQË‡Zö`4¸„HTºw‰¯-£îLc+¨ê]D±ŞU!Ğ…b¢É¥Ş›Æ<½mÉeÚÆ7¦1Ä£iRŠA+Å8\B$*nÊİÇª1„Y"*¨ê½oİºİ‡ò‰~ ùbÔf’17AÎÙı×3õ¸Õÿ‘›ùŸ·ÿıS¼=é¢«J æD\Ñ›†CÕPâ:îAíLC‰ë¼i(*˜ëø‹7€F\ˆD¥[•D“GÁ²D$TPÕ»sjğCË'ÑWô¦¡D-£¦eªi(¡	˜G-CjàÄÑ­µŒJ·*ikË¨½i(¡eU½‹0GËˆµp‚e ,£¢eĞjµ3%0ótúË3ceá„Ñ "QéV%}e™joJXAUï"Ì©eÀZ8aB€ÉPÑ2hµŒÚ™†š€yÔ2ä¡–Np!•nUâkË¨½i(aU½‹0—Ì·%Ğs¢	®Øš†’<½m(ÉeÚ†—.b¥¡Äui(*˜ëºª¡„£.D¢òUC	ò(˜C–ˆ„
+ªzï[¬=€HŞiïÇ”ˆtÜOó—ÍnûüîáúÜ¼úáœ°t¶Œœç¥Øf}=¯›Û¿Ş¤‡Óm=!{9ÜXõ~@<‰&pÜdz?œo«Şç¹Õõhz?œŸLïTÁ“çoÑ *à •îJMOÈ‘PAUï"<©eÀ-#TD8n2½j™jîÛ@=šŞš€yÔ2ä¡–*İZË¨tW’¶¶–!,«ê]„'ZFl¨e€
+,p`”ZFMË¨GÓû8×ß„+ËŒp‰Jw%é+Ë¨‘%"¡‚ªŞExRË€µPÁ„ ’RË¨iõhz?hæQË‡Z¨`4€ƒHTº+‰¯-ƒF–ˆ„
+ªzá)]ÃmïtÁ“hÇ¦÷#§f{?œç®TĞÁ™Ş¼éı€*x
+ì³$T¼éı`$(Ï]¸ 7ÿ§Lï+¨êÅ*ÌÏß¼òi5ñgÙüa]:ËæiäëÙ°y‰6è¤DH¬ÀÆôgTÁ±:kù«Ôé)ÍfÍaœüÌ+æ€Ú ÈtŠô9¾ãoıÊcs
+üÒÈPBÍÉI~Q¥Ô'½íEù¦ø<(3z¶sÔ¿½|úâå£ÏüßÓæÅW/ı®yôòÅW_şÏ‹'Ÿ=j¾ùÙ×ëÃëcÓ6ë¦š»kş4ğ›OußsK}cà3Ò™Ÿ—?r™2],QEÏÓ7ˆ[ÚöíäÃßù/×"Ü”´l{’ Ó±)HˆÔqšL$U-ŸÍ©¤±W))J$oëÄÕ{¾ÃïçgêÌïáägfş~óˆ_]Üì8ä»¢»y“ĞËú´[ÿªÙ¤Õû®»´’ÏOÎú»ms»şşxJÏW›;“öÇsóÃe{{N54×ôZjNÛyø¶Ù¾Yï¯Ò³ô}³[˜ş†o¡äïH¾ÚçwÀ›İáv{³[_ÊO!¥3ËåóË§kDnˆZKhœeø}­åéñ’²}r8_N×Ûy)G©¶¯¯ø¬ù×ÍáØœ¯é.ñrı~Û\Mšûõáïçü˜æ.İ5÷ş\5¿YŸ×7¹ÿêWÍoóo>}»=½N>ü[ó,ÿŞÅ}ŸÎ^ßºá›OŞÜİ­òç¿pãğëæóç_ş¢ûÅ‹¯çÇ}øæS-ìÿË³ë
+endstream
+endobj
+405 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 404 0 R /Annots [7 0 R 9 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 25 0 R 28 0 R 31 0 R 34 0 R 37 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 67 0 R 70 0 R 73 0 R 76 0 R 79 0 R 81 0 R 84 0 R 87 0 R 90 0 R 93 0 R 95 0 R 98 0 R 101 0 R 104 0 R 107 0 R 109 0 R 112 0 R 115 0 R 118 0 R 121 0 R 123 0 R 126 0 R 129 0 R 132 0 R 135 0 R 137 0 R 140 0 R 143 0 R 146 0 R 149 0 R 151 0 R 154 0 R 157 0 R 160 0 R 163 0 R 165 0 R 168 0 R 171 0 R 174 0 R 177 0 R 179 0 R 182 0 R 185 0 R 188 0 R 191 0 R 193 0 R 196 0 R 199 0 R 202 0 R 205 0 R 207 0 R 210 0 R 213 0 R 216 0 R 219 0 R 221 0 R 224 0 R 227 0 R 230 0 R 233 0 R 235 0 R 238 0 R 241 0 R 244 0 R 247 0 R 249 0 R 252 0 R 255 0 R 258 0 R 261 0 R 263 0 R 266 0 R 269 0 R 272 0 R 275 0 R 277 0 R 279 0 R] >>
+endobj
+406 0 obj
+<< /Filter /FlateDecode /Length 5463 >>
+stream
+xœÅœÍrÜF–…÷zŠ\MHíjd"@¹W´Ì–Õ!‰
+’rÄLh“%MyŠUt©uÌËÍr½òx9¯ü“@sq¯G?±ğFöÉÌ›_ùäªÅ²«\µX6ËáÏepû·ªE5ü]ş#-Ó"t®‹~Ñ-İ~åŞä.CÈíÚnøŠ.ÊWtUT_S·êKºqÀf9N•jwúdüK÷wó•W2_Éw–?–ÃD¾mòŸ±üæÜıù¯Áu‹T¹ó7.ŸİùnøÏù¥{øíñËÓã³§?¿pî¿œ;;~òêéó§Ç/ÎOÜ·ÇîìŸù¹×^Ÿ|uöêùÑëGÜùîø<Ïı0SXÆ¡â*Ê|u¯Æ|Í¢Zê	_şòv½í]p—«üÇë‡g«··ë«õj{³ÓCŒœf]7C¸·ò¹WöK?Gm9WR7|‘\Ä»õvÕß¬öıõº_\ì®>S÷jóÃPÆâÚ:ŒÕ=Hq¬y“sŞ¸%sJ¾|4æ±¦4¢½xÀÜ5øZæå¢ö#-ËH˜§¤–±Ä´yÓùÜrÉ`†¦|b)a#q¬ƒ t½Î‹ß|{æFîŞ/3P×6Áÿî=å^<ÉWğ‰;?>=zù?¯ÎŸ>>¹Ëº‡ÌsÔi‘go£Ìqºz»>Üì{·éİ›ÕÅ¿÷î½[mÜõíö¦ÿqånv7ıÆ­¶î¢¿ì]½Y_ôëß¶îºÏ_ón}¸í7ëô{wsëVïv›ÛáƒSE]Ó‡ˆÇµ0^ ~<Yšj ’òÿ—‹7å$u6y¿p4ÃÆ!HşxdÆ–7±]„(©°Ÿ.ŸìâÛEŞŒÔ†r‡•y.Pâxù\ìz†!é%ğA}e”nÖY.ÜJø¬åÒÒ(y¢Q2×WyE£-çåI%ÈíRêRºYçÅƒ7‡…Uí¸luú}ğj†Æ|å•\@öÙ°Ü$)•JÓ¨‘|<şùù‰Ë÷Ú³§ÿvtêÏÎÜw';¥1İ¢ÓUÂPŸoRş³ö•Lá³)5EÓµ¼·×»Õ?ÜO·+—ÏØëÍêfunÊM¾=ûÁ‡_³5®úÃğÿùï¯‹Zúm>™×»}–ËauÕoûÍU¶ËÊíÊûÓíz{±r—¿ö‡×ş”?;ßÏ®ÿéöW}¿oú{ÔŞ&Ö>œ·åT(ÇÅî‡›Õv}Ù/Üãİv8MnÖ««ëİŸÜê+Û—gçòÿ_¯öWë›õş·¾Ìe¯ßäãeŸÏ–üáíêë}×çò¹Æ«İ°®İa´_åue!mïQwS³îşÇÛŒv?w›>?(îooÖ»Åg÷û‹(_¸Š«ÚŞ­%OwkÉ¼0ó5¦Î®ÊÊ­©+s·6Y(ÓİÚÔIİ­H¼[y·"âî(Ã0ğ./±2rC}¤”nÖù9¹É-5Ûx¹¥^¾zq~ô·ì´“ó£gÃôìÈôìÕÑãáñìèñù«ü÷¯¾üï'O_9ÿúÑ×Ü’áa¢rúÏ=vT‹v°Jİ„R2ÒèuÎkõõ¢i˜c9¿Ÿ¯£8%¸œ94üZäv‚#ŒTæ	8ØXGÀ¼u3N\§¥I=˜=Z$Cp¤²»Ş²E{4–Ëc_,S©=ú³Kíø °;¨Û¡¸¼½¾l>Á^=xyä¯Öàå‘o¼–‘q‡á‘(N©5wEê:sW¤e¥îŠ´¬Õ]Ä»‘wbÄw'ÕtW`Ş(a#1NwJ7ëüè]2ZKYh s}­¦‘Ú?œJØHT4PºYçdt.ì÷Fÿà-—çRŞ©íxu?yzv~zâ¾Ëÿùù4?ÇÏ“ÇÃ7rß²Îß=?şöiùÛÏ|ß…J“®´<ë|ü[/ó5òÔü¹§÷_—ŸeÚüE²À¿v–C/VúFrÈ¼tî8‡Ï'CZêI^–ç|Nò–¿ƒ•i¿pš÷?Ÿa[K=Ljä/œ¤®ı¢é>±–ºùIQMSòNó7óÙ"[KÌ¤ù'IU¾İ>µ–±izæMå‡ÓÕWòPÁ3ß¯§€cÊ×µÊ›œã¸½%ûòÓ…êAA’ğ8ÂÌoá$7Ã)ve$œV|ò*n†S+O€XşÄ0|êT	‰c}¤”nÖ9Ú_LÊÇÖ 
+Õø Aò2\=%\è¥I(›™¨$käHe5œ‡¨XYù<ÈËãt&n2yI.Š‘°Ùf½÷B†Ót9!««`ÕùÉrBVç'Ğ	™$”ÎLd’Ç…r¤óë ²o˜XàAù|&n2‘I.‹‘°éf½÷BVûÆ"Ëß{‡Œ k›E'{Tã2&"CdÌF2ÌCd¬ƒÈêü 4!«á
+ŒÄÄy‘‰Lr©#af½÷CÖ-¢üÌßzƒ,æzBó3Ì„LÏd"“\Œ„s	ó2Ô!Èò·ü)²®Ñğ™ˆY1d	ÈÌzï…,vÉ Kù
+ÙP×r:;c[>Z—ƒ	¥3O?¹CnÊy_Fâ¹]æ!2Ö!ç~W+dçÉ2æéìzc16İ¬·<³Î²±ã/$Še‘gX6–‡k±lä=ÜˆoÆn©,—ŞZÖ{kÙüT¢,[~¢OËzşhĞ«(–õQY¶ÃàµeQ-‹úÊ (İ¬seì'¨àFdx¥0­JT’ƒ¶lY>-KT´YÑ Ë± -K\ÈÂ‹ZFâf›õÎ±¬ ƒıÜˆo¢&"£U‰LrĞ–-hY"£ıˆŒnôÓ7Ö|&nUÉ‚Œ[Fâ¦›õÎ±ì„¬ØoBVÜHdÅ›D†$È`UAÆ´e–%2ÚÈèF|6¼‰‘˜8oÉ‚ŒU–‘¸³Ş9–d°Ÿ ƒ‘áMHDF«™ä -‹s	–d°Ÿ ƒŞ2&"+yB†de$"3ëcYAû	2¸‘ggñ&Ša"2Z•È$mYµe‰Œö“snäÁ4|&9úƒAÆŒ-#qÓÍzïhÙò´É²øÚË¦h-›x„Ã²)jË¦¤-›ZcÙÈŸIî”ecW)Ë"]ˆìùK4ª&Ëb†ÖX6ñGnªƒ¤¨,›âlË-KT´lŠÚ²¥I­±¬ ’Ü)ËbùbóÊXVX‰+eYBgâñâ1'mYl¶Yï,Ë-Kd´lŠÚ²¥I­±¬ “Ü)Ë‚Ø¼2–dâÆJY–ğ™¸UÈD&9iËbÓÍzgYVÁ²‚–2xÈ˜ˆY1wÊ²DF›WÆ²‚LÜX)Ër$&Î‹Ld’“¶,V`Ö;Ë²DFË-›¢¶,Î&'Èò3|æNY–çmNd´‘Ñ•²,‘1² cNÚ²@fÖ;Ë²DFË-‹³^MI[–È˜‰Lr§,bsşVµK™¸±R–•“?dÌÓÙôÆb$lºYï-ëÙ%Ëzi»¯eË/J&Ë²g„n•¶lğÚ²¡¶–µµlŒÚ²¥‰óÄÆX6ò—³E±Q–QY6òb*A,[êÃ èÑëœeY¢¢ıˆŠn•¶l)ERm-KT’£¶lY>ç!*ÖAVt#Àât&n2yIöÚ²Øl³ŞY–%2ÚÈèÆPiË–b$ÕÖ²D&9jËœ‡ÈX‘Ñ o>·
+™È${mYlºYï,Ë
+2ØOÁ@o‘!2æ¨-d˜‡ÈX‘Ñølx#1q^d"“ìµe±³ŞY–%2ÚOúŞàF4¾Á›8#˜x ™ä¨-‹s	ó2Ô!ÈàF ƒ7Œ‰È³×–2³ŞY–%2ÚÈèFöo–b$ÕÖ²D&9jËÆF[–ÈX‡œûp#ş á3ÉÑ2É^[›nÖ{7Ë¿uÖ–EaÙºô#‹ekö@ÃÈğæ°é“e‡M7–e³¯´e}Ğ–es$È}0}H±S%l$¶“eQºYçË
+*ØOPÁÈğ&J‘´´–%*æ²FZÖmY¢¢ıÈŠnX>ˆUÚ²Äåc4¼$·Ê²Ül³Ş9–d°Ÿ ƒ‘áM#‰n°*‘1—…Ò²>hËíGdt# Ã›€DdÈ‚Lr«,ËM7ëcÙ	Y±ß„¬¸‘ÈŠ7‰Œ‰È`UA†d°,Á²DFûIs ÜˆÏ†71‘!2É­²,W`Ö;Ç²‚ödp#2¼É3‚‰ç	¬*}œÈ8|`YœK°¬ ƒıÜdğ&!	²’'dÌ­²,‘™õÎ±¬ ƒıÜÈ³³xÅHZZËsY(-‹nLXVZ_»dÑ<øƒ†4ıÁ “Ü*ËrÓÍzïhÙh»ŸçX6Ùî'äÉ²Iw?ÕIw?ÕÉv?Õ­í~îæÉ²Ã>Y‰–E¤eÙ¡ºŸ0‡X6™î'Ô‡A’ê~B˜eY¢¢e‰Š–Mºû	¥H²İO‚J²î~Âò9Q±²¢[İıDèL¶ûIxIÖİOÜl³ŞY–%2Z–ÈhÙ¤»ŸPŒ$Ûı$È$ëî'@à<DÆ:ˆŒnlu÷á3Ùî'A&Yw?qÓÍzgYVÁ²‚–Mºû‰È˜l÷Ó„ŒYw?æ!2ÖAdtc«»Ÿ8“í~d’u÷W`Ö;Ë²DFË-›t÷Ï&Ûı$È$ëî'K˜G¡A7¶ºû‰È˜l÷Ó„ŒYw?™Yï,Ë-Kd´lÒİO(F’í~d’u÷ p"crîÃ<øƒ†Ïd»ŸÔÙôÆb¤¤»Ÿ²;XÖÛî'ä9–õ¶û	y²¬×İOµ×İOu`krdk³î~ª£î~BËFÓıT³7GÃ ¿W%ˆe½ê~Béf³,KT´QÑ^w?¡&¢b&*Éºû	Ëç<DÅ:ÈŠnŒºû‰Ğ™¸EÈäÅìu÷7Û¬w–e‰Œö#2ºÑëî'ÃDdÌD&Yw?ç!2ÖAdt£úgE|&n2‘1{İıÄM7ëeYAû	2¸Ñëî'"CdÈ‚ŒYw?ÕÓƒØø1Ûı$ÈèF^0µ†ÏÄy‘‰ŒÙëî'®À¬w–e‰Œö#2ºÑëî'HDÆLd’u÷Ï%Ì#ÈP‡ ƒùó¢FÃg"2dA†ìu÷‘™õÎ²,‘Ñ~DF7zİı„b˜ˆŒ™È$ëî§šÿØ¡ÌCd¬CÎ}¸‘Ğğ™äè³×İOÜt³Ş»Y6t¶û	y†eCg»ŸÅ²Èğfèt÷Sèl÷S]Ùî§ºÒİOµ×İOHbYoºŸù¯3T÷æ eQÂF¢ê~Béfs,+¨`?A7"Ã›(E’í~T’u÷–/6·İOÂJÜ¨»ŸÉv?	/Éºû‰›mÖ;Ç²‚ödp#2¼‰b$Ùî'A&Yw?‚ØÜv?	2q£î~"|&Ûı$È$ëî'nºYïËNÈŠı&dÅD†\Øéî§	¬*È˜u÷‘Ñæ¶ûI‰u÷Gb²İO‚L²î~â
+ÌzçXVÁ~‚nD†7yF0Ùî'A&Yw?ñ\¢Ím÷Ó„ŒnÔİODÆd»Ÿ&dÌºû‰ÈÌzçXVÁ~‚näÙY¼‰b$Ùî'A&Yw?‚ØÜv?Mç>İ¨»Ÿää²:ûƒŞØ27İ¬÷–¶û	ye“í~
+|-›t÷SHºû)$ÛıZÛıZİıZİı„DË"Ò²ˆPg«ºŸ0‡X6™î'Ô‡A’ê~
+|ÅÒË-KT´lÒİO(E’í~T’u÷–ÏyˆŠuİØêî'Bg²İOÂK²î~âf›õÎ²,‘Ñ²DFË&İı„b$Ùî'A&Yw?ç!2ÖAdtc«»ŸŸÉv?	2Éºû‰›nÖ;Ë²‚–d°lÒİODÆd»Ÿ&dÌºû‰È0‘±"£[İıÄ‘˜l÷“ “¬»Ÿ¸³ŞY–%2ZVŞeË&İıÄ3‚Év?	2Éºû‰çæd¨CÁ­î~"2&Ûı4!cÖİODfÖ;Ë²DFË-›t÷Š‘d»Ÿ™dİıœ‡ÈX‡œûp#ş á3Ùî'uö½±)éî'…ìS–½¯D½mnB$êusÓp(‰zÛÜjÛÜ¢nn
+Q77!‰D£inB„£jnÂ"Qoš›Pñª¹	a–D‰Šr#*ªÏëæ&”"É67	*æ¨››°|ÎCT¬ƒ¬¨¾¨››‰¸˜ÉËO?Uõº¹i2J…È(7"£ú¼nnB1’ls“ cº¹	8‘±"£ú¢nn"|$"c&2Éº¹‰›nÖ;K¢‚rdPŸ×ÍMDÆd››&dÈQ77æ!2ÖAdT_ÔÍM	‰È˜‰L²nnâ
+ÌzgI”È(7"£ú¼nnâÁd››sÔÍM<—0 C‚ê‹º¹‰È² cÖÍMDfÖ;K¢DF¹ÕçusŠ‘d››sÔÍM€ÀyˆŒuÈ¹õñà>ÒtôƒL²nnâ¦›õâÕ¯÷y¥^]-ênz‡\‰ò
+¹ùkÚ°h‚„4|DŞç—ü¾y©Ş*À*oí««¼ì®"«ò"¼ñÛÀ2¿§GkM)•¿Š+C”ªõú>ón\ßÉoëÇ
+‘2×Öé7éyù	ÇFÂË7Õ›ôPºYçô&=.ìÿ¿÷ƒ×z7®ÿ]?ºŸúÑ?ıJuı>_ş5÷ğ¢²“oÎO¿ç÷?ûç‹§ÎÜ¿ºãïO½_æ‰OùöènokmõDå=jÃDGã«k/ú«Ö»ƒ;¬ßnÇ·ÅŞ¬ßå¸_3ûËv}5¼eö]ySì~µY½Ş{ß<»ïoVo×}yƒlÿşö²ßï¶®ÏŸvy{±Ş»Í0,ß±ûŞ]ïûÏ<ÜáE7ÃŒEï~øq5Vxÿ·—&üÂ·{VÜîuWzIÆÛ=Oc³ç¢·¢ÏçÎ	ä8¾'²3>våqÊH¨ 1i#hWŒa˜ñ
+æÉ”Š2Æâšò”0 Ö÷éw•Ön¼]äÅşÓKÌ_äKãk÷t›7ùv|M°»Øüº]_ìÆ÷&OïÜÿ‹ÛîÜáöp³¾¹}¿r·[w¹îßn;ïüÍ;¾{³:¬wÛ~³pßô‡şr—/¬¯İ“ıjµıaµ»Ú»q/ûËÕá?Ş»×CåÛá¥Ê××‹|G¤¯òíü÷íÙó¯ÒWç§ãÇCıú‘¼Jøÿ Æ9
+endstream
+endobj
+407 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 406 0 R /Annots [281 0 R 283 0 R 285 0 R 287 0 R 289 0 R 291 0 R 293 0 R 295 0 R 297 0 R 299 0 R 301 0 R 303 0 R 305 0 R 307 0 R 309 0 R 311 0 R 313 0 R 315 0 R 317 0 R 319 0 R 321 0 R 323 0 R 325 0 R 327 0 R 329 0 R 331 0 R 333 0 R 335 0 R 337 0 R 339 0 R 341 0 R 343 0 R 345 0 R 347 0 R 349 0 R 351 0 R 353 0 R 355 0 R 357 0 R 359 0 R 361 0 R 363 0 R 365 0 R 367 0 R 369 0 R 371 0 R 373 0 R 375 0 R 377 0 R 379 0 R 381 0 R 383 0 R 385 0 R 387 0 R 389 0 R 391 0 R 393 0 R 395 0 R 397 0 R 399 0 R 401 0 R 403 0 R] >>
+endobj
+408 0 obj
+<< /Fields [7 0 R 9 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 25 0 R 28 0 R 31 0 R 34 0 R 37 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 67 0 R 70 0 R 73 0 R 76 0 R 79 0 R 81 0 R 84 0 R 87 0 R 90 0 R 93 0 R 95 0 R 98 0 R 101 0 R 104 0 R 107 0 R 109 0 R 112 0 R 115 0 R 118 0 R 121 0 R 123 0 R 126 0 R 129 0 R 132 0 R 135 0 R 137 0 R 140 0 R 143 0 R 146 0 R 149 0 R 151 0 R 154 0 R 157 0 R 160 0 R 163 0 R 165 0 R 168 0 R 171 0 R 174 0 R 177 0 R 179 0 R 182 0 R 185 0 R 188 0 R 191 0 R 193 0 R 196 0 R 199 0 R 202 0 R 205 0 R 207 0 R 210 0 R 213 0 R 216 0 R 219 0 R 221 0 R 224 0 R 227 0 R 230 0 R 233 0 R 235 0 R 238 0 R 241 0 R 244 0 R 247 0 R 249 0 R 252 0 R 255 0 R 258 0 R 261 0 R 263 0 R 266 0 R 269 0 R 272 0 R 275 0 R 277 0 R 279 0 R 281 0 R 283 0 R 285 0 R 287 0 R 289 0 R 291 0 R 293 0 R 295 0 R 297 0 R 299 0 R 301 0 R 303 0 R 305 0 R 307 0 R 309 0 R 311 0 R 313 0 R 315 0 R 317 0 R 319 0 R 321 0 R 323 0 R 325 0 R 327 0 R 329 0 R 331 0 R 333 0 R 335 0 R 337 0 R 339 0 R 341 0 R 343 0 R 345 0 R 347 0 R 349 0 R 351 0 R 353 0 R 355 0 R 357 0 R 359 0 R 361 0 R 363 0 R 365 0 R 367 0 R 369 0 R 371 0 R 373 0 R 375 0 R 377 0 R 379 0 R 381 0 R 383 0 R 385 0 R 387 0 R 389 0 R 391 0 R 393 0 R 395 0 R 397 0 R 399 0 R 401 0 R 403 0 R] /CO [279 0 R 281 0 R] /NeedAppearances true /DR << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /DA (/F1 9.5 Tf 0.22 0.16 0.31 rg) >>
+endobj
+409 0 obj
+<< /Type /Catalog /Pages 5 0 R /AcroForm 408 0 R >>
+endobj
+xref
+0 410
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000319 00000 n 
+0000000392 00000 n 
+0000000459 00000 n 
+0000000685 00000 n 
+0000000912 00000 n 
+0000001138 00000 n 
+0000001366 00000 n 
+0000001593 00000 n 
+0000001823 00000 n 
+0000001997 00000 n 
+0000002234 00000 n 
+0000002833 00000 n 
+0000003007 00000 n 
+0000003244 00000 n 
+0000003843 00000 n 
+0000004017 00000 n 
+0000004254 00000 n 
+0000004853 00000 n 
+0000005027 00000 n 
+0000005264 00000 n 
+0000005863 00000 n 
+0000006088 00000 n 
+0000006316 00000 n 
+0000006490 00000 n 
+0000006727 00000 n 
+0000007326 00000 n 
+0000007500 00000 n 
+0000007737 00000 n 
+0000008336 00000 n 
+0000008510 00000 n 
+0000008747 00000 n 
+0000009346 00000 n 
+0000009520 00000 n 
+0000009757 00000 n 
+0000010356 00000 n 
+0000010581 00000 n 
+0000010809 00000 n 
+0000010983 00000 n 
+0000011220 00000 n 
+0000011819 00000 n 
+0000011993 00000 n 
+0000012230 00000 n 
+0000012829 00000 n 
+0000013003 00000 n 
+0000013240 00000 n 
+0000013839 00000 n 
+0000014013 00000 n 
+0000014250 00000 n 
+0000014849 00000 n 
+0000015074 00000 n 
+0000015302 00000 n 
+0000015476 00000 n 
+0000015713 00000 n 
+0000016312 00000 n 
+0000016486 00000 n 
+0000016723 00000 n 
+0000017322 00000 n 
+0000017496 00000 n 
+0000017733 00000 n 
+0000018332 00000 n 
+0000018506 00000 n 
+0000018743 00000 n 
+0000019342 00000 n 
+0000019567 00000 n 
+0000019795 00000 n 
+0000019969 00000 n 
+0000020206 00000 n 
+0000020805 00000 n 
+0000020979 00000 n 
+0000021216 00000 n 
+0000021815 00000 n 
+0000021989 00000 n 
+0000022226 00000 n 
+0000022825 00000 n 
+0000022999 00000 n 
+0000023236 00000 n 
+0000023835 00000 n 
+0000024060 00000 n 
+0000024288 00000 n 
+0000024462 00000 n 
+0000024699 00000 n 
+0000025298 00000 n 
+0000025472 00000 n 
+0000025709 00000 n 
+0000026308 00000 n 
+0000026482 00000 n 
+0000026719 00000 n 
+0000027318 00000 n 
+0000027492 00000 n 
+0000027729 00000 n 
+0000028328 00000 n 
+0000028553 00000 n 
+0000028781 00000 n 
+0000028955 00000 n 
+0000029192 00000 n 
+0000029791 00000 n 
+0000029965 00000 n 
+0000030203 00000 n 
+0000030805 00000 n 
+0000030980 00000 n 
+0000031218 00000 n 
+0000031822 00000 n 
+0000031997 00000 n 
+0000032235 00000 n 
+0000032839 00000 n 
+0000033065 00000 n 
+0000033295 00000 n 
+0000033470 00000 n 
+0000033708 00000 n 
+0000034312 00000 n 
+0000034487 00000 n 
+0000034725 00000 n 
+0000035329 00000 n 
+0000035504 00000 n 
+0000035742 00000 n 
+0000036346 00000 n 
+0000036521 00000 n 
+0000036759 00000 n 
+0000037363 00000 n 
+0000037589 00000 n 
+0000037819 00000 n 
+0000037994 00000 n 
+0000038232 00000 n 
+0000038836 00000 n 
+0000039011 00000 n 
+0000039249 00000 n 
+0000039853 00000 n 
+0000040028 00000 n 
+0000040266 00000 n 
+0000040870 00000 n 
+0000041045 00000 n 
+0000041283 00000 n 
+0000041887 00000 n 
+0000042113 00000 n 
+0000042343 00000 n 
+0000042518 00000 n 
+0000042756 00000 n 
+0000043366 00000 n 
+0000043541 00000 n 
+0000043779 00000 n 
+0000044389 00000 n 
+0000044564 00000 n 
+0000044802 00000 n 
+0000045412 00000 n 
+0000045587 00000 n 
+0000045825 00000 n 
+0000046435 00000 n 
+0000046661 00000 n 
+0000046892 00000 n 
+0000047067 00000 n 
+0000047305 00000 n 
+0000047915 00000 n 
+0000048090 00000 n 
+0000048328 00000 n 
+0000048938 00000 n 
+0000049113 00000 n 
+0000049351 00000 n 
+0000049961 00000 n 
+0000050136 00000 n 
+0000050374 00000 n 
+0000050984 00000 n 
+0000051210 00000 n 
+0000051441 00000 n 
+0000051616 00000 n 
+0000051854 00000 n 
+0000052464 00000 n 
+0000052639 00000 n 
+0000052877 00000 n 
+0000053487 00000 n 
+0000053662 00000 n 
+0000053900 00000 n 
+0000054510 00000 n 
+0000054685 00000 n 
+0000054923 00000 n 
+0000055533 00000 n 
+0000055759 00000 n 
+0000055990 00000 n 
+0000056165 00000 n 
+0000056403 00000 n 
+0000057013 00000 n 
+0000057188 00000 n 
+0000057426 00000 n 
+0000058036 00000 n 
+0000058211 00000 n 
+0000058449 00000 n 
+0000059059 00000 n 
+0000059234 00000 n 
+0000059472 00000 n 
+0000060082 00000 n 
+0000060308 00000 n 
+0000060539 00000 n 
+0000060714 00000 n 
+0000060952 00000 n 
+0000061562 00000 n 
+0000061737 00000 n 
+0000061975 00000 n 
+0000062585 00000 n 
+0000062760 00000 n 
+0000062998 00000 n 
+0000063608 00000 n 
+0000063783 00000 n 
+0000064021 00000 n 
+0000064631 00000 n 
+0000064857 00000 n 
+0000065088 00000 n 
+0000065263 00000 n 
+0000065501 00000 n 
+0000066111 00000 n 
+0000066286 00000 n 
+0000066524 00000 n 
+0000067134 00000 n 
+0000067309 00000 n 
+0000067547 00000 n 
+0000068157 00000 n 
+0000068332 00000 n 
+0000068570 00000 n 
+0000069180 00000 n 
+0000069406 00000 n 
+0000069637 00000 n 
+0000069812 00000 n 
+0000070050 00000 n 
+0000070660 00000 n 
+0000070835 00000 n 
+0000071073 00000 n 
+0000071683 00000 n 
+0000071858 00000 n 
+0000072096 00000 n 
+0000072706 00000 n 
+0000072881 00000 n 
+0000073119 00000 n 
+0000073729 00000 n 
+0000073955 00000 n 
+0000074186 00000 n 
+0000074361 00000 n 
+0000074599 00000 n 
+0000075209 00000 n 
+0000075384 00000 n 
+0000075622 00000 n 
+0000076232 00000 n 
+0000076407 00000 n 
+0000076645 00000 n 
+0000077255 00000 n 
+0000077430 00000 n 
+0000077668 00000 n 
+0000078278 00000 n 
+0000078504 00000 n 
+0000078735 00000 n 
+0000078910 00000 n 
+0000079148 00000 n 
+0000079758 00000 n 
+0000079933 00000 n 
+0000080171 00000 n 
+0000080781 00000 n 
+0000080956 00000 n 
+0000081194 00000 n 
+0000081804 00000 n 
+0000081979 00000 n 
+0000082217 00000 n 
+0000082827 00000 n 
+0000083053 00000 n 
+0000083284 00000 n 
+0000083459 00000 n 
+0000083697 00000 n 
+0000084307 00000 n 
+0000084482 00000 n 
+0000084720 00000 n 
+0000085330 00000 n 
+0000085505 00000 n 
+0000085743 00000 n 
+0000086353 00000 n 
+0000086528 00000 n 
+0000086766 00000 n 
+0000087376 00000 n 
+0000087602 00000 n 
+0000087833 00000 n 
+0000088059 00000 n 
+0000088519 00000 n 
+0000088745 00000 n 
+0000089072 00000 n 
+0000089298 00000 n 
+0000089533 00000 n 
+0000089759 00000 n 
+0000089995 00000 n 
+0000090221 00000 n 
+0000090457 00000 n 
+0000090683 00000 n 
+0000090919 00000 n 
+0000091145 00000 n 
+0000091381 00000 n 
+0000091607 00000 n 
+0000091843 00000 n 
+0000092069 00000 n 
+0000092304 00000 n 
+0000092530 00000 n 
+0000092766 00000 n 
+0000092992 00000 n 
+0000093228 00000 n 
+0000093454 00000 n 
+0000093690 00000 n 
+0000093916 00000 n 
+0000094152 00000 n 
+0000094378 00000 n 
+0000094614 00000 n 
+0000094840 00000 n 
+0000095075 00000 n 
+0000095301 00000 n 
+0000095537 00000 n 
+0000095763 00000 n 
+0000095999 00000 n 
+0000096225 00000 n 
+0000096461 00000 n 
+0000096687 00000 n 
+0000096923 00000 n 
+0000097149 00000 n 
+0000097385 00000 n 
+0000097611 00000 n 
+0000097846 00000 n 
+0000098072 00000 n 
+0000098308 00000 n 
+0000098534 00000 n 
+0000098770 00000 n 
+0000098996 00000 n 
+0000099232 00000 n 
+0000099458 00000 n 
+0000099694 00000 n 
+0000099920 00000 n 
+0000100156 00000 n 
+0000100382 00000 n 
+0000100617 00000 n 
+0000100843 00000 n 
+0000101079 00000 n 
+0000101305 00000 n 
+0000101541 00000 n 
+0000101767 00000 n 
+0000102003 00000 n 
+0000102229 00000 n 
+0000102465 00000 n 
+0000102691 00000 n 
+0000102927 00000 n 
+0000103153 00000 n 
+0000103388 00000 n 
+0000103614 00000 n 
+0000103850 00000 n 
+0000104076 00000 n 
+0000104312 00000 n 
+0000104538 00000 n 
+0000104774 00000 n 
+0000105000 00000 n 
+0000105236 00000 n 
+0000105462 00000 n 
+0000105698 00000 n 
+0000105924 00000 n 
+0000106159 00000 n 
+0000106385 00000 n 
+0000106621 00000 n 
+0000106847 00000 n 
+0000107083 00000 n 
+0000107309 00000 n 
+0000107545 00000 n 
+0000107771 00000 n 
+0000108007 00000 n 
+0000108233 00000 n 
+0000108469 00000 n 
+0000108695 00000 n 
+0000108930 00000 n 
+0000109156 00000 n 
+0000109392 00000 n 
+0000109618 00000 n 
+0000109854 00000 n 
+0000110080 00000 n 
+0000110316 00000 n 
+0000110542 00000 n 
+0000110778 00000 n 
+0000111004 00000 n 
+0000111240 00000 n 
+0000111466 00000 n 
+0000111701 00000 n 
+0000111927 00000 n 
+0000112163 00000 n 
+0000112389 00000 n 
+0000112625 00000 n 
+0000112851 00000 n 
+0000113087 00000 n 
+0000113313 00000 n 
+0000113549 00000 n 
+0000113775 00000 n 
+0000114011 00000 n 
+0000114237 00000 n 
+0000114472 00000 n 
+0000114698 00000 n 
+0000114934 00000 n 
+0000115160 00000 n 
+0000115396 00000 n 
+0000115622 00000 n 
+0000115858 00000 n 
+0000116084 00000 n 
+0000116320 00000 n 
+0000116546 00000 n 
+0000116782 00000 n 
+0000117012 00000 n 
+0000117239 00000 n 
+0000126247 00000 n 
+0000127179 00000 n 
+0000132717 00000 n 
+0000133389 00000 n 
+0000134815 00000 n 
+trailer
+<< /Size 410 /Root 409 0 R >>
+startxref
+134884
+%%EOF
