@@ -1,0 +1,14 @@
+# ============================================================
+# RECURSOS RECOMENDADOS — Vine a Terapia
+# ============================================================
+# Escribe un archivo por línea para destacarlo dentro de su categoría.
+# Puedes escribir:
+#   - carpeta/archivo.pdf  (solo lo destaca en esa carpeta)
+#   - archivo.pdf          (lo destaca donde aparezca)
+#
+# Los recursos aparecerán de primeros en el orden en que los listes aquí.
+# Las líneas que empiezan con # se ignoran.
+# Después de guardar, ejecuta actualizar-catalogo.command o publicar.command.
+# ============================================================
+
+autoestima/escala-de-autoestima-de-rosenberg.pdf

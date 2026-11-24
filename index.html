@@ -127,6 +127,13 @@
   @media(max-width:520px){.cgrid{grid-template-columns:1fr}}
   .card{background:var(--white);border-radius:16px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column;transition:.16s;border:1px solid var(--line)}
   .card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:var(--lilac-mid)}
+  .card.recommended{background:linear-gradient(135deg,#F2E9FC,#E2D3F8);border:1.5px solid #BFA4EA;box-shadow:0 8px 24px rgba(109,76,187,.16)}
+  .card.recommended:hover{background:linear-gradient(135deg,#EBE0FA,#D8C4F6);border-color:var(--lilac);box-shadow:0 16px 36px rgba(109,76,187,.24)}
+  .card.recommended .preview{border-bottom:1px solid #CBB6EE}
+  .card .rec-badge{position:absolute;left:10px;top:10px;z-index:4;display:inline-flex;align-items:center;gap:5px;background:linear-gradient(135deg,#7C5AC8,#5D3EA8);color:#fff;font-size:10.8px;font-weight:700;letter-spacing:.2px;padding:4px 10px;border-radius:99px;box-shadow:0 4px 12px rgba(72,48,125,.28)}
+  .card.recommended .body h3{color:#2E1C59}
+  .card.recommended .btn-prev{background:rgba(255,255,255,.78);border:1px solid #CBB6EE}
+  .card.recommended .btn-prev:hover{background:#fff}
   .card .preview{position:relative;height:178px;background:linear-gradient(150deg,var(--lilac-soft),var(--lilac-mid));display:grid;place-items:center;border-bottom:1px solid var(--line);cursor:pointer;overflow:hidden}
   .card .preview img.pdfthumb{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top center;background:#fff;z-index:1;transition:transform .25s ease}
   .card .preview:hover img.pdfthumb{transform:scale(1.03)}
@@ -257,7 +264,7 @@
     </div>
   </div>
 
-<script src="manifest.js?v=202611232157"></script>
+<script src="manifest.js?v=202611232209"></script>
 <script>
 const COLORS={
   lavender:{tint:"#EDE6FA"},
@@ -407,12 +414,18 @@ function render(){
     let files=filesOf(folder.id).slice();
     files=filterByType(files);
     if(searchTerm){const t=norm(searchTerm);files=files.filter(f=>norm(f.title).includes(t)||norm(f.name).includes(t))}
+    files.sort((a,b)=>{
+      const ar=a.recommended?0:1, br=b.recommended?0:1;
+      if(ar!==br)return ar-br;
+      if(a.recommended&&b.recommended)return (a.recOrder||0)-(b.recOrder||0);
+      return (a.createdAt||0)-(b.createdAt||0);
+    });
     document.getElementById("counts").textContent=`${files.length} recurso${files.length===1?"":"s"}`;
     document.getElementById("searchInput").placeholder="Buscar en esta carpeta…";
     stage.innerHTML="";
     if(!files.length){stage.appendChild(makeEmpty("Sin resultados","No hay recursos que coincidan con este filtro."));return}
     const g=document.createElement("div");g.className="cgrid";
-    files.forEach(f=>g.appendChild(fileCard(f,false)));stage.appendChild(g);
+    files.forEach(f=>g.appendChild(fileCard(f,false,true)));stage.appendChild(g);
     return;
   }
 
@@ -427,6 +440,12 @@ function render(){
     let files=filesOf("cuadernillos").slice();
     files=filterByType(files);
     if(searchTerm){const t=norm(searchTerm);files=files.filter(f=>norm(f.title).includes(t)||norm(f.name).includes(t))}
+    files.sort((a,b)=>{
+      const ar=a.recommended?0:1, br=b.recommended?0:1;
+      if(ar!==br)return ar-br;
+      if(a.recommended&&b.recommended)return (a.recOrder||0)-(b.recOrder||0);
+      return (a.createdAt||0)-(b.createdAt||0);
+    });
     document.getElementById("counts").textContent=`${files.length} cuadernillo${files.length===1?"":"s"}`;
     document.getElementById("searchInput").placeholder="Buscar cuadernillo…";
     stage.innerHTML="";
@@ -439,7 +458,7 @@ function render(){
       return;
     }
     const g=document.createElement("div");g.className="cgrid";
-    files.forEach(f=>g.appendChild(fileCard(f,false)));stage.appendChild(g);
+    files.forEach(f=>g.appendChild(fileCard(f,false,true)));stage.appendChild(g);
     return;
   }
 
@@ -497,7 +516,7 @@ function folderCard(f){
   return el;
 }
 
-function fileCard(f, showFolderTag){
+function fileCard(f, showFolderTag, allowRecommended){
   const ext=extOf(f.name||f.path);
   const hasThumb=typeof f.thumb==="string"&&f.thumb.length>0;
   const visual=hasThumb
@@ -505,10 +524,13 @@ function fileCard(f, showFolderTag){
     :`<svg width="46" height="54" viewBox="0 0 48 56" fill="none"><path d="M6 2h26l10 10v40a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Z" fill="#fff" stroke="#C7B6E8" stroke-width="1.5"/><path d="M32 2v10h10" fill="#EDE6FA" stroke="#C7B6E8" stroke-width="1.5"/></svg>`;
   const folderObj=getFolder(f.folder);
   const tagHtml=(showFolderTag&&folderObj)?`<span class="folder-tag">${esc(folderObj.name)}</span>`:"";
-  const card=document.createElement("div");card.className="card";
+  const isRec=Boolean(allowRecommended&&f.recommended);
+  const recBadge=isRec?`<span class="rec-badge">⭐ Recurso recomendado</span>`:"";
+  const card=document.createElement("div");card.className="card"+(isRec?" recommended":"");
   card.innerHTML=`
     <div class="preview">
       ${visual}
+      ${recBadge}
       <div class="preview-overlay"><span class="preview-pill"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg> Vista previa</span></div>
       <span class="filetype-badge">${ext}</span>
       ${tagHtml}
