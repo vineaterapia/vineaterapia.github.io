@@ -132,20 +132,15 @@
     0%,100%{border-color:#DFB454;box-shadow:0 8px 22px rgba(178,128,28,.18),0 0 0 0 rgba(223,180,84,.48)}
     50%{border-color:#C8921F;box-shadow:0 12px 30px rgba(178,128,28,.28),0 0 0 6px rgba(223,180,84,0)}
   }
-  @keyframes recDotBlink{
-    0%,100%{opacity:1;transform:scale(1);box-shadow:0 0 0 0 rgba(255,209,102,.85)}
-    50%{opacity:.45;transform:scale(.82);box-shadow:0 0 0 5px rgba(255,209,102,0)}
-  }
   .card.recommended{background:linear-gradient(180deg,#FFFBF0 0%,#FBF0D1 100%);border:2px solid #DFB454;box-shadow:0 10px 26px rgba(178,128,28,.18);animation:recBorderPulse 2.4s ease-in-out infinite}
   .card.recommended:hover{transform:translateY(-4px);border-color:#C9972E;box-shadow:0 18px 38px rgba(178,128,28,.3);animation-play-state:paused}
-  .card .rec-ribbon{background:linear-gradient(135deg,#6D4CBB,#4E2E96);color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.75px;text-transform:uppercase;text-align:center;padding:6px 10px;display:flex;align-items:center;justify-content:center;gap:7px}
-  .card .rec-ribbon .rec-dot{width:7px;height:7px;border-radius:50%;background:#FFD166;display:inline-block;flex:0 0 7px;animation:recDotBlink 1.6s ease-in-out infinite}
+  .card .rec-ribbon{background:linear-gradient(135deg,#6D4CBB,#4E2E96);color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.75px;text-transform:uppercase;text-align:center;padding:6px 10px;display:flex;align-items:center;justify-content:center;gap:6px}
   .card.recommended .preview{height:152px;border-bottom:1px solid #EBD08A}
   .card.recommended .body h3{color:#2E1C59}
   .card.recommended .fsize{color:#7B6334}
   .card.recommended .btn-prev{background:rgba(255,255,255,.85);border:1px solid #E2C275;color:#56389E}
   .card.recommended .btn-prev:hover{background:#fff;border-color:#C9972E}
-  @media(prefers-reduced-motion:reduce){.card.recommended,.card .rec-ribbon .rec-dot{animation:none}}
+  @media(prefers-reduced-motion:reduce){.card.recommended{animation:none}}
   .card .preview{position:relative;height:178px;background:linear-gradient(150deg,var(--lilac-soft),var(--lilac-mid));display:grid;place-items:center;border-bottom:1px solid var(--line);cursor:pointer;overflow:hidden}
   .card .preview img.pdfthumb{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top center;background:#fff;z-index:1;transition:transform .25s ease}
   .card .preview:hover img.pdfthumb{transform:scale(1.03)}
@@ -276,7 +271,7 @@
     </div>
   </div>
 
-<script src="manifest.js?v=202611232221"></script>
+<script src="manifest.js?v=202611232228"></script>
 <script>
 const COLORS={
   lavender:{tint:"#EDE6FA"},
@@ -535,7 +530,7 @@ function fileCard(f, showFolderTag, allowRecommended){
   const folderObj=getFolder(f.folder);
   const tagHtml=(showFolderTag&&folderObj)?`<span class="folder-tag">${esc(folderObj.name)}</span>`:"";
   const isRec=Boolean(allowRecommended&&f.recommended);
-  const ribbon=isRec?`<div class="rec-ribbon"><span class="rec-dot" aria-hidden="true"></span> Recurso recomendado</div>`:"";
+  const ribbon=isRec?`<div class="rec-ribbon">⭐ Recurso recomendado</div>`:"";
   const card=document.createElement("div");card.className="card"+(isRec?" recommended":"");
   card.innerHTML=`
     ${ribbon}
