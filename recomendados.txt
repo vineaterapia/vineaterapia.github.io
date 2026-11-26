@@ -58,3 +58,9 @@ h-sist/patrones-relacionales-disfuncionales.pdf
 h-prot/protocolos-guia-para-la-intervencion-psicologica.pdf
 h-prot/protocolos-manual-terapeuta-depresion.pdf
 h-prot/protocolos-manual-terapeuta-tag.pdf
+
+# Tareas para pacientes
+h-hs-tareas/ficha-mapa-corporal-ansiedad.pdf
+h-hs-tareas/registro-de-pensamientos-2.pdf
+h-hs-tareas/rueda-de-vida.pdf
+h-hs-tareas/respiracion-diafragmatica.pdf
