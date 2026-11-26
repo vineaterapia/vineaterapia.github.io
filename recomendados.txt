@@ -12,3 +12,5 @@
 # ============================================================
 
 autoestima/escala-de-autoestima-de-rosenberg.pdf
+ansiedad/evaluacion-de-inicio.pdf
+ansiedad/distorsiones-cognitivas.pdf
