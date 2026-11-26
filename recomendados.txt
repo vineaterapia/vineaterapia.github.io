@@ -64,3 +64,21 @@ h-hs-tareas/ficha-mapa-corporal-ansiedad.pdf
 h-hs-tareas/registro-de-pensamientos-2.pdf
 h-hs-tareas/rueda-de-vida.pdf
 h-hs-tareas/respiracion-diafragmatica.pdf
+
+# Fichas de psicoeducación
+h-hs-fichas/autoestima-y-autocritica.pdf
+h-hs-fichas/dependencia-emocional.pdf
+h-hs-fichas/estilos-de-apego.pdf
+h-hs-fichas/limites-y-vinculos.pdf
+
+# Documento sesiones
+h-hs-docs/check-list-pre-sesion.pdf
+h-hs-docs/entrevista-inicial.pdf
+h-hs-docs/ficha-de-analisis-funcional.pdf
+h-hs-docs/guia-objetivos-en-terapia.pdf
+
+# Tareas y registros
+h-hs-reg/clarificacion-de-valores.pdf
+h-hs-reg/construyendo-una-imagen-mas-justa-de-mi.pdf
+h-hs-reg/distorsiones-cognitivas.pdf
+h-hs-reg/registro-de-pensamientos-tcc.pdf
