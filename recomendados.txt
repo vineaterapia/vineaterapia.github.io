@@ -82,3 +82,21 @@ h-hs-reg/clarificacion-de-valores.pdf
 h-hs-reg/construyendo-una-imagen-mas-justa-de-mi.pdf
 h-hs-reg/distorsiones-cognitivas.pdf
 h-hs-reg/registro-de-pensamientos-tcc.pdf
+
+# TDAH infantil
+kf-tdah/recursos-terapeuticos-tdah.pdf
+kf-tdah/semaforo-del-impulso.pdf
+
+# Ansiedad infantil
+kf-ansiedad/barometro-de-situacion.pdf
+kf-ansiedad/bateria-de-energia.pdf
+
+# Comportamiento
+kf-comport/recursos-ansiedad-infantil.pdf
+
+# Duelo infantil
+kf-luto/recursos-duelo-infantil.pdf
+kf-luto/tarjetas-de-afrontamiento-del-duelo.pdf
+
+# Fichas de anamnesis
+kf-anamnesis/ficha-1.pdf
