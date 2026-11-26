@@ -104,7 +104,13 @@
   body.is-home .head{display:none}
   body.is-home .home-hero{display:flex}
   body.is-home .toolbar{flex-direction:column;align-items:center;gap:14px;margin-bottom:0}
-  body.is-home .search{width:100%;max-width:680px;padding:14px 20px;border-radius:99px;box-shadow:0 10px 30px rgba(109,76,187,.12)}
+  @keyframes searchInvite{
+    0%,100%{border-color:#D8C8F5;box-shadow:0 10px 30px rgba(109,76,187,.14),0 0 0 0 rgba(109,76,187,.24)}
+    50%{border-color:#7C5AC8;box-shadow:0 14px 34px rgba(109,76,187,.22),0 0 0 6px rgba(109,76,187,0)}
+  }
+  body.is-home .search{width:100%;max-width:680px;padding:14px 20px;border-radius:99px;border-width:1.5px;animation:searchInvite 2.8s ease-in-out infinite}
+  body.is-home .search:hover,body.is-home .search:focus-within{animation:none;border-color:var(--lilac);box-shadow:0 12px 32px rgba(109,76,187,.2),0 0 0 3px rgba(109,76,187,.14)}
+  @media(prefers-reduced-motion:reduce){body.is-home .search{animation:none}}
   body.is-home .search input{font-size:15px}
   body.is-home .chips{justify-content:center}
   .home-notice{display:none;max-width:560px;width:100%;margin:14px auto 0;padding:9px 15px;font-size:11.5px;line-height:1.45;text-align:center;justify-content:center;background:rgba(237,230,250,.55);border:1px solid #DDD2F4;border-left:1px solid #DDD2F4;box-shadow:none;color:var(--muted)}
@@ -304,7 +310,7 @@
       <div class="modal-foot">
         <div class="meta" id="modalMeta"></div>
         <div class="btns">
-          <button type="button" class="btn-pri" id="modalDl">Descargar PDF</button>
+          <button type="button" class="btn-pri" id="modalDl">Descargar</button>
         </div>
       </div>
     </div>
@@ -675,7 +681,7 @@ async function openModal(f){
     if(f.thumb){
       body.innerHTML=`<img src="${esc(f.thumb)}" alt="${esc(f.title)}" />`;
     }else{
-      body.innerHTML=`<p style="color:var(--muted)">Vista previa no disponible. Usa el botón Descargar PDF.</p>`;
+      body.innerHTML=`<p style="color:var(--muted)">Vista previa no disponible. Usa el botón Descargar.</p>`;
     }
   }
 }
