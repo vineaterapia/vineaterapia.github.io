@@ -26,6 +26,43 @@ depresion/depresion-criterios-diagnostico.pdf
 depresion/comprender-la-depresion-pensamientos-emociones-comportamientos.pdf
 depresion/guia-clinica-riesgo-suicida.pdf
 
+# Regulación emocional
+regulacion/mapa-corporal-de-la-ansiedad.pdf
+regulacion/rueda-de-emociones.pdf
+
+# Trauma
+trauma/a-que-se-parece-lo-que-sientes.pdf
+trauma/exposicion-narrativa-gradual.pdf
+
+# Estrés
+estres/circulos-de-control.pdf
+estres/mapa-estresores.pdf
+estres/registro-semanal.pdf
+
+# TDAH
+tdah/analisis-de-la-gestion-del-tiempo.pdf
+tdah/distorsiones-cognitivas-tdah-y-procrastinacion.pdf
+tdah/matriz-de-prioridades-eisenhower.pdf
+
+# TCA
+tca/tareas-2.pdf
+
+# TOC
+toc/psicoeducacion-trampa-del-alivio.pdf
+
+# Familia y vínculos
+familia/las-5-heridas-basicas.pdf
+familia/duelo-por-la-familia-que-no-tuve.pdf
+familia/lo-que-me-llevo-y-lo-que-decido-dejar.pdf
+
+# Perfeccionismo
+perfeccionismo/identificar-tus-rasgos-perfeccionistas.pdf
+
+# Parejas
+parejas/estilos-de-apego-en-la-edad-adulta.pdf
+parejas/identificar-signos-de-una-relacion-abusiva.pdf
+parejas/reestructurar-pensamientos-tras-una-ruptura.pdf
+
 # Técnicas DBT
 h-dbt/tecnicas-dbt-accepts.pdf
 h-dbt/practica-accion-opuesta.pdf
