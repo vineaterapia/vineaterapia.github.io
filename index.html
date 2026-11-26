@@ -99,13 +99,32 @@
   body.is-home .search{width:100%;max-width:680px;padding:14px 20px;border-radius:99px;box-shadow:0 10px 30px rgba(109,76,187,.12)}
   body.is-home .search input{font-size:15px}
   body.is-home .chips{justify-content:center}
-  .home-notice{display:none;max-width:580px;width:100%;margin:82px auto 0;padding:12px 18px;font-size:12.5px;line-height:1.5;text-align:center;justify-content:center;background:rgba(237,230,250,.55);border:1px solid #DDD2F4;border-left:1px solid #DDD2F4;box-shadow:none;color:var(--muted)}
+  .home-notice{display:none;max-width:580px;width:100%;margin:26px auto 0;padding:12px 18px;font-size:12.5px;line-height:1.5;text-align:center;justify-content:center;background:rgba(237,230,250,.55);border:1px solid #DDD2F4;border-left:1px solid #DDD2F4;box-shadow:none;color:var(--muted)}
   .home-notice svg{display:none}
   body.is-home .home-notice{display:flex}
+  .home-featured{display:none;width:100%;max-width:920px;margin:34px auto 0}
+  body.is-home .home-featured{display:block}
+  .feat-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;padding:0 4px}
+  .feat-head h3{font-size:11.5px;font-weight:800;letter-spacing:1.1px;text-transform:uppercase;color:var(--lilac)}
+  .feat-arrows{display:flex;gap:6px}
+  .feat-arrow{width:30px;height:30px;border-radius:99px;background:var(--white);border:1px solid var(--line);color:var(--ink);font-size:16px;line-height:1;display:grid;place-items:center;box-shadow:var(--shadow);transition:.14s}
+  .feat-arrow:hover{background:var(--lilac-soft);color:var(--lilac)}
+  .feat-viewport{overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;padding:4px 2px 10px;mask-image:linear-gradient(to right,transparent,#000 3%,#000 97%,transparent);-webkit-mask-image:linear-gradient(to right,transparent,#000 3%,#000 97%,transparent)}
+  .feat-viewport::-webkit-scrollbar{display:none}
+  .feat-track{display:flex;gap:14px;width:max-content}
+  .feat-card{flex:0 0 200px;background:var(--white);border:1px solid var(--line);border-radius:15px;overflow:hidden;box-shadow:var(--shadow);cursor:pointer;transition:transform .16s,box-shadow .16s,border-color .16s;display:flex;flex-direction:column}
+  .feat-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg);border-color:var(--lilac-mid)}
+  .feat-thumb{height:122px;background:var(--lilac-soft);border-bottom:1px solid var(--line);overflow:hidden}
+  .feat-thumb img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block}
+  .feat-info{padding:10px 12px 12px}
+  .feat-cat{display:block;font-size:10.5px;font-weight:700;color:var(--lilac);margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .feat-info h4{font-size:13px;font-weight:700;color:var(--ink);line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   @media(max-width:860px){
     body.is-home .wrap{min-height:auto;padding-top:26px;padding-bottom:60px}
     body.is-home .menu-btn{align-self:flex-start}
     .home-hero h2{font-size:34px}
+    .feat-card{flex:0 0 170px}
+    .feat-thumb{height:105px}
   }
 
   /* Grids */
@@ -243,6 +262,18 @@
         </div>
         <div class="chips" id="filterChips"></div>
       </div>
+      <section class="home-featured" id="homeFeatured" aria-label="Recursos destacados">
+        <div class="feat-head">
+          <h3>Recursos destacados</h3>
+          <div class="feat-arrows">
+            <button class="feat-arrow" id="featPrev" aria-label="Anterior">‹</button>
+            <button class="feat-arrow" id="featNext" aria-label="Siguiente">›</button>
+          </div>
+        </div>
+        <div class="feat-viewport" id="featuredViewport">
+          <div class="feat-track" id="featuredTrack"></div>
+        </div>
+      </section>
       <div class="notice-banner home-notice">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
         <div>Este repositorio está siendo actualizado constantemente por psicólogos clínicos. Si encuentras un error o requieres de un material específico, envía un mail a <a href="mailto:vineaterapia@gmail.com" style="color:var(--lilac);font-weight:700;text-decoration:underline">vineaterapia@gmail.com</a></div>
@@ -588,6 +619,58 @@ document.getElementById("searchInput").oninput=e=>{searchTerm=e.target.value;ren
 document.getElementById("clearSearch").onclick=()=>{setSearch("");render()};
 document.getElementById("menuBtn").onclick=()=>{document.getElementById("sidebar").classList.add("open");document.getElementById("backdrop").classList.add("show")};
 document.getElementById("backdrop").onclick=closeSidebar;
+
+function initFeaturedCarousel(){
+  const track=document.getElementById("featuredTrack");
+  const viewport=document.getElementById("featuredViewport");
+  const prev=document.getElementById("featPrev");
+  const next=document.getElementById("featNext");
+  if(!track||!viewport)return;
+  const withThumb=CAT.files.filter(f=>typeof f.thumb==="string"&&f.thumb.length>0);
+  const shuffle=arr=>{const a=arr.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a};
+  const recs=shuffle(withThumb.filter(f=>f.recommended));
+  const others=shuffle(withThumb.filter(f=>!f.recommended));
+  const pool=(recs.length>=12?recs:recs.concat(others)).slice(0,16);
+  if(!pool.length)return;
+
+  function buildCard(f){
+    const folderObj=getFolder(f.folder);
+    const el=document.createElement("div");
+    el.className="feat-card";
+    el.innerHTML=`
+      <div class="feat-thumb"><img src="${esc(f.thumb)}" alt="${esc(f.title||f.name)}" loading="lazy"></div>
+      <div class="feat-info">
+        <span class="feat-cat">${esc(folderObj?folderObj.name:"Recurso clínico")}</span>
+        <h4>${esc(f.title||f.name)}</h4>
+      </div>`;
+    el.onclick=()=>openModal(f);
+    return el;
+  }
+
+  track.innerHTML="";
+  pool.forEach(f=>track.appendChild(buildCard(f)));
+  pool.forEach(f=>track.appendChild(buildCard(f)));
+
+  let paused=false, rafId=null;
+  const speed=0.55;
+  function step(){
+    if(!paused&&document.body.classList.contains("is-home")){
+      viewport.scrollLeft+=speed;
+      const half=track.scrollWidth/2;
+      if(half>0&&viewport.scrollLeft>=half)viewport.scrollLeft-=half;
+    }
+    rafId=requestAnimationFrame(step);
+  }
+  viewport.addEventListener("mouseenter",()=>{paused=true});
+  viewport.addEventListener("mouseleave",()=>{paused=false});
+  viewport.addEventListener("touchstart",()=>{paused=true},{passive:true});
+  viewport.addEventListener("touchend",()=>{setTimeout(()=>{paused=false},1800)},{passive:true});
+  prev.onclick=()=>{viewport.scrollBy({left:-240,behavior:"smooth"})};
+  next.onclick=()=>{viewport.scrollBy({left:240,behavior:"smooth"})};
+  if(rafId)cancelAnimationFrame(rafId);
+  rafId=requestAnimationFrame(step);
+}
+initFeaturedCarousel();
 render();
 </script>
 </body>
