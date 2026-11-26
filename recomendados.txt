@@ -20,6 +20,12 @@ ansiedad/TEST-inventario-de-ansiedad-de-beck-bai.pdf
 ansiedad/evaluacion-de-inicio.pdf
 ansiedad/distorsiones-cognitivas.pdf
 
+# Depresión
+depresion/TEST-inventario-de-depresion-de-beck-bdi-ii.pdf
+depresion/depresion-criterios-diagnostico.pdf
+depresion/comprender-la-depresion-pensamientos-emociones-comportamientos.pdf
+depresion/guia-clinica-riesgo-suicida.pdf
+
 # Técnicas DBT
 h-dbt/tecnicas-dbt-accepts.pdf
 h-dbt/practica-accion-opuesta.pdf

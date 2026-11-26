@@ -1,0 +1,2259 @@
+%PDF-1.6
+%âãÏÓ
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /ZapfDingbats >>
+endobj
+5 0 obj
+<< /Type /Pages /Kids [369 0 R 371 0 R 373 0 R 375 0 R] /Count 4 >>
+endobj
+6 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 235.00 18.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 234.40 17.40 re B /Tx BMC EMC
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_nom) /V () /Ff 0 /F 4 /Rect [54.00 683.00 289.00 701.00] /DA (/F1 8.6 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 6 0 R >> >>
+endobj
+8 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 108.00 18.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 107.40 17.40 re B /Tx BMC EMC
+endstream
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_fec) /V () /Ff 0 /F 4 /Rect [300.00 683.00 408.00 701.00] /DA (/F1 8.6 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 8 0 R >> >>
+endobj
+10 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 122.00 18.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 121.40 17.40 re B /Tx BMC EMC
+endstream
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_ses) /V () /Ff 0 /F 4 /Rect [419.00 683.00 541.00 701.00] /DA (/F1 8.6 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 10 0 R >> >>
+endobj
+12 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p0) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 576.21 543.28 589.21] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 12 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q0_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q0_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q0_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q0_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+14 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+15 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q0_o0) /V /Off /AS /Off /F 4 /Rect [53.00 560.66 62.50 570.16] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 14 0 R /Yes 15 0 R >> /D << /Off 14 0 R /Yes 15 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q0_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+17 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+18 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q0_o1) /V /Off /AS /Off /F 4 /Rect [53.00 546.46 62.50 555.96] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 17 0 R /Yes 18 0 R >> /D << /Off 17 0 R /Yes 18 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q0_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+20 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+21 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+22 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q0_o2) /V /Off /AS /Off /F 4 /Rect [53.00 532.26 62.50 541.76] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 20 0 R /Yes 21 0 R >> /D << /Off 20 0 R /Yes 21 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q0_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+23 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+24 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q0_o3) /V /Off /AS /Off /F 4 /Rect [53.00 518.06 62.50 527.56] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 23 0 R /Yes 24 0 R >> /D << /Off 23 0 R /Yes 24 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q0_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q0_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+26 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+27 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p1) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 491.91 543.28 504.91] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 26 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q1_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q1_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q1_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q1_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+28 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+29 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+30 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q1_o0) /V /Off /AS /Off /F 4 /Rect [53.00 476.36 62.50 485.86] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 28 0 R /Yes 29 0 R >> /D << /Off 28 0 R /Yes 29 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q1_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+31 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+32 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+33 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q1_o1) /V /Off /AS /Off /F 4 /Rect [53.00 462.16 62.50 471.66] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 31 0 R /Yes 32 0 R >> /D << /Off 31 0 R /Yes 32 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q1_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+34 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+35 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+36 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q1_o2) /V /Off /AS /Off /F 4 /Rect [53.00 447.96 62.50 457.46] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 34 0 R /Yes 35 0 R >> /D << /Off 34 0 R /Yes 35 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q1_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+37 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+38 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+39 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q1_o3) /V /Off /AS /Off /F 4 /Rect [53.00 433.76 62.50 443.26] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 37 0 R /Yes 38 0 R >> /D << /Off 37 0 R /Yes 38 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q1_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q1_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+40 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+41 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p2) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 407.61 543.28 420.61] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 40 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q2_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q2_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q2_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q2_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+42 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+43 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+44 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q2_o0) /V /Off /AS /Off /F 4 /Rect [53.00 392.06 62.50 401.56] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 42 0 R /Yes 43 0 R >> /D << /Off 42 0 R /Yes 43 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q2_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+45 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+46 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+47 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q2_o1) /V /Off /AS /Off /F 4 /Rect [53.00 377.86 62.50 387.36] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 45 0 R /Yes 46 0 R >> /D << /Off 45 0 R /Yes 46 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q2_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+48 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+49 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+50 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q2_o2) /V /Off /AS /Off /F 4 /Rect [53.00 363.66 62.50 373.16] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 48 0 R /Yes 49 0 R >> /D << /Off 48 0 R /Yes 49 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q2_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+51 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+52 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+53 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q2_o3) /V /Off /AS /Off /F 4 /Rect [53.00 349.46 62.50 358.96] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 51 0 R /Yes 52 0 R >> /D << /Off 51 0 R /Yes 52 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q2_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q2_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+54 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+55 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p3) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 323.31 543.28 336.31] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 54 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q3_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q3_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q3_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q3_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+56 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+57 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+58 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q3_o0) /V /Off /AS /Off /F 4 /Rect [53.00 307.76 62.50 317.26] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 56 0 R /Yes 57 0 R >> /D << /Off 56 0 R /Yes 57 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q3_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+59 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+60 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+61 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q3_o1) /V /Off /AS /Off /F 4 /Rect [53.00 293.56 62.50 303.06] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 59 0 R /Yes 60 0 R >> /D << /Off 59 0 R /Yes 60 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q3_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+62 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+63 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+64 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q3_o2) /V /Off /AS /Off /F 4 /Rect [53.00 279.36 62.50 288.86] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 62 0 R /Yes 63 0 R >> /D << /Off 62 0 R /Yes 63 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q3_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+65 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+66 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+67 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q3_o3) /V /Off /AS /Off /F 4 /Rect [53.00 265.16 62.50 274.66] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 65 0 R /Yes 66 0 R >> /D << /Off 65 0 R /Yes 66 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q3_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q3_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+68 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+69 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p4) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 239.01 543.28 252.01] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 68 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q4_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q4_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q4_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q4_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+70 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+71 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+72 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q4_o0) /V /Off /AS /Off /F 4 /Rect [53.00 223.46 62.50 232.96] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 70 0 R /Yes 71 0 R >> /D << /Off 70 0 R /Yes 71 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q4_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+73 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+74 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+75 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q4_o1) /V /Off /AS /Off /F 4 /Rect [53.00 209.26 62.50 218.76] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 73 0 R /Yes 74 0 R >> /D << /Off 73 0 R /Yes 74 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q4_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+76 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+77 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+78 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q4_o2) /V /Off /AS /Off /F 4 /Rect [53.00 195.06 62.50 204.56] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 76 0 R /Yes 77 0 R >> /D << /Off 76 0 R /Yes 77 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q4_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+79 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+80 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+81 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q4_o3) /V /Off /AS /Off /F 4 /Rect [53.00 180.86 62.50 190.36] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 79 0 R /Yes 80 0 R >> /D << /Off 79 0 R /Yes 80 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q4_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q4_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+82 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+83 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p5) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 154.71 543.28 167.71] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 82 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q5_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q5_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q5_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q5_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+84 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+85 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+86 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q5_o0) /V /Off /AS /Off /F 4 /Rect [53.00 139.16 62.50 148.66] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 84 0 R /Yes 85 0 R >> /D << /Off 84 0 R /Yes 85 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q5_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+87 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+88 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+89 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q5_o1) /V /Off /AS /Off /F 4 /Rect [53.00 124.96 62.50 134.46] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 87 0 R /Yes 88 0 R >> /D << /Off 87 0 R /Yes 88 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q5_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+90 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+91 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+92 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q5_o2) /V /Off /AS /Off /F 4 /Rect [53.00 110.76 62.50 120.26] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 90 0 R /Yes 91 0 R >> /D << /Off 90 0 R /Yes 91 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q5_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+93 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+94 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+95 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q5_o3) /V /Off /AS /Off /F 4 /Rect [53.00 96.56 62.50 106.06] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 93 0 R /Yes 94 0 R >> /D << /Off 93 0 R /Yes 94 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q5_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q5_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+96 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+97 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p6) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 704.70 543.28 717.70] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 96 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q6_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q6_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q6_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q6_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+98 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+99 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+100 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q6_o0) /V /Off /AS /Off /F 4 /Rect [53.00 688.65 62.50 698.15] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 98 0 R /Yes 99 0 R >> /D << /Off 98 0 R /Yes 99 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q6_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+101 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+102 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+103 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q6_o1) /V /Off /AS /Off /F 4 /Rect [53.00 673.45 62.50 682.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 101 0 R /Yes 102 0 R >> /D << /Off 101 0 R /Yes 102 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q6_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+104 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+105 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+106 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q6_o2) /V /Off /AS /Off /F 4 /Rect [53.00 658.25 62.50 667.75] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 104 0 R /Yes 105 0 R >> /D << /Off 104 0 R /Yes 105 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q6_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+107 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+108 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+109 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q6_o3) /V /Off /AS /Off /F 4 /Rect [53.00 643.05 62.50 652.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 107 0 R /Yes 108 0 R >> /D << /Off 107 0 R /Yes 108 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q6_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q6_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+110 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+111 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p7) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 615.40 543.28 628.40] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 110 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q7_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q7_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q7_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q7_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+112 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+113 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+114 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q7_o0) /V /Off /AS /Off /F 4 /Rect [53.00 599.35 62.50 608.85] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 112 0 R /Yes 113 0 R >> /D << /Off 112 0 R /Yes 113 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q7_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+115 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+116 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+117 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q7_o1) /V /Off /AS /Off /F 4 /Rect [53.00 584.15 62.50 593.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 115 0 R /Yes 116 0 R >> /D << /Off 115 0 R /Yes 116 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q7_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+118 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+119 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+120 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q7_o2) /V /Off /AS /Off /F 4 /Rect [53.00 568.95 62.50 578.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 118 0 R /Yes 119 0 R >> /D << /Off 118 0 R /Yes 119 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q7_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+121 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+122 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+123 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q7_o3) /V /Off /AS /Off /F 4 /Rect [53.00 553.75 62.50 563.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 121 0 R /Yes 122 0 R >> /D << /Off 121 0 R /Yes 122 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q7_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q7_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+124 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+125 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p8) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 526.10 543.28 539.10] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 124 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q8_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q8_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q8_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q8_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+126 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+127 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+128 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q8_o0) /V /Off /AS /Off /F 4 /Rect [53.00 510.05 62.50 519.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 126 0 R /Yes 127 0 R >> /D << /Off 126 0 R /Yes 127 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q8_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+129 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+130 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+131 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q8_o1) /V /Off /AS /Off /F 4 /Rect [53.00 494.85 62.50 504.35] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 129 0 R /Yes 130 0 R >> /D << /Off 129 0 R /Yes 130 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q8_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+132 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+133 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+134 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q8_o2) /V /Off /AS /Off /F 4 /Rect [53.00 479.65 62.50 489.15] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 132 0 R /Yes 133 0 R >> /D << /Off 132 0 R /Yes 133 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q8_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+135 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+136 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+137 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q8_o3) /V /Off /AS /Off /F 4 /Rect [53.00 464.45 62.50 473.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 135 0 R /Yes 136 0 R >> /D << /Off 135 0 R /Yes 136 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q8_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q8_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+138 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+139 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p9) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 436.80 543.28 449.80] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 138 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q9_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q9_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q9_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q9_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+140 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+141 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+142 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q9_o0) /V /Off /AS /Off /F 4 /Rect [53.00 420.75 62.50 430.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 140 0 R /Yes 141 0 R >> /D << /Off 140 0 R /Yes 141 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q9_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+143 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+144 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+145 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q9_o1) /V /Off /AS /Off /F 4 /Rect [53.00 405.55 62.50 415.05] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 143 0 R /Yes 144 0 R >> /D << /Off 143 0 R /Yes 144 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q9_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+146 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+147 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+148 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q9_o2) /V /Off /AS /Off /F 4 /Rect [53.00 390.35 62.50 399.85] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 146 0 R /Yes 147 0 R >> /D << /Off 146 0 R /Yes 147 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q9_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+149 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+150 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+151 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q9_o3) /V /Off /AS /Off /F 4 /Rect [53.00 375.15 62.50 384.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 149 0 R /Yes 150 0 R >> /D << /Off 149 0 R /Yes 150 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q9_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q9_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+152 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+153 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p10) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 347.50 543.28 360.50] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 152 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q10_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q10_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q10_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q10_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+154 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+155 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+156 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q10_o0) /V /Off /AS /Off /F 4 /Rect [53.00 331.45 62.50 340.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 154 0 R /Yes 155 0 R >> /D << /Off 154 0 R /Yes 155 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q10_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+157 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+158 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+159 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q10_o1) /V /Off /AS /Off /F 4 /Rect [53.00 316.25 62.50 325.75] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 157 0 R /Yes 158 0 R >> /D << /Off 157 0 R /Yes 158 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q10_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+160 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+161 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+162 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q10_o2) /V /Off /AS /Off /F 4 /Rect [53.00 301.05 62.50 310.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 160 0 R /Yes 161 0 R >> /D << /Off 160 0 R /Yes 161 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q10_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+163 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+164 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+165 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q10_o3) /V /Off /AS /Off /F 4 /Rect [53.00 285.85 62.50 295.35] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 163 0 R /Yes 164 0 R >> /D << /Off 163 0 R /Yes 164 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q10_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q10_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+166 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+167 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p11) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 258.20 543.28 271.20] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 166 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q11_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q11_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q11_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q11_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+168 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+169 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+170 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q11_o0) /V /Off /AS /Off /F 4 /Rect [53.00 242.15 62.50 251.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 168 0 R /Yes 169 0 R >> /D << /Off 168 0 R /Yes 169 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q11_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+171 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+172 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+173 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q11_o1) /V /Off /AS /Off /F 4 /Rect [53.00 226.95 62.50 236.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 171 0 R /Yes 172 0 R >> /D << /Off 171 0 R /Yes 172 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q11_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+174 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+175 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+176 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q11_o2) /V /Off /AS /Off /F 4 /Rect [53.00 211.75 62.50 221.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 174 0 R /Yes 175 0 R >> /D << /Off 174 0 R /Yes 175 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q11_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+177 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+178 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+179 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q11_o3) /V /Off /AS /Off /F 4 /Rect [53.00 196.55 62.50 206.05] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 177 0 R /Yes 178 0 R >> /D << /Off 177 0 R /Yes 178 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q11_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q11_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+180 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+181 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p12) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 168.90 543.28 181.90] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 180 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q12_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q12_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q12_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q12_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+182 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+183 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+184 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q12_o0) /V /Off /AS /Off /F 4 /Rect [53.00 152.85 62.50 162.35] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 182 0 R /Yes 183 0 R >> /D << /Off 182 0 R /Yes 183 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q12_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+185 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+186 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+187 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q12_o1) /V /Off /AS /Off /F 4 /Rect [53.00 137.65 62.50 147.15] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 185 0 R /Yes 186 0 R >> /D << /Off 185 0 R /Yes 186 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q12_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+188 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+189 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+190 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q12_o2) /V /Off /AS /Off /F 4 /Rect [53.00 122.45 62.50 131.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 188 0 R /Yes 189 0 R >> /D << /Off 188 0 R /Yes 189 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q12_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+191 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+192 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+193 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q12_o3) /V /Off /AS /Off /F 4 /Rect [53.00 107.25 62.50 116.75] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 191 0 R /Yes 192 0 R >> /D << /Off 191 0 R /Yes 192 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q12_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q12_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+194 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+195 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p13) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 704.70 543.28 717.70] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 194 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q13_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q13_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q13_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q13_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+196 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+197 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+198 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q13_o0) /V /Off /AS /Off /F 4 /Rect [53.00 689.35 62.50 698.85] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 196 0 R /Yes 197 0 R >> /D << /Off 196 0 R /Yes 197 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q13_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+199 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+200 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+201 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q13_o1) /V /Off /AS /Off /F 4 /Rect [53.00 675.55 62.50 685.05] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 199 0 R /Yes 200 0 R >> /D << /Off 199 0 R /Yes 200 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q13_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+202 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+203 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+204 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q13_o2) /V /Off /AS /Off /F 4 /Rect [53.00 661.75 62.50 671.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 202 0 R /Yes 203 0 R >> /D << /Off 202 0 R /Yes 203 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q13_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+205 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+206 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+207 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q13_o3) /V /Off /AS /Off /F 4 /Rect [53.00 647.95 62.50 657.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 205 0 R /Yes 206 0 R >> /D << /Off 205 0 R /Yes 206 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q13_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q13_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+208 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+209 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p14) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 622.80 543.28 635.80] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 208 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q14_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q14_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q14_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q14_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+210 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+211 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+212 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q14_o0) /V /Off /AS /Off /F 4 /Rect [53.00 607.45 62.50 616.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 210 0 R /Yes 211 0 R >> /D << /Off 210 0 R /Yes 211 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q14_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+213 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+214 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+215 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q14_o1) /V /Off /AS /Off /F 4 /Rect [53.00 593.65 62.50 603.15] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 213 0 R /Yes 214 0 R >> /D << /Off 213 0 R /Yes 214 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q14_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+216 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+217 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+218 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q14_o2) /V /Off /AS /Off /F 4 /Rect [53.00 579.85 62.50 589.35] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 216 0 R /Yes 217 0 R >> /D << /Off 216 0 R /Yes 217 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q14_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+219 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+220 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+221 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q14_o3) /V /Off /AS /Off /F 4 /Rect [53.00 566.05 62.50 575.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 219 0 R /Yes 220 0 R >> /D << /Off 219 0 R /Yes 220 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q14_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q14_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+222 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+223 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p15) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 540.90 543.28 553.90] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 222 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q15_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1a=this.getField\('bdi_q15_o1a'\); if\(f_1a && f_1a.value!='Off'\) v=1; var f_1b=this.getField\('bdi_q15_o1b'\); if\(f_1b && f_1b.value!='Off'\) v=1; var f_2a=this.getField\('bdi_q15_o2a'\); if\(f_2a && f_2a.value!='Off'\) v=2; var f_2b=this.getField\('bdi_q15_o2b'\); if\(f_2b && f_2b.value!='Off'\) v=2; var f_3a=this.getField\('bdi_q15_o3a'\); if\(f_3a && f_3a.value!='Off'\) v=3; var f_3b=this.getField\('bdi_q15_o3b'\); if\(f_3b && f_3b.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+224 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+225 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+226 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o0) /V /Off /AS /Off /F 4 /Rect [53.00 525.55 62.50 535.05] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 224 0 R /Yes 225 0 R >> /D << /Off 224 0 R /Yes 225 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+227 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+228 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+229 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o1a) /V /Off /AS /Off /F 4 /Rect [53.00 511.75 62.50 521.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 227 0 R /Yes 228 0 R >> /D << /Off 227 0 R /Yes 228 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+230 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+231 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+232 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o1b) /V /Off /AS /Off /F 4 /Rect [307.00 511.75 316.50 521.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 230 0 R /Yes 231 0 R >> /D << /Off 230 0 R /Yes 231 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+233 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+234 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+235 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o2a) /V /Off /AS /Off /F 4 /Rect [53.00 497.95 62.50 507.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 233 0 R /Yes 234 0 R >> /D << /Off 233 0 R /Yes 234 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+236 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+237 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+238 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o2b) /V /Off /AS /Off /F 4 /Rect [307.00 497.95 316.50 507.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 236 0 R /Yes 237 0 R >> /D << /Off 236 0 R /Yes 237 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+239 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+240 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+241 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o3a) /V /Off /AS /Off /F 4 /Rect [53.00 484.15 62.50 493.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 239 0 R /Yes 240 0 R >> /D << /Off 239 0 R /Yes 240 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+242 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+243 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+244 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q15_o3b) /V /Off /AS /Off /F 4 /Rect [307.00 484.15 316.50 493.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 242 0 R /Yes 243 0 R >> /D << /Off 242 0 R /Yes 243 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q15_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q15_o3a'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+245 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+246 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p16) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 459.00 543.28 472.00] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 245 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q16_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q16_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q16_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q16_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+247 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+248 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+249 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q16_o0) /V /Off /AS /Off /F 4 /Rect [53.00 443.65 62.50 453.15] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 247 0 R /Yes 248 0 R >> /D << /Off 247 0 R /Yes 248 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q16_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+250 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+251 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+252 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q16_o1) /V /Off /AS /Off /F 4 /Rect [53.00 429.85 62.50 439.35] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 250 0 R /Yes 251 0 R >> /D << /Off 250 0 R /Yes 251 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q16_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+253 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+254 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+255 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q16_o2) /V /Off /AS /Off /F 4 /Rect [53.00 416.05 62.50 425.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 253 0 R /Yes 254 0 R >> /D << /Off 253 0 R /Yes 254 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q16_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+256 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+257 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+258 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q16_o3) /V /Off /AS /Off /F 4 /Rect [53.00 402.25 62.50 411.75] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 256 0 R /Yes 257 0 R >> /D << /Off 256 0 R /Yes 257 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q16_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q16_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+259 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+260 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p17) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 377.10 543.28 390.10] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 259 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q17_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1a=this.getField\('bdi_q17_o1a'\); if\(f_1a && f_1a.value!='Off'\) v=1; var f_1b=this.getField\('bdi_q17_o1b'\); if\(f_1b && f_1b.value!='Off'\) v=1; var f_2a=this.getField\('bdi_q17_o2a'\); if\(f_2a && f_2a.value!='Off'\) v=2; var f_2b=this.getField\('bdi_q17_o2b'\); if\(f_2b && f_2b.value!='Off'\) v=2; var f_3a=this.getField\('bdi_q17_o3a'\); if\(f_3a && f_3a.value!='Off'\) v=3; var f_3b=this.getField\('bdi_q17_o3b'\); if\(f_3b && f_3b.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+261 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+262 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+263 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o0) /V /Off /AS /Off /F 4 /Rect [53.00 361.75 62.50 371.25] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 261 0 R /Yes 262 0 R >> /D << /Off 261 0 R /Yes 262 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+264 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+265 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+266 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o1a) /V /Off /AS /Off /F 4 /Rect [53.00 347.95 62.50 357.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 264 0 R /Yes 265 0 R >> /D << /Off 264 0 R /Yes 265 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+267 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+268 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+269 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o1b) /V /Off /AS /Off /F 4 /Rect [307.00 347.95 316.50 357.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 267 0 R /Yes 268 0 R >> /D << /Off 267 0 R /Yes 268 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+270 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+271 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+272 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o2a) /V /Off /AS /Off /F 4 /Rect [53.00 334.15 62.50 343.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 270 0 R /Yes 271 0 R >> /D << /Off 270 0 R /Yes 271 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+273 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+274 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+275 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o2b) /V /Off /AS /Off /F 4 /Rect [307.00 334.15 316.50 343.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 273 0 R /Yes 274 0 R >> /D << /Off 273 0 R /Yes 274 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+276 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+277 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+278 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o3a) /V /Off /AS /Off /F 4 /Rect [53.00 320.35 62.50 329.85] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 276 0 R /Yes 277 0 R >> /D << /Off 276 0 R /Yes 277 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3b'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+279 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+280 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+281 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q17_o3b) /V /Off /AS /Off /F 4 /Rect [307.00 320.35 316.50 329.85] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 279 0 R /Yes 280 0 R >> /D << /Off 279 0 R /Yes 280 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q17_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o1b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2a'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o2b'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q17_o3a'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+282 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+283 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p18) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 295.20 543.28 308.20] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 282 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q18_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q18_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q18_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q18_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+284 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+285 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+286 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q18_o0) /V /Off /AS /Off /F 4 /Rect [53.00 279.85 62.50 289.35] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 284 0 R /Yes 285 0 R >> /D << /Off 284 0 R /Yes 285 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q18_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+287 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+288 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+289 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q18_o1) /V /Off /AS /Off /F 4 /Rect [53.00 266.05 62.50 275.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 287 0 R /Yes 288 0 R >> /D << /Off 287 0 R /Yes 288 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q18_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+290 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+291 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+292 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q18_o2) /V /Off /AS /Off /F 4 /Rect [53.00 252.25 62.50 261.75] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 290 0 R /Yes 291 0 R >> /D << /Off 290 0 R /Yes 291 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q18_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+293 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+294 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+295 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q18_o3) /V /Off /AS /Off /F 4 /Rect [53.00 238.45 62.50 247.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 293 0 R /Yes 294 0 R >> /D << /Off 293 0 R /Yes 294 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q18_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q18_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+296 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+297 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p19) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 213.30 543.28 226.30] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 296 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q19_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q19_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q19_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q19_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+298 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+299 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+300 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q19_o0) /V /Off /AS /Off /F 4 /Rect [53.00 197.95 62.50 207.45] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 298 0 R /Yes 299 0 R >> /D << /Off 298 0 R /Yes 299 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q19_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+301 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+302 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+303 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q19_o1) /V /Off /AS /Off /F 4 /Rect [53.00 184.15 62.50 193.65] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 301 0 R /Yes 302 0 R >> /D << /Off 301 0 R /Yes 302 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q19_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+304 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+305 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+306 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q19_o2) /V /Off /AS /Off /F 4 /Rect [53.00 170.35 62.50 179.85] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 304 0 R /Yes 305 0 R >> /D << /Off 304 0 R /Yes 305 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q19_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+307 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+308 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+309 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q19_o3) /V /Off /AS /Off /F 4 /Rect [53.00 156.55 62.50 166.05] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 307 0 R /Yes 308 0 R >> /D << /Off 307 0 R /Yes 308 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q19_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q19_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+310 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 30.00 13.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 29.40 12.40 re B /Tx BMC EMC
+endstream
+endobj
+311 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_p20) /V () /Ff 1 /Q 1 /F 4 /Rect [513.28 131.40 543.28 144.40] /DA (/F1 7.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 310 0 R >> /AA << /C << /S /JavaScript /JS (var v=''; var f_0=this.getField\('bdi_q20_o0'\); if\(f_0 && f_0.value!='Off'\) v=0; var f_1=this.getField\('bdi_q20_o1'\); if\(f_1 && f_1.value!='Off'\) v=1; var f_2=this.getField\('bdi_q20_o2'\); if\(f_2 && f_2.value!='Off'\) v=2; var f_3=this.getField\('bdi_q20_o3'\); if\(f_3 && f_3.value!='Off'\) v=3;  event.value=v;) >> >> >>
+endobj
+312 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+313 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+314 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q20_o0) /V /Off /AS /Off /F 4 /Rect [53.00 116.05 62.50 125.55] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 312 0 R /Yes 313 0 R >> /D << /Off 312 0 R /Yes 313 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q20_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+315 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+316 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+317 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q20_o1) /V /Off /AS /Off /F 4 /Rect [53.00 102.25 62.50 111.75] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 315 0 R /Yes 316 0 R >> /D << /Off 315 0 R /Yes 316 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q20_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o2'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+318 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+319 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+320 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q20_o2) /V /Off /AS /Off /F 4 /Rect [53.00 88.45 62.50 97.95] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 318 0 R /Yes 319 0 R >> /D << /Off 318 0 R /Yes 319 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q20_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o3'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+321 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 55 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B
+endstream
+endobj
+322 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 9.50 9.50] /Length 117 >>
+stream
+1 1 1 rg 0.30 0.18 0.48 RG 0.8 w 0.4 0.4 8.70 8.70 re B 0.30 0.18 0.48 RG 1.8 w 2.09 4.94 m 4.18 2.38 l 7.60 7.22 l S
+endstream
+endobj
+323 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (bdi_q20_o3) /V /Off /AS /Off /F 4 /Rect [53.00 74.65 62.50 84.15] /DA (/F4 10 Tf 0.30 0.18 0.48 rg) /MK << /BC [0.30 0.18 0.48] /BG [1 1 1] /CA (4) >> /AP << /N << /Off 321 0 R /Yes 322 0 R >> /D << /Off 321 0 R /Yes 322 0 R >> >> /AA << /U << /S /JavaScript /JS (var f=this.getField\('bdi_q20_o0'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o1'\); if\(f\) f.value='Off'; var f=this.getField\('bdi_q20_o2'\); if\(f\) f.value='Off'; this.calculateNow\(\);) >> >> >>
+endobj
+324 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 52.00 20.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 51.40 19.40 re B /Tx BMC EMC
+endstream
+endobj
+325 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_tot) /V () /Ff 1 /Q 1 /F 4 /Rect [158.00 666.00 210.00 686.00] /DA (/F1 10.0 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 324 0 R >> /AA << /C << /S /JavaScript /JS (var s=0,c=0; for\(var i=0;i<21;i++\){var f=this.getField\('bdi_p'+i\); if\(f && f.value!=='' && !isNaN\(Number\(f.value\)\)\){s+=Number\(f.value\); c++;}} event.value=\(c>0\)?s:'';) >> >> >>
+endobj
+326 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 236.00 20.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 235.40 19.40 re B /Tx BMC EMC
+endstream
+endobj
+327 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_niv) /V (Sin responder) /Ff 1 /Q 1 /F 4 /Rect [302.00 666.00 538.00 686.00] /DA (/F1 8.8 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 326 0 R >> /AA << /C << /S /JavaScript /JS (var s=0,c=0; for\(var i=0;i<21;i++\){var f=this.getField\('bdi_p'+i\); if\(f && f.value!=='' && !isNaN\(Number\(f.value\)\)\){s+=Number\(f.value\); c++;}} if\(c===0\){event.value='Sin responder';} else if\(c<21\){event.value='Respondidos: '+c+'/21';} else if\(s<=13\){event.value='Depresión Mínima \(0 - 13\)';} else if\(s<=19\){event.value='Depresión Leve \(14 - 19\)';} else if\(s<=28\){event.value='Depresión Moderada \(20 - 28\)';} else {event.value='Depresión Grave \(29 - 63\)';}) >> >> >>
+endobj
+328 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 340.00 20.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 339.40 19.40 re B /Tx BMC EMC
+endstream
+endobj
+329 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_alerta9) /V (Sin responder) /Ff 1 /Q 1 /F 4 /Rect [198.00 637.00 538.00 657.00] /DA (/F1 8.3 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 328 0 R >> /AA << /C << /S /JavaScript /JS (var f=this.getField\('bdi_p8'\); if\(!f || f.value===''\){event.value='Sin responder';} else if\(Number\(f.value\)===0\){event.value='Sin ideación reportada \(Ítem 9 = 0\)';} else {event.value='ALERTA \(Ítem 9 = '+f.value+'\): Evaluar riesgo suicida de inmediato';}) >> >> >>
+endobj
+330 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 78.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 77.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+331 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r0_c0) /V () /Ff 0 /F 4 /Rect [48.00 309.87 126.00 323.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 330 0 R >> >>
+endobj
+332 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 86.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 85.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+333 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r0_c1) /V () /Ff 0 /F 4 /Rect [134.00 309.87 220.00 323.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 332 0 R >> >>
+endobj
+334 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.64 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 65.04 13.40 re B /Tx BMC EMC
+endstream
+endobj
+335 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r0_c2) /V () /Ff 0 /F 4 /Rect [228.00 309.87 293.64 323.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 334 0 R >> >>
+endobj
+336 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 78.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 77.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+337 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r0_c3) /V () /Ff 0 /F 4 /Rect [301.64 309.87 379.64 323.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 336 0 R >> >>
+endobj
+338 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 86.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 85.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+339 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r0_c4) /V () /Ff 0 /F 4 /Rect [387.64 309.87 473.64 323.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 338 0 R >> >>
+endobj
+340 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.64 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 65.04 13.40 re B /Tx BMC EMC
+endstream
+endobj
+341 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r0_c5) /V () /Ff 0 /F 4 /Rect [481.64 309.87 547.28 323.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 340 0 R >> >>
+endobj
+342 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 78.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 77.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+343 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r1_c0) /V () /Ff 0 /F 4 /Rect [48.00 287.87 126.00 301.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 342 0 R >> >>
+endobj
+344 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 86.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 85.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+345 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r1_c1) /V () /Ff 0 /F 4 /Rect [134.00 287.87 220.00 301.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 344 0 R >> >>
+endobj
+346 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.64 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 65.04 13.40 re B /Tx BMC EMC
+endstream
+endobj
+347 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r1_c2) /V () /Ff 0 /F 4 /Rect [228.00 287.87 293.64 301.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 346 0 R >> >>
+endobj
+348 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 78.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 77.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+349 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r1_c3) /V () /Ff 0 /F 4 /Rect [301.64 287.87 379.64 301.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 348 0 R >> >>
+endobj
+350 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 86.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 85.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+351 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r1_c4) /V () /Ff 0 /F 4 /Rect [387.64 287.87 473.64 301.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 350 0 R >> >>
+endobj
+352 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.64 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 65.04 13.40 re B /Tx BMC EMC
+endstream
+endobj
+353 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r1_c5) /V () /Ff 0 /F 4 /Rect [481.64 287.87 547.28 301.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 352 0 R >> >>
+endobj
+354 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 78.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 77.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+355 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r2_c0) /V () /Ff 0 /F 4 /Rect [48.00 265.87 126.00 279.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 354 0 R >> >>
+endobj
+356 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 86.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 85.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+357 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r2_c1) /V () /Ff 0 /F 4 /Rect [134.00 265.87 220.00 279.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 356 0 R >> >>
+endobj
+358 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.64 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 65.04 13.40 re B /Tx BMC EMC
+endstream
+endobj
+359 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r2_c2) /V () /Ff 0 /F 4 /Rect [228.00 265.87 293.64 279.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 358 0 R >> >>
+endobj
+360 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 78.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 77.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+361 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r2_c3) /V () /Ff 0 /F 4 /Rect [301.64 265.87 379.64 279.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 360 0 R >> >>
+endobj
+362 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 86.00 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 85.40 13.40 re B /Tx BMC EMC
+endstream
+endobj
+363 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r2_c4) /V () /Ff 0 /F 4 /Rect [387.64 265.87 473.64 279.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 362 0 R >> >>
+endobj
+364 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 65.64 14.00] /Resources << /Font << /F1 1 0 R >> >> /Length 69 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 65.04 13.40 re B /Tx BMC EMC
+endstream
+endobj
+365 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_hist_r2_c5) /V () /Ff 0 /F 4 /Rect [481.64 265.87 547.28 279.87] /DA (/F1 8.5 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 364 0 R >> >>
+endobj
+366 0 obj
+<< /Type /XObject /Subtype /Form /FormType 1 /BBox [0 0 485.28 60.00] /Resources << /Font << /F1 1 0 R >> >> /Length 70 >>
+stream
+1 1 1 rg 0.80 0.69 0.95 RG 0.6 w 0.3 0.3 484.68 59.40 re B /Tx BMC EMC
+endstream
+endobj
+367 0 obj
+<< /Type /Annot /Subtype /Widget /FT /Tx /T (bdi_obs) /V () /Ff 4096 /F 4 /Rect [55.00 148.56 540.28 208.56] /DA (/F1 8.9 Tf 0.22 0.16 0.31 rg) /MK << /BC [0.80 0.69 0.95] /BG [1 1 1] >> /AP << /N 366 0 R >> >>
+endobj
+368 0 obj
+<< /Filter /FlateDecode /Length 4967 >>
+stream
+xœÅ\M“7’½ëWÔÑaÓ…úÚ›,÷ì*Ö–îö|)±KE²—šĞÄüÅ=ímo:ÎÁ§¹ù´	¼Ì K¦ÈîE(ZıšD"3
+x	€¬C_Wõbh‡ğs°Õîõ£zQ‡¿Ñfh¶¯zoıPí¦ê½8XK¯ö]Zô^[ôµÏÚ¸.kÒGƒí»j\õÓ¿Ç?V+Z®µ?à¹º¦×í:2]K?}üî¦úö¯¶êM]İ¼ª||woúğßÍmõÕ÷W/~ºº~ú¿ÏªêUõôÙ]=»yüÓÓçÕ÷WÕwWOş³ú¦úîû§ß<}ZıòÕãŸosıóùË_ª›_««êÓ›Ğ›|ğºöÚ§£>úlù”wúâıëÕf¬Lu;UÿÏaZï	U››şTöò|»6€ÏËŞ».›ÊÜP¶éC#ã%ˆ·«Í4¦İx·Ëíú„ßñÍS{ÔDç:g£w½c<&òÁ%3¾êÉVB1µËG‚û–Û
+ÎTbi€%îh)nÜ­oC1lØŒ€íÂ…Yaô°ëyœËGßıiÚ)Ï6æİ8C[Õµ­$¾¤i Ëˆıå+ŒØÏ¥C4KıÔÍ¢n«Îk?WoÇù÷±šÇêõn|;İ·a¼ÎÛ}µÿmsØ®Ç=á»İ´_½¥¿Mzç¾ú}>¬â+ámÓzÜĞï¿|µ|?/ó¶ÔîıaµÜã¼5aP¸.Î+í'Çı±¡ñâ£Ëm×ÊxiŒÃx¡×½`mG£×+êM9^LSÓ-ˆ¶ÔY<pè‡Ñ’İ`Ç‹Õ÷ò €M>^Ø/ìŒ°ëEœ§ÆKÇiƒÎêFX|¶]¿¤éáÛêÉv³?Î‡qs˜şMr|¨«üç§sß…Ü7œwÈ½ÅCÀx&Ü-ÚV°íAïÎ'ÄñziËx&ØRWXj–ğÖe0Ğ:`ˆ°2?øÌ…YaôFØõ"ÎÏÍ½«ë’ÿ×iùf¼<Û®vEº=,kº}İféöuŸ…£H¦)Æ’nÅ1Ol‰SÈıhºÙÍ·£_RÂ9l¶¤¨—¶u‘sÅÑK¶Ä”ñ~nÚ½>HûU˜«¾­®ijú×æòô{k‹ô7®/Òß¸!KãM>šµ2òL‘~Å¦°$#ıhúÙM¿§I&¥ŸÃ"ÍP¤_°¤_1	,É *âEú{äÅ7¹æ³M€	Ìô®ùÃÜÜ/Is3c›ËlLqP¾ùğšÎÍmë‹¹¹¥…0ÍÍm;ds3#™›ÊÜÌ'\˜à‹¹.èÜÿ`„]/âD¦>¢zØß—+•×1€€%>’	ÙJÕ¸b¥úÙhd¶aXg+\/â\>z%oåÀê.º~g¡úÑÔ1X´\k8e'µjEÓ$MïH¦ë›Ÿ~~òäéógW×A(=~ñÃÓ'ŸlJ2ÄÚ0ÔM\s¦V»†fš.·ë’DÚ¦jyœö‡Õv3îVÛjI«ìaBÉÒMÇ»mPIÕøjµ[Kz×´_T?LSxcEòy³¤)ªZ·#Ş]½«Öãne×rÜ¯æ9£Ÿb‚ŞşßÇ©ZO¿nwôÒ~¹[½/ˆÂ6¥!Šå¿ÖÛŠy3Í¶9¬n·Õíq”BÔtÿ÷ÃÍÓSŞ_W×W?>~öøúëjµYÎÇğÎi®n‹N¾Ù¾[T×«ê-e‚šå1‡—›j½ÚSW”Œß»i9m.pÄTÛEçW¯ã¼‚¯ãİnKÅÈí¸ÿ:%‘:¾;nGdnıü"´¸dQˆ•”¥dcÜÂÊG<c<Ó¶ÌÃ·!wivPDÁd3\CR§6é™nHù¡Kƒ‰s%÷´7 ã3M&âb3bòL³³ÂèëEœŸáğ®Î‡–)À)À_P´)¤|›/œ¸ Ù€l®q¦NÃ×d3ÜGP“f8IYJRvrƒg8T”],HÃc`ÕÍnEÓÑßÇÓU_ĞNÚipè=.dqoâ°¿Gy`Za˜Ÿ:ÃP=äãÆsçİ‚ÖEFœà^Û:}[‰¥~€¥ZÆ
+Ú²ÀÔ–ÊéÖê»MaÉäı„¶¹sÂğ’-qE¼á)ùDÊ>d4)&LhM[õ¶~ÔÆQÂp~Ôš°,2l-^3Á6¼²|$°§Ù3´cH1P;éÂÌZq Ké0HÚÅ ?Ğs;†~
+Œ®±8]ÄwZÒcX¶X0*ëÅç-Øåë†š?ÛÒzYíW´LĞÂŸZí^®²vœZNòG³…ÏøTş ™ß-œòG‹Ïø©Ëøkâ!0( Ê òÈ¤Àˆ Çí¸féá§ÀèÓE|gòGÖ;™.à/5ÿñCò^“:	ò~½%rXMë»í½It6Œt%PIdfœ[%ÑùğŠ’HÅ\—‘HsS¯$Ò´Õ)‰ J" ’(ÌD#Ğ’ˆî•D¸ÆFàtß™$:/Kƒ½„ÄÔü$’>¬6ÇñaÀ°½‘¨ä2#%/ìØeä‘,n2ò,vX`Ävá5î @ÉTò ™Ğp;†5üd×Øœ.â;“¼Pß#ûîòRóŒ<zò˜@ ªAèq\’ğŞ~;ÆÚd³%Í=Qm°ßŞmw‡q7Ÿ|6O	noû0™«Äd¬“1«)ï‚ZMÈ‘Ê$fm¡~7“$fsIb©ÄT‰	È’fXˆ|@vaVıƒv½ˆó„àö$dº<À)À?	á.ecğ,t¾\6à‚fşq6àzgÜØù‚[R¦ià”%¸ıĞ1V/¦ı*V´(î`É>œâ)2ÅÍX7cÖĞÑ‡&!!'
+»Ö¶Œ]œËXq×– ¸kiËJ8)n~·),™¼UÜìÇœ0¼„%‰ ˆ÷ŠÛ“fwi½`(ëC,¤¿môáY/|ïÂÂ<+ôQ¤ÁHßÄ• ÈzÁPÖ†XØˆ Çí Ñı¬0ºÆFàtßyëE°Ş^®¸³æ¤¸§ıaû.¬ãfµÆâ°ß†³¨õªzu<w÷l’n2•C@&¦¥|)‡­G#pàj‹®£Fã`¢ àAbPÅHŠV?ƒB!¦Nê;PÑ½r×Øœ.â;“C²î/WİYó´æ‡m³?#2®úa¿poJ©2J•R@æ‰Öˆ^)¥åjÈ(%k>£´i£rƒ‘¦‹Õ: PJ•R@æ	F4Üİ+¥pÀé"¾3){î—kğ¬y|,ï&f,lî.·{úw“§Í½Ù#™Óeì*{€LI¸!¡ì¹i¸òbhãdÌCÀÅ2Œ‡‡CE#ÉuZ	
+…’hD€áv€è^ÙƒklNñÉkE4\"Â³æ×xãö¿>zqs}Y7§ÇsW½û€İıv¦÷­ï¦ínÜ½?Éò)-îHQµ™úd¬ê“1-.ÁØ„†…ÉÔ§§²Ægê3œHöª>Ã‰ä ê“ÑRK½ 2:BV{0Ã }ˆúdf…Ñ?a×‹8Oiqº>×âÀI‹K|¤\}ÒâõÀè‹eƒ]P-ÿØ\/âÌ´8vç”¥4 eçiqSËö[T×áÜjŸxØôŠ*Òq‘2'»Ã*sJO›+sà¤ÌE‹×¨ÿ½ºÒfÊÜmË[³lÉÖ°TËĞi3eÎX•¹¼Û–LŞORæFÛ^²% ˆ÷ÊÜ…;wia(‹C¬èN£ú!ÛÉqáp>[Dê:íäx*=t'‡."€ºˆ òÊ # Ü,"Üı¬Ğ¦vºˆï¼E$Xw—+ó¬y±Ç$jºû®ı®‹Ç)J ÒÈÔPĞ)mäaŸÑF•K´¹[ç0ÒwQ  ¡¡ĞÆ¹€·D÷J\c#pºˆïLÚú:¬5—Šñ¬ùL‰,ÖãÕ-p;½œv¿İŸ@ªC²3(†J  ³BE‚A¹¶ÉÏ •AÙ”ël:ƒrKgP”@@%PX±IÉqJ ºWáÓE|gHÖ‡Ë¥wÖüÉqÜêV¤ÙÆÃîışëêí$O`Ø'¡ÆàŞL’^ÈN£*“€LÕzåh9ÎN£<Ùi”kút€F1P&•I@¦F´ùiw¯LÂ56§‹øÎd’¬w—Ëğ¬yª‹›±"İ½ßÒÿ‡íA.¢Èƒzïk&¶ğª-«¶dÌ2ÊOÎ&ä}¦-U5&Ó–êŠFµ¥s=Ä=hK†¢-²|†ê]˜Fÿ`„]/â<¡´5Ázª;€Sİ,ñYš@Rİa–4_,ì‚ÖğÀõ"Î¤´%°ó•¶¤,¥);Ki;ÛÊ–_T/ş¹»]İâbÕ<.§İ;XlNc‡TºLc3VÍ˜U³³(ï½ºâ2íœ¶u2PÕØ_§›‘jlÆª±åİ¦°dò~Tc³sÂğ’-qE¼÷ÑØu—oÔ0Ô§}ûºQãê!ß¨qáâX¶B˜6mÔ8*"t£†®€ºB ò´#š|£†»×®±8]Äwæ
+AeN}š¿Ú¿Úi¸Í·apm³z}ÜÇ3Ô1¬ Ëízû0;§vˆ‡+B)C¡”!x¢'tá| -.·bÇ…‹
+€ÇŒC#wZş
+…'›i9t ”r÷³ÂèŒ°ÓE|çQ¬÷—ëï¬9•M·eõÁy—ú2•G@¦®¯ÓÁ”íM~0>2“L…ÏÓèÁ”íût0Å@xd(<2dr`D@›Lq÷Ê#\c#pºˆïLÉz{¹Ïš?y˜6¯I‡ßUwÛå–±’Óp9{æ'6’*Ü/ï]fY*	²C+†Ê/ “>ô§üR&²C+ÛÙüĞÊv.ZÙÎ§C+Ê/ òÈ¤Áˆ ›Zq÷Ê/\c#pºˆïL~é?¹8ÏšÓsºeŠ7«Íëß7Nğ)Ñnº¶¸ÍXe*cVd¦ë³ÛĞ¦¯‹ÛĞ–šô™Lµ¤È¬ÊTÛx¨@"SŠLeÈJf ‘©ì‚ÈTöFØõ"Î¢İ’êó8•0À‰é>•0$ºÜ—Í» %üc#p½ˆ3‰v	ì|Ñ.)KIAÊÎíÖ[Ù:jş¸=¾<Îw—\VİÃ	wëyTê«pgÌRÜzlxu¥Î„{ ®Î„»m°WË–Kµœ:îŒU¸Ë»MaÉäı¨pg?æ„á%[âŠxï!Ü-Iÿlk‡¡®€¼$P¡[;Ö6ùÖĞ²ÕÃÙ´µ€ní0ĞÕPW@^`D@oíp÷ºzÀ56§‹øÎ\=Èzw¹pÏš›ãáLu¹’MøÈ¼œï}QÕÖC~Ë˜¡2È´PE¡·Œ­1ù-ckÚü–±5]ºelMŸn3P•A@¦F´ù-cî^„klNñÉ 1rMø"š§Í9!,ÌwëãòMQ‡½	ÿ–oH,Èöyø@ É„ø×ûrl†&?Âb(3qè–ºüËRİ”aÙÚ¥#,>¤ª(Ç€Ê1 #l~„ÅİÏ
+›t„ÅNñÇq°î.×ğYóÄñËq¿Ñ ‘=Õz|·İ=ø§‚.ÊÎ·*§€LcoÒù–ém~¾eú>?ß2ıÎ·ÌP§ó-KRu~¾Å‰‚}~¾Åİ+§pÀé"¾39í¨ŒKt{Öü#Ï->KKì~ÖNÉòÁW¦U†²à"­“îKmq]š‚âÏ²îÂ÷³¨¶¯!3Xù×ü9CÌ5”‚ˆéYfÃŒ€†?×áĞæ·¥áLÀë<¾jÜ°iòÚ8Õ&À[øuªMşÔä—Ë» µ	üc#p½ˆ3©q	ì|5.)Ki@ÊÎRãÁqŞHj?¢Æi[½¾ä²Š	Çi§ÇCB»L3V=Î˜¶i° H>ÖÌ¸Õ¶Œ±¯Ë–Ú–j:]¦Ç«—w›Â’ÉûQ=Î~Ì	ÃK¶ÄñŞCRôÙnC] yª§Xu7Çx“ïæßæ»9Æwi7ÇĞÖİº* êª ÈS=Œhóİî^W¸ÆFàtß™«Y÷—ëñ¬9éñ}ºô8íÿŒøvËÏÌƒÜ\1Öçw*‡€LLøÖåĞ¶ùcCõOvçØ8—îçÓcÊ! rÈÄÀˆ ›ß9æî•C¸ÆFàtß™ÚN._¢È³æÙ­UşTÉì‡¤ÏÔùYC¥9¡:AÏ²Œ±ùY–¡J(;Ë2fHgYÆÖé,‹Ò¨ô2'0" ÏÏ²¸{¥®±8]Äw&}4ùÕ÷Û©ùî‹?0iC›V	e@ D¿T}~PejŸT…ï¯Óƒ*S·é Šò¨|2	0"ÀçUè]è‚_0ó¸ÎãŠ,÷—kèÔúº˜)·ïşlªü³¯ìXºğe]ıÆÇ'ñóº¿Ø='éò[üŞÊ®ijÂ VwøjK»¨®æøÅ+ã¯$Îíß_½ß/ËT¯§Í´£ÿ÷áõğã&}Eàşf¹L
+endstream
+endobj
+369 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 368 0 R /Annots [7 0 R 9 0 R 11 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 41 0 R 44 0 R 47 0 R 50 0 R 53 0 R 55 0 R 58 0 R 61 0 R 64 0 R 67 0 R 69 0 R 72 0 R 75 0 R 78 0 R 81 0 R 83 0 R 86 0 R 89 0 R 92 0 R 95 0 R] >>
+endobj
+370 0 obj
+<< /Filter /FlateDecode /Length 4933 >>
+stream
+xœÅ\Ë²7’İë+°´#ÆìÂ£^³“mÍŒbZ²Ãº=+oÊ¼Ô5'Šäm>ÔÑó‹³š/ğÒ­zçÕ$*O&²ÔvS$o·6²Ïe!‘À*2AV‹¾«\µè›>ÿÛ·xV-ªü7ú§îëEè\—ü¢ëİ~åŞÒ‡}ôi×v¹E—´EW%Ó&¶¦I7lú©«:ºïş}ú£ûÓ¬åFûc<º7ôyèsG¾mèßÔM~yç~÷oÁu‹ºrwo]šî|—ÿswï>ûúÅ·ß½xóòÿ^;÷?Î½|ı_/^ß=ÿîå7îëîË_ı§ûÂ}ùõË/^¾tßöüwß|ñæ¯ÿùçîî¿İ‹;ê3ùÜ[èSöºJÚg¤>#úlum;ıö§‡õvpÁİ¯\"Ãÿ{\m®uƒóÑÚş­é³›>nòøÙÍ¼é¹©ë³F¨»ÜÈ'Å»õv5Wûáq=,–»Í¿Å7ŸMıéY=9×Æ0y÷¬N“wÀ#ab¯\×?Md« in—ÏwÚ
+îÑ;±Ô³%ôÃh)nôè–XkôY^70# áv€ìÂ¨pòFàºçòÙ—wÚiÃ4ï¾¢ç£k›F&~¾JË
+–%ûıg¼d¿ÿœVïWß¼¾[|Ìrí'óÔŸ‹ºqmÒş^ûåàN´b»qpÃÛõ~3,×İºÇİŞ=ìO;wX=ü²uË¿nvî¸r?úËö¸¾ß¹ÕÖëı÷~—?ÚÛá ^åeP9ûïo-,æ4mç†Ş-/˜fAk8/˜~ZÁXMì­W”BŞ²`|M–ã[zÅ9Xjï8îh	7 §SyXlFÀÔ‡,¸ ş±¸>'/˜_ÙZpƒ–ImfXgXÆG¯ÍÚÔÎ·Ï?6à‚nöFØõÙ8—ÏŞê£<02@®ÖçŞ†õ´€lËM™²³±„7JÄñ÷I»p/·‡á¸>¼–ÓşXî¶´ovn³>lvç7apí"qÌè#{TbÆñğ¯×l˜¶ÎoXßëØ1•Áyøy\'tN³Ÿ
+Â*ìµ-p³ˆK÷úñÒ~xÙ©d¤	ú´ŸYò¶ŸÜÖú1Ì^ÂF0oŞ9¿1e²Ìï˜iÊ¦•Ôtİ¢©iÆšiå ÏOÄ	lÖç0ĞWù“å3ÍÂOí i­Ò£l¤ïògè€ÁRºgHƒ‹^!JhĞ°b?Ù5a§gã;ŒdY6­XïyUV&´„'sEÉJ›Ó†újûš¿YSØ¹;Äıñ´rÃö¸¢±ûvñæ=ğ»aqfíŸ%²‹dˆd¨D2;mZÄêü‰Ùå­Uˆìè Dè•HJ$C%’¡°3P¡Cî^‰d×`„ïB"ÉzËLøkˆ,ÍÿcåWûûïé÷v=lÿ2äÈÿ„fùid¨2+u?í(ô|06u~%*¤ª:%f¥U(•@†`…¨Ñ°b?Ù5a§gã»@ö53®!°4q8îşLç‘åêq¹Şm‡{¢,S¹Y?ìŒBŠ•¡¡RÈ¼è¨ó'J!éèÚPHÁ»Q
+)(×J!¥¡RÈPx™Œ¨Ğ!w¯²k0ÂNÏÆw!…d=2ñ
+Kó×DÔÊ=œˆI:I~üÎ;§³ó©)e	¬Ê"ª®³¾)(äiReÙ„†E¯ân:Æ‰b¯X5@ÏW½EWøE"Oâ™ÍhXÛ3„£ÂÉ?6×gã<£³›,;ì©ƒq9u0–ñ‘ÊåÔ¡:è“ÍF#ÒKàäŒ°ë³q-»\gË”•ià)»Hg7¾“wU·pÏOÇİrÿş¸^WÈêl«}:Y'1Y¬²B¹¡Fm*‹NpĞ¶Àô–PY™M*«TV«¬–§ıÌ’·ı¨¬†cÁì%,a³ñŞ «ë¾Ï:F" D@¼Ş«ÊDöÊçO4TSàÕH@K³×H@G§N#50ÄëhĞĞ³Ÿ+(ğ^ïÂHPM_-«KsËıšöÇÎm×:ôçŸEdßÏë.e1£,2T25uW—à^w8¬ ö‡*À0©0,…8w,“È‡™ä¨‡œ^!S#<Ú1ì=TUêŒ°Ó³ñ]Æb¶®×Ô¦ùd™/~ÏıŠËéã‘M‡İø~p‡ÕşfN›./å”¡rÊD5ı´Ã´8·lp¾l'YÆFÚn:lq”S†Ê)CÅF4hXéùªR×`„ïBN[?%c¯”Ù¦ùWØ“Ç]ÎƒÄáÛÕòH`çVûınÿÛ’†İ
+*…ÁKJ£®qrz=NX€az)cÄé¥Œ5ùä"3õÄÓ+^Î¯•v Öµ°*uFØéÙø.¤°Ötö52Û4%ïÒœüÎ<Né‹A6âi¹º_•Ü©ÍJ¥‰è¶ÔBX|¥|L4"XE&0ôT¢‰ô¾ ˜)R‘YÇ†õ¯bŠM*2³°H*2–ªü=‹QË„f3–ùáÂ¨pòÀõÙ8!¹ûIrw™Ê®7’»Ó"(Æå °Hx|¤lúr QôÉf£Y&pòFØõÙ8‹ä–ıŠäşÛ4“Ü2eexÊ&Éıaãß’Üuèå½Õ/Ü·«íaØL	»ü²º_V»üú¢%¿^®ï×;‡J¦,÷yûn}öS/ı‘{OO'Òk:y#ÒU¤Cv×$–S*ËTpÔ¶Àt¨R‘×‚W‘¤"XEº<íg–¼íGE:üf/a	#˜÷‘î+›®Ô8ÂÁÁWFø`Ó5µomº¦ö]I×Ô¾/é #5øŞD6" µét¯q„]#UI× \GÈz¼^¤›æ¯s¥tûõù6×NËş²»êV5ú”¡°(,25©¯‹4H=> ­
+8¢rÂœY¬8aÎ,2P*‹U2€hÙíFh•ºÆFàôl|—±˜ú6okEºi~7Qøhß†¼ÉYqb8k„ƒÇÕ»aO:”üğÃíÌ’3¦6¨Ì2™]UjS©ó¶6•ºÖÖ¦R×•ÚTêúR›f…Y@ĞÅF´¶6…î•YvFØéÙø.d–¬÷×KuÓüçR'Â˜Ïa¿9«ìÎ’Ö$[‡TÒ‚‰¦.iÔ4¶•èHaêP©¥•Ö¡ ”4†JZK²Fx[‡B÷J»#ìôl|’FÖÛëÅ¹işj¥\eÚÖîxz·^í7nG‚ıxÚÒg÷·¦Äc3İŠRE
+¬Šâ+Ò\v¾ ”C€*Ò”ZË‚ó5!U¤‰¤˜WE
+´ÔcB`= Òz‚İl€ûE
+F…“l®ÏÆy&%ò]'{Za\N+Œe|$jšrZQyôÉf#‰"8ù#ìúlœEŸËÀ.O‰Ë”•ià)»(%ÇËŠ¤Œûı8Pü¹Bi'Rªşé”vÀÎ(m`UÚÀĞÎ)vŸ
+Â‚œ´-0¥Ti§ÄÛı$i?’lJÖÇò´ŸYò¶UÚğc,˜½„%Œ`6Ş”v
+•ÍØ jP`ˆ7}ğ&¬‡`36)t6c“B_26)V%c A!V6cˆ7=ĞÙŒº× |ÉØÀéÙø.
+!JÊå¥mš“ÒÇİ³ßæL–«ıx»«ê,c”B†J!CğR5&ÈW8¼ z©‰rxÎ¡s5qtïKºW^Øˆ Ô¨«VY•º#ìôl|RXîÆ]%³Kóßÿ£ù‹}e+R€Â “{_*R±¶"éd`*R±ïJE*ö}©H,µûŞV¤ ™ĞÚŠºúR‘‚Ó³ñ]Æ_¶Ş\/¦Msæ/gL—§aüã‰4™[î7_)‰mmKP€JCpÑ6%aÛÖ– bl	*v±” b—J	
+@ic¨´u©¤%`D@°%(t¯´±k0ÂNÏÆw!mm+™³kä´iÎ§Û‡|Y{ÚxÄâ‰Û×ÛÓ°¡óîªqO«û³ûğœ²İ4Ïª%UKC6šÖr9tÓœ©–ŒuÇ2W0qØª–ŒÄu§Zh©?püQ<AÈe6À}ˆ–„£ÂP®1ÃõÙ8Ï(ëÈ·{Ê9ƒq9g0–ñ‘®åœ¡rè“ÍF&pòFØõÙ8‹²–]®¬eÊÊ4ğ”]¤¬c]É›Ëû…{ş°>N_x¸B\gSİÓ‰ë<‡µ×À*®!—#Mo§â:»RqkmL!×ù<ôÓH[øÑÈ¾dI,Oû™%oûQq?T\‹—°„ÌÆ{ƒ¸ÑÛŒ ††xïÇ`Â|Œ6ãcg3.1U%ã’f\ 4D¤Êf\ ñŞg# ±³t¯!"†’qÓ³ñ]"Èz{½¸6ÍI\¯¦»£Yœ­·9´óİ„ò®™î‘fµFáƒşñ´ùas-æµa(e¨”2O¾5Àwö.pÑŞ!•»À1Ôå.0€Rj{<±ÑŞF÷J)»#ìôl|RZ.È]#¶MóœDã:Ä?“ÓÊÛj rÊDU¾T›bmµ)V­6Åª/Õ&~©6(§¾²Õ&@ÅFt¶Ú„î•SvFØéÙø.ä”¬ÇxiÎ÷»Ãöïñ9]£İ<¡)İíäÙ[éÍÂÈ”¡ …^@æ,tMÉw„®µe¨@AÕ”¡(ş–2TèëR†z…^@æFD[†B÷£Â¦”¡àôl|—ÑºNo×uÓü£èårcş¿Ìñ:ŞmvïÖ?oïwDú.ŸªépOÆ‡›5½ïıìÊ4°ªX`6Ÿu“/¨]™MÏ[pKÑOUlh#k>;0(*BÍ p¢báÂ¨0–+Óp}6Î3š>ğU¢rÂ©å»Êc)êªœpT…}²Ù"ü Ù?a×gã,š^v¹¦—)+“òQß\Ÿkú@o	¼}X¸oÎ_WšîP®iùï>\!î³ÍúéÄıô{#îUÜC®ÙµŠûìJ0â>4Ú6ÊRéTÜ¾’(ı´Ò~´²AY’ËÓ~fÉÛ~TÜÃ÷â%,a³ñŞ îC
+6ÿ¨a…!b…ı~QHÉæBêmş'ÔUÉÿ|¿ˆ;¨½Íÿ jX±ß"‚€ÔÛüº×°’bÉÿÀéÙø.+d=]/îMs÷?–oö­FÙ*S&owÜ‡üáa—óC+–Çõ»\^½ık½†¨¼2Y¡5Ú!törˆÉ^C±.×ClÊ5d å56ö2 Èb#’½†Œî•WvFØéÙø.äµÜÇ»Fá›æ,(îïLéêPd÷Î°÷¶æ¨3m>”šWğÑÖ¼‚ïmÍ‹æ¢Ô¼Bğ¥æ ok^€B[eÔ!w ûhk^pFØéÙø.d¸üºÊ5zß47_È·şLt>ûãthÛ¬gyœ.-å³§èóÏuääüÍû¾±E1@á‰ó}[ò0¾ïlQ,äßø1Wu)Š…ª)E1 å˜¡r\5%Û#’-Š¡ûQa[Šbpz6¾Ë8ÎÖ»ëE¿iNçtÚ¸§‘Îk÷ë·ï—ëQ7s>º­¶O£Ş+?»}\Ô;cÑëtä,·¯}ÕÌn_{Ckôªï(¼©^õ]bQÂı0½
+(z’œÍ pªŞÙUïìŒ°ë³qQïï•Ù`\fƒ±ŒÄQùÑ¯2ëÓÍ†(;@öFØõÙ8‹z—]®ŞeÊÊ¤ğ”]¤Ş}äÕFo`÷r{¿Z®×¥ä³­ğtª=OboT;°ªv`èpßÒC© ,:ÅÚ–q.©j÷|;Qúé¤-üèdc²Ö–§ıÌ’·ı¨j‡cÁì%,a³ñŞ Ú=qj’A€"Ø¯+ù:Ùdo*›ò/É ¯+qM°É @‰Ş~)	FT6„î5.Ô±$ƒàôl|Æjë¯Wí¦ùİn“¯çı±Û’”ãÈÎjo™?;¬W›ÇÛS¶>¶ö2 ÒÈÜÄÎÄúØÛÈ>Õö²OM¹€ìS[. (©µÁPÛÈè^id×`„ïBÍ¥¼kh,Í‰Æa?ã±Äûé&bşSgâ}¶`¨´2W!–‚™ÉÌ<7LÁÌG_
+fhÁ@iŞÌ …+_$:PZC²3¸#ìôl|Ò’T¼®Qæ¦9ß©Øœ–?*ëe&õ>+¶ã‡¤?9»Ukkg€Ê.CPVu%}â«ŞÖÎ|şY.Ã®¯KíÌû¦ÔÎ ”]†Ê®oJ’F$[;C÷ÊnÕ•ÚœïBvÉz}ƒ&/Íñ}ıî‡q•îÎ\H-7ŸD»|Ôï2¶ĞArwYdĞWSöş—é[áÓîıô+¢>¹‚ü³‹î‘i”Ó‹qzÀõ|ˆçßsÆÕŞ&Ëñıv½$x"OÊ?ª‘¯ÎNîñ´=ø§i)®h9’L§ÉÁ•÷ÛÿPê	.
+endstream
+endobj
+371 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 370 0 R /Annots [97 0 R 100 0 R 103 0 R 106 0 R 109 0 R 111 0 R 114 0 R 117 0 R 120 0 R 123 0 R 125 0 R 128 0 R 131 0 R 134 0 R 137 0 R 139 0 R 142 0 R 145 0 R 148 0 R 151 0 R 153 0 R 156 0 R 159 0 R 162 0 R 165 0 R 167 0 R 170 0 R 173 0 R 176 0 R 179 0 R 181 0 R 184 0 R 187 0 R 190 0 R 193 0 R] >>
+endobj
+372 0 obj
+<< /Filter /FlateDecode /Length 5884 >>
+stream
+xœÅ]M“Gr½óWôQŠ ®şòMi›á%K\Ÿxibš60ÀÀpWş‹>ùè¸¾íÉU/³2)i1hŒ–RèÊÊªWÙ••YÙªWC_Wõjh‡üçà«ÃÛ'õªÎÿ–şh†fåûªnÕÕaªŞ¤ïÓ¯}×ç}”}U›Ğ©&ı,°æ®šP}ÿ/ó?V2-o¥?ÂÛê‡ô»rG®kÓŸ±ŸüêeõÅ?ûª_5uõòMç§{×ç¿^ŞTŸ<}öİ÷Ï~xş?/ªê¿ªêù‹ÿxöâå—ß?ÿ¶zú¬úêÙ×ÿV}^}õôùçÏŸW¯>ùò/¿ıü‡?|óå«O?­^ş±zö2õ]îÍ1k]Gé3¤>út«ô³êô»Ÿßnvcª›©ŠIğŸ¦Ûcåb5VŞiá¿5zÆC›ÁÃf½µMÏÍİ¤qø¦Ï\äa¼Ûì¦ñ4Æ»Í¸ZïoÏèı+º¹,êOOšY¹.øY»'MœµŞ&œè7£_c’UĞ<¹ë'Œûm«à*–4$ôChÍjè6¶¹@Z8Ã ¥v€¤ÂVà¬„@u=Îõ“¯şî´§yöó¼»:=ª®myâí2-K˜×ì«OhÍ¾ú4-ß¯¿}ñrõõ:ÌâßTC—	ï¢t÷lWm÷Çê=­Ò¶ú©r}u;ÖcuÜo÷Õ}ZËû»õæÿv©çíXm§Óa¬Æ/^W›İÍ&=u³9Lëù÷›i[­ÇÛ×›ıgÕz¿«ŞÛı¡ªÓÂeİçUQWúÏßZ?XÛq6ï6†lqyı´«´ô€óúV¾cŒÑ&òóŠ`4º¬×d‘eı¸.½ò*Hê< õ´†€óú©C,
+Ã`îƒ×TØ
+œõ#!PİŒ“ÖÏ¯XÔH«¦Q³,³ÌãK¯ÑÆÔYkúÇÏTk"ı „T7ã\?y#ÒÀ’€¤jsîåØÌH·¼-Ó@Svvo!»i<+Ş“İ$®NÇyoş2ÎğEõ|wÚl77ãÍy£ôU·Š´‰T*›ÈéøOK,¦kò×µL{G‹¤V8/’yÏn":OÓêòoi‘ ;iÜ®B[±$×‘¤šµ…„SÛ$¤õò´3’œî'·Õzl&-!	#0ãÍ¦óSö!Íô’™§l^JmŞš4cí¼t ·OZ—ˆcØÎë&ÍûÊàò/ë'Û,u+0YBz”„}şXs÷Ó`Ãj˜@-B´hèHO†³jBJ›ñÛœxY¶KoiUÖj«ñ>/<×6éÏàji,îX7|ĞüÅ¾ºªãfÚöi÷ø[²”j·©îöë}Ş+6ûãş‹qufÙŸå°K¯Å!Aá ˆéÚU, Ë¿‡}šKÅaWN8ì›ü/’‡…C‚ †„0hGºI5!¥Íø.ä°+ï­%–æÄaÚİ››é°¯Nã®p—œ‡™Ôä.î³÷ğ>ùÓájFÓ¬wŠQ‚Â(AĞ”şjùa´²Y£]=[3–…›­KfÂ(Aa” Ó4 „Qê^%Õ „”6ã»ÑV<u¿„ÑÒü1ÉÛi—<ÁÂ¦é´Ë”ŞÚæ²o·O^à±º›Çın<^MqœßnB1A¡˜ x‹ôò/Bq’ÅM;;	iºÙØ©B1A¡˜ x#!´#HİÅ‘_Øƒ(mÆw!ÅéDá‰£°„âÒ¼PœiLü˜¨>M ÷yç\ó&MpTÎ(°8£Àğ»šdÑÔäÉg´!“µ-8í÷âŒ¶éæÄbgQ@øÛ$†ÁÜ;£Pa+pÖ„@u3Î3®yë³—§*„ËA…0Ï§·B9¨ø†Fôñf*ÈA…ôƒRİŒ³¸æ<°Ë]s²24e¹æYñ[\³ª¾ûëá&¹á93í¦ÃÛ÷ã‡¼õmŒÇrÈódöÊ!‡.vë“·jp†Ò8®¢8ämhHõ¸-ô ,9?íŒ$§û‡zl&-!	#0ã½Æ!¯ç7±ì5ŞÓx¥ÄË>Šw^ôLÚj_HêÕ²/$0È¾@@ö‚²/ÄË„0ˆhGº—}TƒRÚŒïÂ}!Iï®pÈKó—ÓîíìÂF¶øn›éöî0]»­7ÉŒÚB ÓHœ4C,y`¶Š¾Úe¿YèK'w/ôÕavÌ±>f ôú2'^¹qÔÓ‡î·#<€A”6ã»Œ¾,}Xî‹«æDymL_zßmÇê?ï'øß§üÃÕ<¦®{Å#Aá‘ ¨ëëâ7½£s*ÃçiÀ~6_‚Ã5uÀçTtÏçpP€#-‘CBthèä<]‹jBJ›ñ]ÈcïysXâ«æéLuš©<Ş¿Ù¬7³kÆ|f§»úq\O‡êö~ıcò¹×ûãõwÓÎo/a” 0J4µmñ¾›¶§S+`pºŒ³EcYĞQK§VğFN»ƒ@ĞDB´#Hİ£-¿QÚŒïBF[Êê,t¸Uó2ºoÎÆ;Îyß1u®CÁÀâoÃµŠÉ$J(8ö³ÿ%şfş«SşfÓ¤Í]üÍ&„¼ø›@ìo²¿	—šÄ0p¥#¶]	Cu3Î3Şw“üÜNŸE—³a_òºrÉÔÇ¨ gÒBHu3Îâ}óÀ.÷¾yÊd0eyßM”xBò‹ª¯ç,PŞ•æäÒ?¿ŞœÒßis:ŞOÿ»_àŠçüã¹âyfåŠ‹+çº‰ÉYˆœYiœ^†âŠ7x;¡Ÿ†ÛBÂâŠóÓÎHrºqÅ¡Ç¶`Ò’03Ş+\ñÆ›¸* ì^ÅU¯âª7qÕ&˜¸jT\µ	*®
+ ;F0qU@lAÅUÑìŞÄU¡„xW¸pÇğ]âŠ«æiÇø1í¾››œoöÕn³{û·RªÙ–n7¿´¥«=g¢«€Â«SÑÕÆ©èj^t*ºÚ8]m¼Š®6^EW„Wo¢«€L–Š®¢áÕ™è*TcëQÑU€ó¼R>òğM¹áÆKíûúƒöOï§ÃmN£Sãöç™ºm¢{LDŞgÃo¿M`¨Ã`H½j
+ƒk‡!½	
+‰‚À¢`ĞÈ˜(`IÄ÷ÃL²LeH›Pá2Ô"“³)t
+&-!	#0ã}(£ÁH‰{}¥!Ä3œÎ'°Çb•–mLDÍl-*"ojojojojoj„­Õ*"Ø,ÑıV ŠˆCi3¾Í²–¶_d–¥=(ÌgªßÅ(…?‹S†™aC6B&QğL %qÃFÉ<²±0‘lJxfIŒnÛ2“–$‰G`Æ{©Q*B—åo1ú{˜$¥oÅ$	ŠI"CŒÛ+M9@Ç¾¥è[¨CĞÏ;,ìšBb°yD—Øb‚D¥lg¡Z:“¤îÅ$%#=ˆÒf|—™d–qf^b’ª=ÜÕíøÓşÊéØœ/•İ¼¿âZ /Pf’écƒ$Ì&H³$Š‚BÁvØF‘(†ÅP@£˜Qà®)ÈqÛÎP)˜´„$ŒÀŒ÷BƒÔt.2H%à›LŞñn3NûÊ}î««qwšÕOÕn_İİOÉÅ}·ß¾›ÕXİì·›³ÊsÁŞB:ù,Ç`œtCz¿•ä[¬½I¾Åv@¦¸KÇ+9şÇ.Î÷9èéÖÇ*"]Nä8Æá 1 Ô‡CH>şC?ÕÍ8ÏCbÓr¾‰´$\BC„y|Mz»—ÙH/¤ğ‘gƒTĞé!¤ºg	†ğÀ.†ğ”•I¡)»([	íºnU=?6§´-½˜Å…Ç}Äf~?HèXBÀfÄ´…Xß¦f,m	w©k	}drk	} IèXBü´3’œîGBĞc[0i	Iï¡MP6ş¨ÒX1ª4VŒ&“ÆŠJcÅF¥± dãoL»y£ÒXè@6şhÒXPB¢Jc\úÈÒ‡å¡ÕüÅ¾š§ıO³¾!cÙNsë1½7orX€B¢W9¬T+“ÃŠÁä°bP9¬T@H&‡f‚Êa¡!1˜Tƒ¯rX ’Ê›j	‰¥ù³ ƒÎä¬ …A§rVÑ©œUt&g½ÉYE¯rVÑ«œUô&g½ÉY‚¯rVè@t&gÊYAi3¾t’tZ’…TÍÁ ˆ?)õ.<‘İ'rİˆ3b8 R	–çNx1PØñ"f'‘ÃA “S—+×è@x¤î…G¹M0ˆÒf|òXÏ§…¥¹GÕœx,ìöÉÏN‡¨S¾Óq6\|ÖÃNg`.6aö°óUñ)óC'ØBß!Áşx¤ø”!…¢ø”@kqô=İ1dçx†ì6Ïb ¨ö)¡‚xØ¤„êfœg<ì|ÙAÏá2„y|]2ı2‰¹ø‘gƒTÙ ı „T7ã,6ìr›§¬LMÙEvè%ì“^`:İ˜úx76§%IÆ,6>§º.oâi‹§ß9tÉO;«â”§™sÊÓ}¿êÄÓÎ$;ñ´ÄÓO›ŸvF’Óıˆ§=ÄÓf-!	#0ã½ÂÓöª°Wıƒ¾êôUÿ`¯ú{Õ?è«şA_õöª°Wıƒ¾êôUÿ`¯ú{Õ?è«şA_õK®ú‡rW‰§­š?0ÉÈtíFì­ş`oõ}«?è[ıÁŞêöVĞ·úƒ¾Õì­ş`oõ}«?è[ıÁŞêöVĞ·úƒ¾Õz«_LC¹–¿(µ¨Ú#L¥”ÉFÏgC8Q¸DXSÈDĞQÌ™ ›ÏBë|xâ~›ÏRôä§) Ê’Ù|†+Xç3xf¼†O5¹‹Â§çÙCãì‘‡`2€b¨Ae6BP™Lf#D“ÙQe6BT™Mf#D“Ù dëS™t †Lf#•Ù€Òf|jHö¢d£jo©,*"rŠ_o Áæ7„D6« ó˜+A6¿!D
+Öùğ#/›ß2Å¬t~ƒ%1²ù!T°ÎoğÌx/5PEê2=ÃêïbtuBÌ“ ˜'®ÚÍáª€×eÉ!ß6RæéûR–ÿBƒ.K*ƒe!êD6GBtº,İ‹yÊÕA”6ã»Ğ<seÒ‰GÕ^në
+»j|}Üoï¯ñx2yl/Ì[ß°i‚@ `0(¸§M·QJ? Qô ‹lMx–IŒ:nÛ&ËÍÂ¥ï¥v©Ø\f—EÀ¿ßoreòz;$úñ€ò¹Ğ‡Á¤Ó€å°Œs­ÏEU® Ş¤ÓBm?aêt¬*‡}Gwr8Ä2#9ì”Ã¾CRbÃÀ|Â*l6%ÕÍ8Ï„>ü0[u™Âe6óø‡†.Bu4¢8¤‚Ìé‡ÙpSB³„>x`—‡>xÊÊ4Ğ”]úHÏqÄÖ«êéæÍf}¿MG¹|Ûe½ß­Ó¹ê´@²ğæñ yV½
+€ K !?¤—Z,¨G°ZÚ^3}	€Ô=Iªyıx !\ xÚIN÷#è±-˜´$I<3Ş+ ŞVZy[iåu¥•×•VŞVZy[iåu¥•×•VŞVZy[iåu¥•×•VŞVZy[iåu¥•×•V~I¥•/¥RK ªùwó¥±’Ãí4Àâõ†¾pğh…Ş–Wy[^åuy•×åUŞ–Wy[^åuy•×åUŞ–Wy[^åuy•×åUŞ–Wy[^åuy•×åU~Iy•/õQK’Ş”Wİc’ïùKWóÙ˜” ğÙ¨”•oTÊÊ7&eå“²ò­JYùV¥¬|kRV¾5)+@&I¥¬ĞğÙ˜”•oTÊ
+J›ñ]Èg#9§%©GÕü›)Ÿ n6oŞ¯7Ût†ÚÍU«óM@”ÎUã6ùçwûÎYKf¥•ïB+A¡¹}â*¨?ù´Í¨òrŸï2(ZcWÊË=¢œ5ÿ¢ÊË=ÇĞÀHTŸx‚./G÷B«Ü%Di3¾iÍEgË3‘ªù³İú>[ç~>ï~ÕhµQé’G¥qÀâÃñry®\A­IÄùüIåzßæïJ²_›NJ­x£@ì²7
+ïÄ0ˆøZÇ¡ÂV`(‰8¨nÆyÎ7wO¤%áâ›æñ%ÇÆßœ“s6 ‚øæ¤„êfœÊ7ÇÀøæ˜²24e—ùæ®D—êœ–ÜÇİz³¯öÕ›ñ´y»ä$Yfûˆ.¹“ïhÖ
+—œ0;áÙË-.yşTŸrÉ½—¶—Ê .yf8ˆK$.9°¸äü´3’œî§¸äNÚ-!	#0ã½Â%w¶ÇÙJ§+qœ®Äq¶ÇÛJ¯+q¼®Äñ¶ÇÛJ¯+q¼®Äñ¶ÇÙJ§+qœ®Äq­Ü0›D-yŠE.yinnÿ­³ÅÜĞ·ÇÈbfğÈñTg9œ-äpºÃéBg9œ-äpºÃéBg9œ-äpºÃéBg9œ-äpºÃéB÷Ğ«ÿšQW.î/ñÎ¹÷?s—_{ù[‰SºQöæçäŞ‘G÷ØŒv&B(Œv*Bî:!w‰»ÎDÈ]§"ä®Sr×™¹ëL„4u*B„ÑÎDÈ]§"äPÚŒïBF;	‰.ñÏUsºRv3İÇM¾3 Ls¯lö—ß*™¿FƒO–¨ÒÌÏ\Í9åz…s‚Â9n	‘úP”kz]îòõÅyÛ”‚t‡ƒ:uÀg^tÏgzĞÕªÏAAƒ¨ÒÑ½p.·QÚŒïBÎs‘Ärç]5¿œs.Üâ¯-äıœ«ßÍ	õéë9†Z¾|!ãÙ« sMÌÙå¯%(¿ÖEúä<ÎY¸øµ@ì×²_×Ä0ğø*}‚:ê3)Ç½Îÿ¢ÇwÆÃw~àÈ*iH¸œwóØBú«œwBÀ7–?ÚL@9ï~Bª›qŸv¹‡ÏS&Ó€)»ÈÃw¡Ä<œùÊà&mk‡¿òÄãôç%³øîñœı<¯Q9ûÀâìÃ}w!ù± ˆS1p”¶Àéı%Î~&;Š³$Î>°8ûü´3’œîGœ}è±-˜´„$ŒÀŒ÷gßÖ8[càtÓ5ÎÖ8[càtÓ5ÎÖ8[càtÓ5ÎÖ8[càtÓ5nI+EKœ}Õœ. îö¿róğ0Éw²òD6§òƒ=]í0Øºgëœ®;pºîÀÙºgëœ®;pºîÀÙºgëœ®;pºîÀÙºgëœ®;pºîÀ-©;p¥p`‘ÛÿaİŞÏìMpÊùÅ!H'¿ñ°½šÙŞ„q{ÅíUWÀ0!ÜÁDpÀTüv0áÛÁDoõ÷ù»Lèv0‘Û^n{·í„m	».qöKkSô÷È¼–4ÊC1i„˜4$ºf2ôû»VTæ¼^!­¥œGxZQSòY“®>Eíñß^RR¯Lš$ÓÖSç2ÒrÁÅro½´ş×)Š=¹"~á;qõKÇäAÿÃ ~ê¢åù×ûİ1ß7ÈÂîîw§ñ¹Äè4n«ñş´¿ıù´Yï«WŸÔŸ·áÕ§Ÿå§v›wùÎT½=Œï¦›ñæ³|T·Óá4ÎŸwÈÿï¡jølşTÜëñ0İîó7r%Ç»Í1hû~—…æÉ¥ıïµ¢âÿ»½z
+endstream
+endobj
+373 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 372 0 R /Annots [195 0 R 198 0 R 201 0 R 204 0 R 207 0 R 209 0 R 212 0 R 215 0 R 218 0 R 221 0 R 223 0 R 226 0 R 229 0 R 232 0 R 235 0 R 238 0 R 241 0 R 244 0 R 246 0 R 249 0 R 252 0 R 255 0 R 258 0 R 260 0 R 263 0 R 266 0 R 269 0 R 272 0 R 275 0 R 278 0 R 281 0 R 283 0 R 286 0 R 289 0 R 292 0 R 295 0 R 297 0 R 300 0 R 303 0 R 306 0 R 309 0 R 311 0 R 314 0 R 317 0 R 320 0 R 323 0 R] >>
+endobj
+374 0 obj
+<< /Filter /FlateDecode /Length 4733 >>
+stream
+xœÅ\MsÛ8Ò¾çWàôVRåÑ ø5{’MVï:¶KR²5U¾0íá,EjDÉ³™Ú?·Ç÷°§ùs|9lÍmOÛ@wƒ€Ç¶|ÈÅö#’î~ r4*òHD£"-ÌÏBŠíÍ³h™ÏàGR$#™‹\Ç£¼ÛJ\ÃÅBJ¸šg¹y"×î‰<ÒŞ3*óÉ­Á´°M%JÌ^ÛÅ/Á“k×âFÌáº,LCq–ÂO[OâÛï¥ÈGI$×BÛ»ó87¿+ñüÕär6™O;âBLÏßMÎãÙôB¼šˆÓÉË¿ˆoÄé«é7Ó©¸z7¾=[Œ_]Ì¯^¼‹ŸÄdêØ4'mÜ´kTA£Ê6ªŠb”Ä~«—¿ßÔm)´XUğãêù´İUÛÍ¶Ú•ËúV|§å¶Zw½ßÎ]\úì«Ô€‡1‰÷®ÃGïã±0 $™äæ¡XsD·u[•D¹©ËÑ²[ßã÷g|‹©_%Ö¹LIëİ³D[ï7€¡+ÆIãU¶dy^>cœ§ô,ãb¤bÁ–
+´Dí Z²5«SÓ AL"2Ã Åç¢ƒÖ?2B®ûq.Ÿ~‘vàYZŞs5Êà©4eŞ‡œã·‹‹7ÿ\L_^ÌOÄéx6yş Æï¦óñòì_çpå!i[XÛ×"–É¼È´kìrßîö˜¢7M÷¾l u£oRuõâDÜVÛúº^âUHë»j-–Û»zÙABo«›ºßm;ÑtíM½Û¯ ÿ¸¯›m·¬úÎK˜46Y¡2[fRL˜Cn&•y0„]Â¦HUä%Lªt˜0˜ÖCÂÄ™Ÿ02ò‘K„.aR ÚOr¡q0†]÷ã¼3aè®â€â€Âg#‹|6²è«³A.¸áùl>±qÍÄñÕÌ†íª¡É•Hø?}mHm¾')6–X­ğÇ–7´Œ.œÅäİøìíø¥ÑñËÅÛñŒ„Ë¾ç"c¡üÊı%Y¢¦­×i&ı‘VşT‰E·ƒa‚
+ô[ül0wÔû,!§v¬¤X6ÖÏ$Ğ3à08’2–1r›BéÈ4c¨Dø,cmL°%,‡ÜGöƒrœ¦	Â1±€–Rô,aô£°õ’-aa¼8Vîªw ËT[eœôÂ·0Åf×Ó—2=ìÌóú¶jï=é÷^¢|ã¤{è½Dù¼8D½Ç˜{ÏaË9[ÊÉRôûÁ½§"åõŠ¤gÉ!ÅÏÊ ÷¶^²¥”,ùñaïåÚ¨„îˆ j„£WùCH+fı/Hÿ2jT˜9\]õ7İÕ‹ã»CF˜\*»ñĞˆ™`øåu‡ÂîHtØIâwG’ùİhéüH¨İ¸À!€8.|KQ™e¬#~Ö÷’-aa¼¦;CYn(Ó¶×uªY”RS	Q‚ëš1ÉŒ†î—z@œÀ$ÙqˆRÃÄCK)dj‡Ğ’Ü hEIº{I>ĞƒØ%Í¹ËĞ>®é'~æÇ‰‰û™Ù/Şe¦İ>„„)¾¤È<6Ò(úÚlÌù‡FÈõ ÎA¢9°C‰®®‡À‘–®ï#²¤á<ÀÚn1™Ábo²}1›š¥ŞbúneÁ,õNÄ|1™ÌÄÿˆÓÙÅ_ÏOÌ8H}§^Ló3ÂéRë2[Öé!³ã‘.'PœìÕd”âÕ
+a·Zaúd¦[h©ÀéµSp EÄeÄ6@÷ârƒÌ  ˜òì ú‡FÈu?NÓ—ĞÒweØPÀ‰ß±íŒÛÏÜ"1¥ˆAQarÓõÓT”æXç¦^U°\îMió±­×¥gÍúÛ^ò¥"ÙHÓâËc¶6Ş÷U»¬KÑ	cÿ^ï?ˆ¦º­Ìj¦¯Áåu¹ëšîæc	ŸØÖoKQµ¢){ñŸfNôbÄõ`O²Ø,ëŒ'}µ.ÛÒŸqäXPu2¼u¡ŞP*Ì:¥Â¬CÌy+/ë¸š3N’0ë@E¼¬K
+?ë’"Èº¤²î¥õyæe]’Yç“ ö²\÷ã¤¬KIl2&W_Èºa"k“vÅÒn°5¤İdÆ1]¿Œ­ùG›S½Ë¦®·ùÖÿI,»ö¶®ÚJ¬»¶ŞuÛªÜŠê¶köf2s"®Ë¥ù°,©«¾lwğ·Yc¯ñ&”|èå¦ûĞyÙgàFÎ³oê•H†ÙÉ0û"ég_¤üì‹Ò0û¤³O¦~öÑú—Úá0¹áÖùØ İ‹m“:È¾(²üÃŸäº'f_Ûš—˜7 ñÁ44È¾ØMş¥)zà÷ñÙ7ØòŠ^·ª¶åê¨².ïªjËŠê²\WYPûnZ;“ŞÙK]k^Ù¼/ß7•¨×“ŠXÅm}œCQÁ	¸ìvõª†d Aå†¨¼ĞCê,2°Ë@Â”SÖcCê,	2P*È@m^ŠºÔEæe !Î@‚œ|/¾)$3”ŸäBã 2]÷ãÄüÒBÈÏ@=ˆ›, Ó'È®gkÈÀ×Ûò¨¨s÷|ÜìJ)Xµ=dÎŠDö÷¤T³uÙ@yƒÂ·.·ËrÕÄ¬úy_W0Y¼-›n‹;ÊTkæf[6Çx”åœ›mİmkh´.¿¬ÀŸ
+ÑájGe)L‡ù=a7¿'LÓ\•PPÂáš›ßë$œßëÄŸßëÄŸßâù=Aß¤%LâÍï©ß“<¿'ÿĞ¹ÄyÏjG«pµCxXû)µ£•¿ÚÑ:\í|6´V;äQŞj‡À°ÚáÀW;w$PjŞhO®R´â·÷8ÙÒÚ­„^^œÏ§¯&3Xş\œOæ´#0‹Ëñl,&gârvñıdÇgE©ßts¤oìÛ–_ş÷ß‰Ë­É0[ÙT0±nD¹33l½ğ÷G~3³2P®aÖE
+æá+˜†w½{ïë%¨Bwõª?!í}½®ûu÷­¹ŒoËö×ÒlFÔí²Ù÷XîËvÕhn‘Ùh@×6Ÿl{ôU)Ş—?™õÂš”xtD+0µ ACÎ^ÕÛjÉ›'=O{¬‡†Ä	h,òÑr§¿¯ş¬@]=/7Õ&‹&~Úm)¡¤Šª äïk`£ÛBGlºÖÌóD¹7òŞ™ÁLÖ­aÂgï™”s?(U@P˜?ï+åZ) ì7í½İZÕ×PÈ[›ÌÅMS¶ÂîşÿŞÜ1ºg?è¾—M2ƒòKØÂ4¶$,l‡ò+Ó4(¿*Uô,ãÖ½\p¬%*óˆ¸àä‚Cj*ša è9î§~ù%ÿĞ¹Äyç~¹¡³PŒb„˜ãK"_Œ`~ò•Ù œ¡d]âÊ/ö¸ı ÂÏçDTFûA¯§óÅìBü~ı6£İ Ş
+²Eõêù|òúíôy·t!Pm/ÿï­Ù7ºg'Ÿ¼•¾·¸[v÷f~ğŒ“	Â÷ÉDFù0	…µR.Èï«ånØÇ*ò“ ÌéóÀ6bPV­ıFx{ëêù·©·U&¥š#üÈæ$ä‚*üæğí¿kfè©öZAüÈV”,ÌÔş.æT®‚F?²m6Ğò0§³0&ÂlÎ¬‚#u7sw”İd˜´˜½› ½Ñ‚S0«C[ºbœan ÓN“Å±Ä½£š•¢ÒÅXFü,a9‚&Ù’Th	Û‘T‚ÈIUOÛ½‚¸>"3"*]¹çBã õŒ ëAœİ_Áı]|•æ¨’qP%ãÜ£Jba!W"ª3UÛÙ†Ïí0UìsÃ”u +VÚ'QÄÏê€/‡±CÉuvïQ”If—,";`e0Qîº,pôeŒ˜2Â2ÆHY"Ê¨¦Œı`Ê¤ôóKJ?ÁŠ¸«Âs˜:ÖO²0Ş£(S‘ö(Z?3+?Ÿ2•åefÅ8PæQÆ˜)sØÊ–n‡)c?˜2³—\äîî(ö-1ŠøÙØó£0zI–(‚ Şã(²je:Ì2óÒg Lg~–9D”1fÊÆâ“ùYÆí8Ê‚¬ƒ°óÜ§,Ï|Ê1e„eŒ‘2²D”ñE™ÎÃ,K@Xd>PfNCíÔvªDÎ8Ä3VÂL™Ã6P¶„$p;Lûáê~îg™y%æ‘Ÿ‡YÆx¨ı~–±%êôü0ËîWY™«@e	?Aee*KØ©,aÒM™Êš’æ«,Ì3B•"_e£ØWÙˆßtÅt*‹¤Í  6XeÉVYòëAœOQYG©Ÿ£Š´‘0é&¹Â¨p¥;
+¨b•Å^Ç¾Ê2UNıâPe‰XÒM"‘£Ëa¦EKÜÙA¼OQÙ2¬e¨Lê&SFÈQÆ˜)#•%ÊX¯c_e™2§~q¨²t·ôŒ£Ìa7!Êƒõ“,Œ÷)*ë(#õs”‘6&İ$g1eç¡Êb N¯c_e™2§~q¨²t7é&YBä(s˜Õ0y‰–8‚ Ş§¨¬£ŒÔÏQFÚH˜t“kDf™Ãü¦"ó³Ìéuì«¬£,ÈºAe‰2ÒM¢Ñ@c¦Œ0Q†–˜² Ş§¨¬£ŒÔÏQFÚÈµu“œaÄ”9œ‡*‹:½}•eÊœúqİÏı,cİäÊf™Ã®öûYF–¸ÓóÃ,û’Ê+¢iŠ(âAD³L¦™/¢ü¦Œ1o9œ{"*³ÂQB,¢YD	’2¢i ¢îí\îùGFĞõ Î'‰(SÅ"ÊT±ˆ"f™DWr•9
+¨r8÷D”Âçv˜*öƒ¹bé#bI‰tFi(¢Ì—Ã™/¢ÔÙA¼OQGG‰(QF2I”1bÊ;Êçˆ2eÔSÆ~0e,}t·ôÌ¡4ÑÔÍwò cı$ã}’ˆ2e,¢L‹(b–ItÆ!®Ì„™2‡sOD‰n‡)c?˜2–>º›d‘,1JCeÊÎ|¥‚xŸ$¢L‹(SÆ"Š˜e’jDfc¦ÌáÜQ®KY˜e*È:'¢LÉ"QÆˆ)#ì(cœù"J”ñ>ID™2Q¦ŒE”j'É$:ãPŠèpJ€pî‰(‘Àí0eì‡«û¹Ÿe,‹\ùÃ,c<Ô~?ËØuz~˜eGnÎÅfW:¶£»í(Â´ºµ2ï§JÍ5·%5O;Ã¯a;J&´¸ÇMÀ„÷¸w–ğÚ÷ÕÒÍĞœØİOÑ]†Ö?4B®qŞs6B*Åùƒ^*Ş`£s|*õ·*çÏWcƒ\p[•èA×ƒ8‡Í9ìÓ³ŸM ïlS6Ğà^€|ù\“¿³'•f›ãât>™½ûädÄâòl|n6ùÆ/Í¡ñ‡ì†ãY"×¾.
+{n¶Õª[×-Û¼z¾ìnÚzgˆòºZÚ?E7ìı›­xwä^Ö›zgŸ6;ı+ÁÇ6Íñˆå¾Ú®àqo+½?ş».ø¥s‡«Êpæ4\¡ëÍØ$µW‹Q;”Ğ ,Í×ëp¨Ærˆ–Ì×ÇŒ%E 9=‹“…ˆ›MílîEÉ„K„u?áê‚ü³FØu?N®xğÕø4‡î,Sµ=¹Ã˜?,l0fTî}§ÃÂá+ò’Q*ÈÍ7ŠcÉ‘†‘’<ŠcHvK7ÖND<Š	ò(&H…
+Í,}ï"GW	YçèÛÖk?¾{êYË°º#ª;b-Ö~u‡iº_İ¿ä‚«îèA×ƒ8‡zÆ}ZÏ>›7^=cÊ2[Ï¾ë¬Wlö¦x²ÒÿÎ·˜¾¹¼˜-Æç‹	T›søüâ|¾˜.Şş0¯¦ã×ç¿ÍO(|é°Oî7iVæØä¤`û}³+WèŞïª¶†?6İVô¡”5öpÕï*Q·ınK‡Zs*	p½Û¨D[‹›ª…Ê%ömp\hÓÃÏæó7Üğç}ıûnk
+‰ùŞşşÂãã€¹ ÌèüûJôÕ‚)›ú×rUŠêïæ0Y}KÇ¡MH{{úºêë¿Æn?÷e³_	sSi\5öÌôÊœdkÍßá¦}Öná¶ÏŸ]}à2ßq˜âÑ9µYÅ'ªúïÄiµüÛ‰Äbt"æ»ªÚˆÙ>81ßnÚv¿´'âõHüe	ßr‰7e»Ç¯!¼İ•5!ğ¸¯‰RLÛ[ÓcÛø¿0ğ+Éæ¹ËşÃòGs‚Byàñ[?‚VSÁËnÜ–;hm$ş!æeûë‰ø_pù¼¼-·ÛîD¼‰‰áİï¿ş¼¯àòKŒ"e<¯Êıªß”ÿîšÒş‡t½ÜÖH%$|<œc^a¨Qqÿi'Ó|
+endstream
+endobj
+375 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /Contents 374 0 R /Annots [325 0 R 327 0 R 329 0 R 331 0 R 333 0 R 335 0 R 337 0 R 339 0 R 341 0 R 343 0 R 345 0 R 347 0 R 349 0 R 351 0 R 353 0 R 355 0 R 357 0 R 359 0 R 361 0 R 363 0 R 365 0 R 367 0 R] >>
+endobj
+376 0 obj
+<< /Fields [7 0 R 9 0 R 11 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 41 0 R 44 0 R 47 0 R 50 0 R 53 0 R 55 0 R 58 0 R 61 0 R 64 0 R 67 0 R 69 0 R 72 0 R 75 0 R 78 0 R 81 0 R 83 0 R 86 0 R 89 0 R 92 0 R 95 0 R 97 0 R 100 0 R 103 0 R 106 0 R 109 0 R 111 0 R 114 0 R 117 0 R 120 0 R 123 0 R 125 0 R 128 0 R 131 0 R 134 0 R 137 0 R 139 0 R 142 0 R 145 0 R 148 0 R 151 0 R 153 0 R 156 0 R 159 0 R 162 0 R 165 0 R 167 0 R 170 0 R 173 0 R 176 0 R 179 0 R 181 0 R 184 0 R 187 0 R 190 0 R 193 0 R 195 0 R 198 0 R 201 0 R 204 0 R 207 0 R 209 0 R 212 0 R 215 0 R 218 0 R 221 0 R 223 0 R 226 0 R 229 0 R 232 0 R 235 0 R 238 0 R 241 0 R 244 0 R 246 0 R 249 0 R 252 0 R 255 0 R 258 0 R 260 0 R 263 0 R 266 0 R 269 0 R 272 0 R 275 0 R 278 0 R 281 0 R 283 0 R 286 0 R 289 0 R 292 0 R 295 0 R 297 0 R 300 0 R 303 0 R 306 0 R 309 0 R 311 0 R 314 0 R 317 0 R 320 0 R 323 0 R 325 0 R 327 0 R 329 0 R 331 0 R 333 0 R 335 0 R 337 0 R 339 0 R 341 0 R 343 0 R 345 0 R 347 0 R 349 0 R 351 0 R 353 0 R 355 0 R 357 0 R 359 0 R 361 0 R 363 0 R 365 0 R 367 0 R] /CO [13 0 R 27 0 R 41 0 R 55 0 R 69 0 R 83 0 R 97 0 R 111 0 R 125 0 R 139 0 R 153 0 R 167 0 R 181 0 R 195 0 R 209 0 R 223 0 R 246 0 R 260 0 R 283 0 R 297 0 R 311 0 R 325 0 R 327 0 R 329 0 R] /NeedAppearances true /DR << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R /F4 4 0 R >> >> /DA (/F1 9.5 Tf 0.22 0.16 0.31 rg) >>
+endobj
+377 0 obj
+<< /Type /Catalog /Pages 5 0 R /AcroForm 376 0 R >>
+endobj
+xref
+0 378
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000319 00000 n 
+0000000392 00000 n 
+0000000475 00000 n 
+0000000701 00000 n 
+0000000922 00000 n 
+0000001148 00000 n 
+0000001370 00000 n 
+0000001597 00000 n 
+0000001821 00000 n 
+0000002046 00000 n 
+0000002632 00000 n 
+0000002802 00000 n 
+0000003035 00000 n 
+0000003568 00000 n 
+0000003738 00000 n 
+0000003971 00000 n 
+0000004504 00000 n 
+0000004674 00000 n 
+0000004907 00000 n 
+0000005440 00000 n 
+0000005610 00000 n 
+0000005843 00000 n 
+0000006376 00000 n 
+0000006601 00000 n 
+0000007187 00000 n 
+0000007357 00000 n 
+0000007590 00000 n 
+0000008123 00000 n 
+0000008293 00000 n 
+0000008526 00000 n 
+0000009059 00000 n 
+0000009229 00000 n 
+0000009462 00000 n 
+0000009995 00000 n 
+0000010165 00000 n 
+0000010398 00000 n 
+0000010931 00000 n 
+0000011156 00000 n 
+0000011742 00000 n 
+0000011912 00000 n 
+0000012145 00000 n 
+0000012678 00000 n 
+0000012848 00000 n 
+0000013081 00000 n 
+0000013614 00000 n 
+0000013784 00000 n 
+0000014017 00000 n 
+0000014550 00000 n 
+0000014720 00000 n 
+0000014953 00000 n 
+0000015486 00000 n 
+0000015711 00000 n 
+0000016297 00000 n 
+0000016467 00000 n 
+0000016700 00000 n 
+0000017233 00000 n 
+0000017403 00000 n 
+0000017636 00000 n 
+0000018169 00000 n 
+0000018339 00000 n 
+0000018572 00000 n 
+0000019105 00000 n 
+0000019275 00000 n 
+0000019508 00000 n 
+0000020041 00000 n 
+0000020266 00000 n 
+0000020852 00000 n 
+0000021022 00000 n 
+0000021255 00000 n 
+0000021788 00000 n 
+0000021958 00000 n 
+0000022191 00000 n 
+0000022724 00000 n 
+0000022894 00000 n 
+0000023127 00000 n 
+0000023660 00000 n 
+0000023830 00000 n 
+0000024063 00000 n 
+0000024596 00000 n 
+0000024821 00000 n 
+0000025407 00000 n 
+0000025577 00000 n 
+0000025810 00000 n 
+0000026343 00000 n 
+0000026513 00000 n 
+0000026746 00000 n 
+0000027279 00000 n 
+0000027449 00000 n 
+0000027682 00000 n 
+0000028215 00000 n 
+0000028385 00000 n 
+0000028618 00000 n 
+0000029150 00000 n 
+0000029375 00000 n 
+0000029961 00000 n 
+0000030131 00000 n 
+0000030364 00000 n 
+0000030898 00000 n 
+0000031069 00000 n 
+0000031303 00000 n 
+0000031841 00000 n 
+0000032012 00000 n 
+0000032246 00000 n 
+0000032784 00000 n 
+0000032955 00000 n 
+0000033189 00000 n 
+0000033727 00000 n 
+0000033953 00000 n 
+0000034541 00000 n 
+0000034712 00000 n 
+0000034946 00000 n 
+0000035484 00000 n 
+0000035655 00000 n 
+0000035889 00000 n 
+0000036427 00000 n 
+0000036598 00000 n 
+0000036832 00000 n 
+0000037370 00000 n 
+0000037541 00000 n 
+0000037775 00000 n 
+0000038313 00000 n 
+0000038539 00000 n 
+0000039127 00000 n 
+0000039298 00000 n 
+0000039532 00000 n 
+0000040070 00000 n 
+0000040241 00000 n 
+0000040475 00000 n 
+0000041013 00000 n 
+0000041184 00000 n 
+0000041418 00000 n 
+0000041956 00000 n 
+0000042127 00000 n 
+0000042361 00000 n 
+0000042899 00000 n 
+0000043125 00000 n 
+0000043713 00000 n 
+0000043884 00000 n 
+0000044118 00000 n 
+0000044656 00000 n 
+0000044827 00000 n 
+0000045061 00000 n 
+0000045599 00000 n 
+0000045770 00000 n 
+0000046004 00000 n 
+0000046542 00000 n 
+0000046713 00000 n 
+0000046947 00000 n 
+0000047485 00000 n 
+0000047711 00000 n 
+0000048304 00000 n 
+0000048475 00000 n 
+0000048709 00000 n 
+0000049251 00000 n 
+0000049422 00000 n 
+0000049656 00000 n 
+0000050198 00000 n 
+0000050369 00000 n 
+0000050603 00000 n 
+0000051145 00000 n 
+0000051316 00000 n 
+0000051550 00000 n 
+0000052092 00000 n 
+0000052318 00000 n 
+0000052911 00000 n 
+0000053082 00000 n 
+0000053316 00000 n 
+0000053858 00000 n 
+0000054029 00000 n 
+0000054263 00000 n 
+0000054805 00000 n 
+0000054976 00000 n 
+0000055210 00000 n 
+0000055752 00000 n 
+0000055923 00000 n 
+0000056157 00000 n 
+0000056699 00000 n 
+0000056925 00000 n 
+0000057518 00000 n 
+0000057689 00000 n 
+0000057923 00000 n 
+0000058465 00000 n 
+0000058636 00000 n 
+0000058870 00000 n 
+0000059412 00000 n 
+0000059583 00000 n 
+0000059817 00000 n 
+0000060359 00000 n 
+0000060530 00000 n 
+0000060764 00000 n 
+0000061306 00000 n 
+0000061532 00000 n 
+0000062125 00000 n 
+0000062296 00000 n 
+0000062530 00000 n 
+0000063072 00000 n 
+0000063243 00000 n 
+0000063477 00000 n 
+0000064019 00000 n 
+0000064190 00000 n 
+0000064424 00000 n 
+0000064966 00000 n 
+0000065137 00000 n 
+0000065371 00000 n 
+0000065913 00000 n 
+0000066139 00000 n 
+0000066732 00000 n 
+0000066903 00000 n 
+0000067137 00000 n 
+0000067679 00000 n 
+0000067850 00000 n 
+0000068084 00000 n 
+0000068626 00000 n 
+0000068797 00000 n 
+0000069031 00000 n 
+0000069573 00000 n 
+0000069744 00000 n 
+0000069978 00000 n 
+0000070520 00000 n 
+0000070746 00000 n 
+0000071585 00000 n 
+0000071756 00000 n 
+0000071990 00000 n 
+0000072718 00000 n 
+0000072889 00000 n 
+0000073123 00000 n 
+0000073851 00000 n 
+0000074022 00000 n 
+0000074256 00000 n 
+0000074986 00000 n 
+0000075157 00000 n 
+0000075391 00000 n 
+0000076119 00000 n 
+0000076290 00000 n 
+0000076524 00000 n 
+0000077254 00000 n 
+0000077425 00000 n 
+0000077659 00000 n 
+0000078387 00000 n 
+0000078558 00000 n 
+0000078792 00000 n 
+0000079522 00000 n 
+0000079748 00000 n 
+0000080341 00000 n 
+0000080512 00000 n 
+0000080746 00000 n 
+0000081288 00000 n 
+0000081459 00000 n 
+0000081693 00000 n 
+0000082235 00000 n 
+0000082406 00000 n 
+0000082640 00000 n 
+0000083182 00000 n 
+0000083353 00000 n 
+0000083587 00000 n 
+0000084129 00000 n 
+0000084355 00000 n 
+0000085194 00000 n 
+0000085365 00000 n 
+0000085599 00000 n 
+0000086327 00000 n 
+0000086498 00000 n 
+0000086732 00000 n 
+0000087460 00000 n 
+0000087631 00000 n 
+0000087865 00000 n 
+0000088595 00000 n 
+0000088766 00000 n 
+0000089000 00000 n 
+0000089728 00000 n 
+0000089899 00000 n 
+0000090133 00000 n 
+0000090863 00000 n 
+0000091034 00000 n 
+0000091268 00000 n 
+0000091996 00000 n 
+0000092167 00000 n 
+0000092401 00000 n 
+0000093131 00000 n 
+0000093357 00000 n 
+0000093950 00000 n 
+0000094121 00000 n 
+0000094355 00000 n 
+0000094897 00000 n 
+0000095068 00000 n 
+0000095302 00000 n 
+0000095844 00000 n 
+0000096015 00000 n 
+0000096249 00000 n 
+0000096791 00000 n 
+0000096962 00000 n 
+0000097196 00000 n 
+0000097738 00000 n 
+0000097964 00000 n 
+0000098557 00000 n 
+0000098728 00000 n 
+0000098962 00000 n 
+0000099504 00000 n 
+0000099675 00000 n 
+0000099909 00000 n 
+0000100451 00000 n 
+0000100622 00000 n 
+0000100856 00000 n 
+0000101398 00000 n 
+0000101569 00000 n 
+0000101803 00000 n 
+0000102345 00000 n 
+0000102571 00000 n 
+0000103164 00000 n 
+0000103335 00000 n 
+0000103569 00000 n 
+0000104111 00000 n 
+0000104282 00000 n 
+0000104516 00000 n 
+0000105058 00000 n 
+0000105229 00000 n 
+0000105463 00000 n 
+0000106003 00000 n 
+0000106174 00000 n 
+0000106408 00000 n 
+0000106948 00000 n 
+0000107174 00000 n 
+0000107627 00000 n 
+0000107855 00000 n 
+0000108625 00000 n 
+0000108853 00000 n 
+0000109407 00000 n 
+0000109633 00000 n 
+0000109865 00000 n 
+0000110091 00000 n 
+0000110324 00000 n 
+0000110550 00000 n 
+0000110783 00000 n 
+0000111009 00000 n 
+0000111242 00000 n 
+0000111468 00000 n 
+0000111701 00000 n 
+0000111927 00000 n 
+0000112160 00000 n 
+0000112386 00000 n 
+0000112618 00000 n 
+0000112844 00000 n 
+0000113077 00000 n 
+0000113303 00000 n 
+0000113536 00000 n 
+0000113762 00000 n 
+0000113995 00000 n 
+0000114221 00000 n 
+0000114454 00000 n 
+0000114680 00000 n 
+0000114913 00000 n 
+0000115139 00000 n 
+0000115371 00000 n 
+0000115597 00000 n 
+0000115830 00000 n 
+0000116056 00000 n 
+0000116289 00000 n 
+0000116515 00000 n 
+0000116748 00000 n 
+0000116974 00000 n 
+0000117207 00000 n 
+0000117433 00000 n 
+0000117666 00000 n 
+0000117894 00000 n 
+0000118122 00000 n 
+0000123164 00000 n 
+0000123569 00000 n 
+0000128577 00000 n 
+0000129032 00000 n 
+0000134991 00000 n 
+0000135535 00000 n 
+0000140343 00000 n 
+0000140695 00000 n 
+0000142090 00000 n 
+trailer
+<< /Size 378 /Root 377 0 R >>
+startxref
+142159
+%%EOF
