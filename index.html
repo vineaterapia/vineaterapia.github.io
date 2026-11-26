@@ -204,8 +204,9 @@
   .modal-head span{font-size:12px;color:var(--muted);display:block;margin-top:2px}
   .modal-close{width:36px;height:36px;border-radius:10px;background:var(--white);border:1px solid var(--line);display:grid;place-items:center;color:var(--ink);font-size:18px;flex:0 0 36px}
   .modal-close:hover{background:var(--lilac-soft)}
-  .modal-body{flex:1;overflow:auto;padding:20px;background:#F2EDF9;display:flex;align-items:center;justify-content:center;min-height:300px}
-  .modal-body img{max-width:100%;max-height:66vh;border-radius:10px;box-shadow:0 10px 30px rgba(42,33,66,.16);background:#fff}
+  .modal-body{flex:1;overflow:auto;padding:20px;background:#F2EDF9;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:16px;min-height:300px}
+  .modal-body img,.modal-body canvas{max-width:100%;height:auto;border-radius:10px;box-shadow:0 10px 30px rgba(42,33,66,.16);background:#fff;display:block}
+  .pdf-status{font-size:13px;color:var(--muted);font-weight:600;padding:8px 14px;background:var(--white);border:1px solid var(--line);border-radius:99px;box-shadow:var(--shadow)}
   .modal-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 22px;border-top:1px solid var(--line);background:var(--white);flex-wrap:wrap}
   .modal-foot .meta{font-size:12.5px;color:var(--muted)}
   .modal-foot .btns{display:flex;gap:10px;flex-wrap:wrap}
@@ -303,13 +304,13 @@
       <div class="modal-foot">
         <div class="meta" id="modalMeta"></div>
         <div class="btns">
-          <a class="btn-sec" id="modalOpen" href="#" target="_blank" rel="noopener">Abrir PDF completo</a>
-          <a class="btn-pri" id="modalDl" href="#" download>Descargar PDF</a>
+          <button type="button" class="btn-pri" id="modalDl">Descargar PDF</button>
         </div>
       </div>
     </div>
   </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <script src="manifest.js?v=202611261711"></script>
 <script>
 const COLORS={
@@ -584,34 +585,102 @@ function fileCard(f, showFolderTag, allowRecommended){
       <div class="fsize">${fileSize(f.size)}</div>
       <div class="actions">
         <button class="btn-prev" title="Vista previa" aria-label="Vista previa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg></button>
-        <a class="dl" href="${esc(f.path)}" download="${esc(f.name||'recurso.pdf')}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg> Descargar</a>
+        <button type="button" class="dl"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg> Descargar</button>
       </div>
     </div>`;
   card.querySelector(".preview").onclick=()=>openModal(f);
   card.querySelector(".btn-prev").onclick=()=>openModal(f);
+  card.querySelector(".dl").onclick=e=>downloadBlob(f,e.currentTarget);
   return card;
 }
 
-function openModal(f){
-  const folderObj=getFolder(f.folder);
-  document.getElementById("modalTitle").textContent=f.title||f.name;
-  document.getElementById("modalSubtitle").textContent=(folderObj?folderObj.name+" · ":"")+"vineaterapia.com";
-  document.getElementById("modalMeta").textContent=`Formato PDF · ${fileSize(f.size)}`;
-  const body=document.getElementById("modalBody");
-  if(f.thumb){
-    body.innerHTML=`<img src="${esc(f.thumb)}" alt="${esc(f.title)}" />`;
-  } else {
-    body.innerHTML=`<p style="color:var(--muted)">Vista previa no disponible. Puedes abrir el PDF completo.</p>`;
-  }
-  const openBtn=document.getElementById("modalOpen");
-  openBtn.href=f.path;
-  const dlBtn=document.getElementById("modalDl");
-  dlBtn.href=f.path;
-  dlBtn.setAttribute("download",f.name||"recurso.pdf");
-  document.getElementById("previewModal").classList.add("open");
+if(window.pdfjsLib){pdfjsLib.GlobalWorkerOptions.workerSrc="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";}
+
+let modalToken=0, currentModalFile=null, currentModalBlob=null;
+
+function triggerBlobDownload(blob,filename){
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement("a");
+  a.href=url;
+  a.download=filename||"recurso.pdf";
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),4000);
 }
 
-function closeModal(){document.getElementById("previewModal").classList.remove("open")}
+async function downloadBlob(f,btn){
+  const orig=btn?btn.innerHTML:"";
+  if(btn){btn.disabled=true;btn.textContent="Descargandoâ¦";}
+  try{
+    if(currentModalFile===f&&currentModalBlob){
+      triggerBlobDownload(currentModalBlob,f.name||"recurso.pdf");
+    }else{
+      const res=await fetch(f.path);
+      if(!res.ok)throw new Error("HTTP "+res.status);
+      const blob=await res.blob();
+      triggerBlobDownload(blob,f.name||"recurso.pdf");
+    }
+  }catch(e){
+    alert("No se pudo descargar el archivo. Intenta nuevamente.");
+  }finally{
+    if(btn){btn.disabled=false;btn.innerHTML=orig;}
+  }
+}
+
+async function openModal(f){
+  const token=++modalToken;
+  currentModalFile=f;
+  currentModalBlob=null;
+  const folderObj=getFolder(f.folder);
+  document.getElementById("modalTitle").textContent=f.title||f.name;
+  document.getElementById("modalSubtitle").textContent=(folderObj?folderObj.name+" Â· ":"")+"vineaterapia.com";
+  document.getElementById("modalMeta").textContent=`Formato PDF Â· ${fileSize(f.size)}`;
+  const body=document.getElementById("modalBody");
+  body.scrollTop=0;
+  body.innerHTML='<div class="pdf-status">Cargando documento completoâ¦</div>';
+  const dlBtn=document.getElementById("modalDl");
+  dlBtn.onclick=()=>downloadBlob(f,dlBtn);
+  document.getElementById("previewModal").classList.add("open");
+
+  try{
+    const res=await fetch(f.path);
+    if(!res.ok)throw new Error("HTTP "+res.status);
+    const buf=await res.arrayBuffer();
+    if(token!==modalToken)return;
+    currentModalBlob=new Blob([buf],{type:"application/pdf"});
+    if(!window.pdfjsLib)throw new Error("PDF.js no disponible");
+    const pdf=await pdfjsLib.getDocument({data:buf}).promise;
+    if(token!==modalToken)return;
+    document.getElementById("modalMeta").textContent=`${pdf.numPages} pÃ¡gina${pdf.numPages===1?"":"s"} Â· ${fileSize(f.size)}`;
+    body.innerHTML="";
+    const maxW=Math.min(820,(body.clientWidth||760)-40);
+    const dpr=Math.min(window.devicePixelRatio||1,2);
+    for(let i=1;i<=pdf.numPages;i++){
+      if(token!==modalToken)return;
+      const page=await pdf.getPage(i);
+      const vp1=page.getViewport({scale:1});
+      const scale=maxW/vp1.width;
+      const vp=page.getViewport({scale:scale*dpr});
+      const canvas=document.createElement("canvas");
+      canvas.width=vp.width;
+      canvas.height=vp.height;
+      canvas.style.width=Math.round(vp1.width*scale)+"px";
+      canvas.style.height="auto";
+      body.appendChild(canvas);
+      await page.render({canvasContext:canvas.getContext("2d"),viewport:vp}).promise;
+    }
+  }catch(e){
+    if(token!==modalToken)return;
+    if(f.thumb){
+      body.innerHTML=`<img src="${esc(f.thumb)}" alt="${esc(f.title)}" />`;
+    }else{
+      body.innerHTML=`<p style="color:var(--muted)">Vista previa no disponible. Usa el botÃ³n Descargar PDF.</p>`;
+    }
+  }
+}
+
+function closeModal(){modalToken++;document.getElementById("previewModal").classList.remove("open")}
 document.getElementById("modalClose").onclick=closeModal;
 document.getElementById("previewModal").onclick=e=>{if(e.target.id==="previewModal")closeModal()};
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
