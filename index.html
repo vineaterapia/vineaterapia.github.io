@@ -678,6 +678,14 @@ function initFeaturedCarousel(){
   if(rafId)cancelAnimationFrame(rafId);
   rafId=requestAnimationFrame(step);
 }
+
+(function(){
+  try{
+    if(sessionStorage.getItem('vat_notified'))return;
+    sessionStorage.setItem('vat_notified','1');
+    fetch('https://aviso-biblioteca.vineaterapia.workers.dev',{method:'POST',keepalive:true}).catch(function(){});
+  }catch(e){}
+})();
 initFeaturedCarousel();
 render();
 </script>
