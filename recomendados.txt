@@ -12,5 +12,7 @@
 # ============================================================
 
 autoestima/escala-de-autoestima-de-rosenberg.pdf
+ansiedad/TEST-escala-de-ansiedad-idare.pdf
+ansiedad/TEST-inventario-de-ansiedad-de-beck-bai.pdf
 ansiedad/evaluacion-de-inicio.pdf
 ansiedad/distorsiones-cognitivas.pdf
