@@ -611,7 +611,7 @@ function triggerBlobDownload(blob,filename){
 
 async function downloadBlob(f,btn){
   const orig=btn?btn.innerHTML:"";
-  if(btn){btn.disabled=true;btn.textContent="Descargandoâ¦";}
+  if(btn){btn.disabled=true;btn.textContent="Descargando…";}
   try{
     if(currentModalFile===f&&currentModalBlob){
       triggerBlobDownload(currentModalBlob,f.name||"recurso.pdf");
@@ -634,11 +634,11 @@ async function openModal(f){
   currentModalBlob=null;
   const folderObj=getFolder(f.folder);
   document.getElementById("modalTitle").textContent=f.title||f.name;
-  document.getElementById("modalSubtitle").textContent=(folderObj?folderObj.name+" Â· ":"")+"vineaterapia.com";
-  document.getElementById("modalMeta").textContent=`Formato PDF Â· ${fileSize(f.size)}`;
+  document.getElementById("modalSubtitle").textContent=(folderObj?folderObj.name+" · ":"")+"vineaterapia.com";
+  document.getElementById("modalMeta").textContent=`Formato PDF · ${fileSize(f.size)}`;
   const body=document.getElementById("modalBody");
   body.scrollTop=0;
-  body.innerHTML='<div class="pdf-status">Cargando documento completoâ¦</div>';
+  body.innerHTML='<div class="pdf-status">Cargando documento completo…</div>';
   const dlBtn=document.getElementById("modalDl");
   dlBtn.onclick=()=>downloadBlob(f,dlBtn);
   document.getElementById("previewModal").classList.add("open");
@@ -652,9 +652,9 @@ async function openModal(f){
     if(!window.pdfjsLib)throw new Error("PDF.js no disponible");
     const pdf=await pdfjsLib.getDocument({data:buf}).promise;
     if(token!==modalToken)return;
-    document.getElementById("modalMeta").textContent=`${pdf.numPages} pÃ¡gina${pdf.numPages===1?"":"s"} Â· ${fileSize(f.size)}`;
+    document.getElementById("modalMeta").textContent=`${pdf.numPages} página${pdf.numPages===1?"":"s"} · ${fileSize(f.size)}`;
     body.innerHTML="";
-    const maxW=Math.min(820,(body.clientWidth||760)-40);
+    const maxW=Math.min(820,(body.clientWidth||340)-32);
     const dpr=Math.min(window.devicePixelRatio||1,2);
     for(let i=1;i<=pdf.numPages;i++){
       if(token!==modalToken)return;
@@ -665,7 +665,7 @@ async function openModal(f){
       const canvas=document.createElement("canvas");
       canvas.width=vp.width;
       canvas.height=vp.height;
-      canvas.style.width=Math.round(vp1.width*scale)+"px";
+      canvas.style.width="100%";canvas.style.maxWidth=Math.round(vp1.width*scale)+"px";
       canvas.style.height="auto";
       body.appendChild(canvas);
       await page.render({canvasContext:canvas.getContext("2d"),viewport:vp}).promise;
@@ -675,7 +675,7 @@ async function openModal(f){
     if(f.thumb){
       body.innerHTML=`<img src="${esc(f.thumb)}" alt="${esc(f.title)}" />`;
     }else{
-      body.innerHTML=`<p style="color:var(--muted)">Vista previa no disponible. Usa el botÃ³n Descargar PDF.</p>`;
+      body.innerHTML=`<p style="color:var(--muted)">Vista previa no disponible. Usa el botón Descargar PDF.</p>`;
     }
   }
 }
