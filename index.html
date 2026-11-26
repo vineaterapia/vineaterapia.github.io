@@ -218,8 +218,24 @@
   .modal-foot .btns{display:flex;gap:10px;flex-wrap:wrap}
   .btn-sec{display:inline-flex;align-items:center;gap:7px;padding:9px 15px;border-radius:10px;background:var(--lilac-soft);color:var(--lilac);font-weight:600;font-size:13.5px;transition:.14s}
   .btn-sec:hover{background:var(--lilac-mid)}
-  .btn-pri{display:inline-flex;align-items:center;gap:7px;padding:9px 16px;border-radius:10px;background:var(--lilac);color:#fff;font-weight:600;font-size:13.5px;transition:.14s}
-  .btn-pri:hover{background:var(--lilac-dark)}
+  @keyframes dlPulse{
+    0%,100%{transform:translateY(0) scale(1);box-shadow:0 6px 18px rgba(109,76,187,.32),0 0 0 0 rgba(109,76,187,.45)}
+    50%{transform:translateY(-2px) scale(1.04);box-shadow:0 12px 26px rgba(109,76,187,.44),0 0 0 8px rgba(109,76,187,0)}
+  }
+  @keyframes dlShine{
+    0%{transform:translateX(-140%) skewX(-20deg)}
+    45%,100%{transform:translateX(240%) skewX(-20deg)}
+  }
+  @keyframes dlDrop{
+    0%,100%{transform:translateY(0)}
+    50%{transform:translateY(2.5px)}
+  }
+  .btn-pri{position:relative;overflow:hidden;display:inline-flex;align-items:center;gap:8px;padding:10px 20px;border-radius:11px;background:linear-gradient(135deg,#7C5AC8,#56389E);color:#fff;font-weight:700;font-size:14px;transition:.16s;animation:dlPulse 1.8s ease-in-out infinite}
+  .btn-pri::after{content:"";position:absolute;top:0;left:0;width:45%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.35),transparent);animation:dlShine 2.4s ease-in-out infinite}
+  .btn-pri .dl-ic{width:17px;height:17px;flex:0 0 17px}
+  .btn-pri .dl-arrow{animation:dlDrop 1.2s ease-in-out infinite}
+  .btn-pri:hover{background:linear-gradient(135deg,#6D4CBB,#4A2F8B);transform:translateY(-2px) scale(1.03)}
+  @media(prefers-reduced-motion:reduce){.btn-pri,.btn-pri::after,.btn-pri .dl-arrow{animation:none}}
 
   /* Mobile */
   .menu-btn{display:none}
@@ -310,7 +326,7 @@
       <div class="modal-foot">
         <div class="meta" id="modalMeta"></div>
         <div class="btns">
-          <button type="button" class="btn-pri" id="modalDl">Descargar</button>
+          <button type="button" class="btn-pri" id="modalDl"><svg class="dl-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path class="dl-arrow" d="M7 10l5 5 5-5"/><path class="dl-arrow" d="M12 15V3"/></svg><span>Descargar</span></button>
         </div>
       </div>
     </div>
@@ -760,6 +776,50 @@ function initFeaturedCarousel(){
     sessionStorage.setItem('vat_notified','1');
     fetch('https://aviso-biblioteca.vineaterapia.workers.dev',{method:'POST',keepalive:true}).catch(function(){});
   }catch(e){}
+})();
+(function initTypingPlaceholder(){
+  const input=document.getElementById("searchInput");
+  if(!input)return;
+  const base="Busca por diagnóstico, tipo de terapia, recurso específico, protocolo o herramienta";
+  const phrases=[
+    base,
+    "Ansiedad y regulación emocional…",
+    "Escala de Autoestima de Rosenberg…",
+    "Registro de pensamientos TCC…",
+    "Material infanto-juvenil…"
+  ];
+  let pIdx=0, cIdx=0, deleting=false, timer=null;
+  function loop(){
+    const canAnimate=document.body.classList.contains("is-home")&&!input.value&&document.activeElement!==input;
+    if(!canAnimate){
+      if(document.body.classList.contains("is-home")&&input.placeholder!==base)input.placeholder=base;
+      timer=setTimeout(loop,450);
+      return;
+    }
+    const target=phrases[pIdx];
+    if(!deleting){
+      cIdx++;
+      input.placeholder=target.slice(0,cIdx);
+      if(cIdx>=target.length){
+        deleting=true;
+        timer=setTimeout(loop,pIdx===0?2400:1500);
+        return;
+      }
+      timer=setTimeout(loop,32);
+    }else{
+      cIdx--;
+      input.placeholder=target.slice(0,Math.max(0,cIdx));
+      if(cIdx<=0){
+        deleting=false;
+        pIdx=(pIdx+1)%phrases.length;
+        timer=setTimeout(loop,350);
+        return;
+      }
+      timer=setTimeout(loop,16);
+    }
+  }
+  input.addEventListener("focus",()=>{input.placeholder=base});
+  if(!window.matchMedia("(prefers-reduced-motion: reduce)").matches)loop();
 })();
 initFeaturedCarousel();
 render();
