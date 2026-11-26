@@ -11,8 +11,45 @@
 # Después de guardar, ejecuta actualizar-catalogo.command o publicar.command.
 # ============================================================
 
+# Autoestima
 autoestima/escala-de-autoestima-de-rosenberg.pdf
+
+# Ansiedad
 ansiedad/TEST-escala-de-ansiedad-idare.pdf
 ansiedad/TEST-inventario-de-ansiedad-de-beck-bai.pdf
 ansiedad/evaluacion-de-inicio.pdf
 ansiedad/distorsiones-cognitivas.pdf
+
+# Técnicas DBT
+h-dbt/tecnicas-dbt-accepts.pdf
+h-dbt/practica-accion-opuesta.pdf
+
+# Técnicas TCC
+h-tcc/estructura-sesion-tcc.pdf
+h-tcc/guia-plan-de-tratamiento-en-terapia.pdf
+h-tcc/analisis-costo-beneficio-de-un-pensamiento.pdf
+
+# Mindfulness
+h-mind/cinco-sentidos.pdf
+h-mind/registro-semanal-mindfulness.pdf
+
+# Técnicas ACT
+h-act/tecnicas-act-accion-comprometida-2.pdf
+h-act/tecnicas-act-momento-presente.pdf
+
+# Neurociencias
+h-neuro/ventana-de-tolerancia.pdf
+h-neuro/teoria-polivagal.pdf
+
+# Psicología positiva
+h-pos/mis-fortalezas.pdf
+h-pos/vida-con-sentido.pdf
+
+# Terapia de esquemas
+h-esq/18-esquemas-maladaptativos.pdf
+h-esq/modos-de-actuar.pdf
+
+# Terapia sistémica
+h-sist/mapa-relacional.pdf
+h-sist/patrones-comunicacion-en-pareja.pdf
+h-sist/patrones-relacionales-disfuncionales.pdf
